@@ -5,7 +5,7 @@
 
 # Fitxers a assignar
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Fitxer      | Cadenes a revisar | Persona  |
+| ----------- | ----------- |----------- |
+| part-1.po   | 808         | X
+
