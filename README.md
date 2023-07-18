@@ -7,5 +7,10 @@
 
 | Fitxer      | Cadenes a revisar | Persona  |
 | ----------- | ----------- |----------- |
-| part-1.po   | 808         | X
+| [part-1.po](./part-1.po)   | 808         | 
+| [part-2.po]   | 392         | 
+| [part-3.po]   | 439         | 
+| [part-4.po]   | 372         | 
+| [part-5.po]   | 605         | 
+| [part-6.po]   | 204         | Jordi Mas
 
