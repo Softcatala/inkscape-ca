@@ -1,8 +1,16 @@
+def _add_po_header(fh_out):
+    with open("header.po") as fh_in:
+        for line in fh_in.readlines():    
+            fh_out.write(line)    
 
 def _get_file_handle(file_num):
     fn = f"part-{file_num}.po"
     fh_out = open(fn, "w")                
     print(f"writting '{fn}'")
+    
+    if file_num > 1:
+        _add_po_header(fh_out)
+            
     return fh_out
 
 def main():
@@ -21,4 +29,5 @@ def main():
             fh_out.write(line)
             lines += 1
 if __name__ == "__main__":
+    print("Splits a PO in multiple parts")
     main()
