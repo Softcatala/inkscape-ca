@@ -14,3 +14,18 @@
 | [part-5.po](https://raw.githubusercontent.com/jordimas/inkscape-ca/main/part-5.po)   | 605         | 
 | [part-6.po](https://raw.githubusercontent.com/jordimas/inkscape-ca/main/part-6.po)   | 204         | Jordi Mas
 
+# Scripts
+
+Les actualitzacions de les traduccions de l'Inkscape acostumen a ser grans i es convenient poder dividir el fitxer PO en diverses parts per poder repartir la feina.
+
+Els fitxers PO no es poden tallar arbritariament, per dos motius:
+
+- La part tallada ha d'incloure msgid i msgstr i no pot quedar una part a un fitxer i un a un altre, perquè llavors el PO esdevé invàlid
+- Les parts tallades han de començar amb un capçalera que cal afegir si no són invàlids
+
+Hi ha dues eines molt senzilles:
+* split.py - que divideix el fitxer en X parts per poder-les distribuir-les considerant els dos problemes anteriors
+* join.py - que recrea el fitxer final ajuntant tots els fitxers dividits
+
+
+
