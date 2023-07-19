@@ -1,0 +1,3715 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: inkscape\n"
+"Report-Msgid-Bugs-To: inkscape-translator@lists.inkscape.org\n"
+"POT-Creation-Date: 2023-06-08 13:53+0200\n"
+"PO-Revision-Date: 2021-06-10 22:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: Catalan <gnome@llistes.softcatala.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+
+
+
+#: ../share/extensions/output_scour.inx:101
+msgid "Optimized SVG Output is provided by"
+msgstr "Sortida SVG optimitzat proveïda per"
+
+#: ../share/extensions/output_scour.inx:102
+msgid "Scour - An SVG Scrubber"
+msgstr "Scour - Un SVG Scrubber"
+
+#: ../share/extensions/output_scour.inx:104
+msgid "For details please refer to"
+msgstr "Per a més detalls dirigiu-vos a"
+
+#: ../share/extensions/output_scour.inx:105
+msgid "https://github.com/scour-project/scour"
+msgstr "https://github.com/scour-project/scour"
+
+#: ../share/extensions/output_scour.inx:110
+msgid "This version of the extension is designed for"
+msgstr "Aquesta versió de l'extensió està dissenyada per"
+
+#: ../share/extensions/output_scour.inx:111
+msgid "Scour 0.31+"
+msgstr "Scour 0,31+"
+
+#: ../share/extensions/output_scour.inx:115
+msgid "Show warnings for older versions of Scour"
+msgstr "Mostra avisos per a versions antigues de Scour"
+
+#: ../share/extensions/output_scour.inx:122
+msgid "Optimized SVG (*.svg)"
+msgstr "SVG optimitzat (*.svg)"
+
+#: ../share/extensions/param_curves.inx:3
+msgid "Parametric Curves"
+msgstr "Corbes paramètriques"
+
+#: ../share/extensions/param_curves.inx:6
+msgid "Range and Sampling"
+msgstr "Rang de valors i mostratge"
+
+#: ../share/extensions/param_curves.inx:7
+msgid "Start t-value:"
+msgstr "Valor t inicial:"
+
+#: ../share/extensions/param_curves.inx:8
+msgid "End t-value:"
+msgstr "Valor t final:"
+
+#: ../share/extensions/param_curves.inx:9
+msgid "Multiply t-range by 2*pi"
+msgstr "Multiplica el rang t per 2*pi"
+
+#: ../share/extensions/param_curves.inx:10
+msgid "X-value of rectangle's left:"
+msgstr "Valor X de l'esquerra del rectangle:"
+
+#: ../share/extensions/param_curves.inx:11
+msgid "X-value of rectangle's right:"
+msgstr "Valor X de la dreta del rectangle:"
+
+#: ../share/extensions/param_curves.inx:12
+msgid "Y-value of rectangle's bottom:"
+msgstr "Valor Y de la part inferior del rectangle:"
+
+#: ../share/extensions/param_curves.inx:13
+msgid "Y-value of rectangle's top:"
+msgstr "Valor Y de la part superior del rectangle:"
+
+#: ../share/extensions/param_curves.inx:14
+msgid "Samples:"
+msgstr "Mostres:"
+
+#: ../share/extensions/param_curves.inx:19
+msgid ""
+"Select a rectangle before calling the extension, it will determine X and Y scales.\n"
+"First derivatives are always determined numerically."
+msgstr ""
+"Seleccioneu un rectangle abans d'utilitzar aquesta extensió, així es determinarà l'escalat X i Y.\n"
+"Les derivades primeres sempre es determinaran numèricament."
+
+#: ../share/extensions/param_curves.inx:43
+#, fuzzy
+msgid ""
+"This extension creates a parametric plot of a vector valued function (in "
+"variable t)."
+msgstr ""
+"Aquesta extensió crea un gràfic paramètric d'una funció vectorial valorada "
+"(en variable t)."
+
+#: ../share/extensions/param_curves.inx:48
+msgid "X-Function:"
+msgstr "Funció X:"
+
+#: ../share/extensions/param_curves.inx:49
+msgid "Y-Function:"
+msgstr "Funció Y:"
+
+#: ../share/extensions/path_envelope.inx:3
+msgid "Envelope Deformation"
+msgstr "Deformació per embolcall"
+
+#: ../share/extensions/path_mesh_m2p.inx:3
+#, fuzzy
+msgid "Mesh Gradient to Path"
+msgstr "Degradat de la malla al camí"
+
+#: ../share/extensions/path_mesh_m2p.inx:12
+msgid "Patches"
+msgstr "Pedaços"
+
+#: ../share/extensions/path_mesh_m2p.inx:13
+#: ../share/extensions/polyhedron_3d.inx:77
+msgid "Faces"
+msgstr "Cares"
+
+#: ../share/extensions/path_mesh_m2p.inx:18
+msgid "Mesh to path"
+msgstr "Malla al camí"
+
+#: ../share/extensions/path_mesh_m2p.inx:19
+msgid "Convert geometry of selected meshgradient to path data"
+msgstr ""
+"Converteix la geometria del meshgradient seleccionat a les dades del camí"
+
+#: ../share/extensions/path_mesh_m2p.inx:28
+#: ../share/extensions/path_mesh_p2m.inx:23
+#, fuzzy
+msgid "Mesh Gradient"
+msgstr "Degradat de la malla"
+
+#: ../share/extensions/path_mesh_p2m.inx:3
+#, fuzzy
+msgid "Path to Mesh Gradient"
+msgstr "Camí al degradat de la malla"
+
+#: ../share/extensions/path_mesh_p2m.inx:9
+msgid "Convert each selected path to 1x1 mesh"
+msgstr "Converteix cada camí seleccionat a una malla 1x1"
+
+#: ../share/extensions/path_mesh_p2m.inx:13
+msgid "Path to mesh"
+msgstr "Camí a malla"
+
+#: ../share/extensions/path_mesh_p2m.inx:14
+#, fuzzy
+msgid "Convert geometry of selected path (4 corners) to a Mesh Gradient"
+msgstr ""
+"Converteix la geometria del camí seleccionat (4 cantonades) a un degradat de"
+" malla"
+
+#: ../share/extensions/path_number_nodes.inx:3
+msgid "Number Nodes"
+msgstr "Numera els nodes"
+
+#: ../share/extensions/path_number_nodes.inx:8
+#, fuzzy
+msgid "Size of the node number labels (20px, 12pt...)"
+msgstr "Mida de les etiquetes dels números de node (20px, 12pt...)"
+
+#: ../share/extensions/path_number_nodes.inx:10
+msgid "Dot size:"
+msgstr "Mida del punt:"
+
+#: ../share/extensions/path_number_nodes.inx:10
+#, fuzzy
+msgid "Diameter of the dots placed at path nodes (10px, 2mm...)"
+msgstr "Diàmetre dels punts situats als nodes del camí (10px, 2mm...)"
+
+#: ../share/extensions/path_number_nodes.inx:12
+msgid "Starting dot number:"
+msgstr "Nombre de punt d'inicial:"
+
+#: ../share/extensions/path_number_nodes.inx:12
+#, fuzzy
+msgid "First number in the sequence, assigned to the first node of the path."
+msgstr "Primer nombre de la seqüència, assignat al primer node del camí."
+
+#: ../share/extensions/path_number_nodes.inx:14
+msgid "Step:"
+msgstr "Pas:"
+
+#: ../share/extensions/path_number_nodes.inx:14
+#, fuzzy
+msgid "Numbering increment between two nodes"
+msgstr "Increment de numeració entre dos nodes"
+
+#: ../share/extensions/path_number_nodes.inx:17
+#, fuzzy
+msgid ""
+"This extension replaces the paths in the selection with numbered dots in "
+"place of their nodes."
+msgstr ""
+"Aquesta extensió reemplaça els camins de la selecció amb punts numerats en "
+"lloc dels seus nodes."
+
+#: ../share/extensions/path_to_absolute.inx:3
+msgid "To Absolute"
+msgstr "Absolut"
+
+#: ../share/extensions/patternalongpath.inx:3
+msgid "Pattern along Path"
+msgstr "Patró seguint un camí"
+
+#: ../share/extensions/patternalongpath.inx:8
+msgid "Copies of the pattern:"
+msgstr "Còpies del patró:"
+
+#: ../share/extensions/patternalongpath.inx:15
+msgid "Deformation type:"
+msgstr "Tipus de deformació:"
+
+#: ../share/extensions/patternalongpath.inx:15
+#, fuzzy
+msgid ""
+"There are two different deformation modes. \"Snake\" means that the pattern "
+"will rotate along with the path direction. With \"Ribbon\", the pattern will"
+" stay upright, so the result will look like a printed ribbon."
+msgstr ""
+"Hi ha dos modes de deformació diferents. “Snake” significa que el patró "
+"girarà juntament amb la direcció del camí. Amb \"Ribbon\", el patró es "
+"mantindrà en posició vertical, de manera que el resultat es veurà com una "
+"cinta impresa."
+
+#: ../share/extensions/patternalongpath.inx:17
+msgid "Ribbon"
+msgstr "Cinta"
+
+#: ../share/extensions/patternalongpath.inx:21
+msgid "Tangential offset:"
+msgstr "Desplaçament tangencial:"
+
+#: ../share/extensions/patternalongpath.inx:22
+msgid "Pattern is vertical"
+msgstr "El patró és vertical"
+
+#: ../share/extensions/patternalongpath.inx:22
+#, fuzzy
+msgid ""
+"The option \"Pattern is vertical\" rotates the pattern by 90 degrees before "
+"applying it to the path."
+msgstr ""
+"L'opció «El patró és vertical» gira el patró 90 graus abans d'aplicar-lo al "
+"camí."
+
+#: ../share/extensions/patternalongpath.inx:23
+msgid "Duplicate the pattern before deformation"
+msgstr "Duplica el patró abans de la deformació"
+
+#: ../share/extensions/patternalongpath.inx:26
+#, fuzzy
+msgid ""
+"This extension bends a pattern along the curvature of selected path objects."
+msgstr ""
+"Aquesta extensió corba un patró al llarg de la curvatura dels objectes del "
+"camí seleccionats."
+
+#: ../share/extensions/patternalongpath.inx:27
+#, fuzzy
+msgid ""
+"There must only be a single pattern object. The pattern object must be the "
+"topmost object in the selection. For the pattern, groups of paths, shapes or"
+" clones are allowed. Text must be converted to path before using it as a "
+"pattern."
+msgstr ""
+"Només ha d'haver-hi un únic objecte de patró. L'objecte patró ha de ser "
+"l'objecte superior de la selecció. Per al patró, es permeten grups de "
+"camins, formes o clons. El text s'ha de convertir en camí abans d'utilitzar-"
+"lo com a patró."
+
+#: ../share/extensions/patternalongpath.inx:28
+#, fuzzy
+msgid ""
+"The pattern can be bent along multiple paths at once, the only condition is "
+"that these must be path objects, no other object types are allowed."
+msgstr ""
+"El patró es pot doblegar al llarg de múltiples camins alhora, l'única "
+"condició és que aquests siguin objectes de camí, no es permeten altres tipus"
+" d'objectes."
+
+#: ../share/extensions/patternalongpath.inx:30
+#, fuzzy
+msgid ""
+"If your paths have sharp bends that the pattern is supposed to follow, the "
+"result may not look as you expected. This is because the extension cannot "
+"add any new nodes to your pattern objects. To avoid this, either add more "
+"nodes to your pattern objects, or convert all segments to curves beforehand."
+msgstr ""
+"Si els vostres camins tenen corbes agudes que se suposa que seguirà el "
+"patró, el resultat pot no semblar com esperàveu. Això és perquè l'extensió "
+"no pot afegir cap node nou als vostres objectes de patró. Per evitar-ho, "
+"afegiu més nodes als vostres objectes de patró, o convertiu tots els "
+"segments a corbes per endavant."
+
+# File: ../share/extensions/pdflatex.inx, line: 3
+#: ../share/extensions/pdflatex.inx:3
+#, fuzzy
+msgid "Formula (pdflatex)"
+msgstr "Fórmula (pdflatex)"
+
+#: ../share/extensions/pdflatex.inx:8
+#, fuzzy
+msgid "Basic settings"
+msgstr "Paràmetres bàsics"
+
+#: ../share/extensions/pdflatex.inx:9
+msgid "LaTeX input:"
+msgstr "Entrada LaTeX:"
+
+#: ../share/extensions/pdflatex.inx:10
+#, fuzzy
+msgid "Font size (pt)"
+msgstr "Mida del tipus de lletra (pt)"
+
+#: ../share/extensions/pdflatex.inx:12
+#, fuzzy
+msgid "Advanced settings"
+msgstr "Configuració avançada"
+
+#: ../share/extensions/pdflatex.inx:17
+#, fuzzy
+msgid "Use standalone document class"
+msgstr "Usa una classe de document independent"
+
+#: ../share/extensions/pdflatex.inx:17
+#, fuzzy
+msgid ""
+"Without the standalone document class, font sizes other than 10pt are "
+"achieved by scaling the resulting PDF output (internally, the document class"
+" 'minimal' is used). More correct spacing for all font sizes can be achieved"
+" by using 'standalone'. However, the required packages might not be "
+"available on all systems."
+msgstr ""
+"Sense la classe de document independent, les mides de tipus de lletra "
+"diferents de 10 pt s'aconsegueixen escalant la sortida de PDF resultant "
+"(internament, s'utilitza la classe de document 'minimal'). Es pot aconseguir"
+" un espaiat més correcte per a totes les mides de tipus de lletra mitjançant"
+" l'ús de «standalone». No obstant això, és possible que els paquets "
+"requerits no estiguin disponibles en tots els sistemes."
+
+#: ../share/extensions/pdflatex.inx:19
+#, fuzzy
+msgid "Custom preamble code"
+msgstr "Codi de preàmbul personalitzat"
+
+#: ../share/extensions/perfectboundcover.inx:3
+msgid "Perfect-Bound Cover Template"
+msgstr "Plantilla de tapes d'enquadernació"
+
+#: ../share/extensions/perfectboundcover.inx:5
+msgid "Book Properties"
+msgstr "Propietats del llibre"
+
+#: ../share/extensions/perfectboundcover.inx:6
+msgid "Book Width (inches):"
+msgstr "Amplada del llibre (polzades):"
+
+#: ../share/extensions/perfectboundcover.inx:7
+msgid "Book Height (inches):"
+msgstr "Alçada del llibre (polzades):"
+
+#: ../share/extensions/perfectboundcover.inx:8
+msgid "Number of Pages:"
+msgstr "Nombre de pàgines:"
+
+#: ../share/extensions/perfectboundcover.inx:9
+msgid "Remove existing guides"
+msgstr "Suprimeix les guies existents"
+
+#: ../share/extensions/perfectboundcover.inx:10
+msgid "Interior Pages"
+msgstr "Pàgines interiors"
+
+#: ../share/extensions/perfectboundcover.inx:11
+msgid "Paper Thickness Measurement:"
+msgstr "Mesura del gruix del paper:"
+
+#: ../share/extensions/perfectboundcover.inx:12
+#: ../share/extensions/perfectboundcover.inx:21
+msgid "Pages Per Inch (PPI)"
+msgstr "Pàgines per polzada (PPI)"
+
+#: ../share/extensions/perfectboundcover.inx:13
+#: ../share/extensions/perfectboundcover.inx:22
+msgid "Caliper (inches)"
+msgstr "Peu de rei (polzades)"
+
+#: ../share/extensions/perfectboundcover.inx:14
+#: ../share/extensions/perfectboundcover.inx:23
+msgid "Points"
+msgstr "Punts"
+
+#: ../share/extensions/perfectboundcover.inx:15
+#: ../share/extensions/perfectboundcover.inx:24
+msgid "Bond Weight #"
+msgstr "Pes bond #"
+
+#: ../share/extensions/perfectboundcover.inx:16
+#: ../share/extensions/perfectboundcover.inx:25
+msgid "Specify Width"
+msgstr "Especifica l'amplada"
+
+#: ../share/extensions/perfectboundcover.inx:18
+#: ../share/extensions/perfectboundcover.inx:27
+msgid "Value:"
+msgstr "Valor:"
+
+#: ../share/extensions/perfectboundcover.inx:19
+msgid "Cover"
+msgstr "Portada"
+
+#: ../share/extensions/perfectboundcover.inx:20
+msgid "Cover Thickness Measurement:"
+msgstr "Mesura del gruix de la portada:"
+
+#: ../share/extensions/perfectboundcover.inx:28
+msgid "Bleed (in):"
+msgstr "Sagnat (p):"
+
+#: ../share/extensions/perfectboundcover.inx:29
+msgid "Note: Bond Weight # calculations are a best-guess estimate."
+msgstr "Nota: Pes bond # els càlculs del pes del paper són una estimació."
+
+#: ../share/extensions/pixelsnap.inx:3
+msgid "PixelSnap"
+msgstr "Ajustament a píxel"
+
+# File: ../share/extensions/pixelsnap.inx, line: 6
+#: ../share/extensions/pixelsnap.inx:5
+msgid ""
+"Snap selected paths, images, and rectangles to pixel boundaries. Strokes "
+"with a non-zero odd width are snapped to midpoints, so they align correctly"
+msgstr ""
+"Ajusta els camins, les imatges i els rectangles seleccionats als límits dels"
+" píxels. Els traços amb una amplada estranya diferent de zero s'ajustaran "
+"als punts mitjans, de manera que s'alineen correctament"
+
+# File: ../share/extensions/pixelsnap.inx, line: 8
+#: ../share/extensions/pixelsnap.inx:7
+msgid ""
+"Snap unselected ancestors' translations (groups, layers, document height) "
+"first"
+msgstr ""
+"Ajusta primer els antecedents no seleccionats (grups, capes, alçada del "
+"document)"
+
+# File: ../share/extensions/pixelsnap.inx, line: 9
+#: ../share/extensions/pixelsnap.inx:8
+msgid ""
+"Calculate offset relative to unselected ancestors' transforms (includes "
+"document height offset)"
+msgstr ""
+"Calcula el desplaçament relatiu a les transformades dels antecedents no "
+"seleccionats (inclou el desplaçament de l'alçada del document)"
+
+# File: ../share/extensions/pixelsnap.inx, line: 16
+#: ../share/extensions/pixelsnap.inx:10
+msgid "Maximum slope to consider straight (%)"
+msgstr "Pendent màxim a considerar recte (%)"
+
+#: ../share/extensions/pixelsnap.inx:11
+#, fuzzy
+msgid "Origin of the coordinate system:"
+msgstr "Origen del sistema de coordenades:"
+
+#: ../share/extensions/pixelsnap.inx:12
+#, fuzzy
+msgid "Top left corner"
+msgstr "Cantonada superior esquerra"
+
+#: ../share/extensions/pixelsnap.inx:13
+#, fuzzy
+msgid "Bottom left corner"
+msgstr "Cantonada inferior esquerra"
+
+#: ../share/extensions/plotter.inx:3
+msgid "Plot"
+msgstr "Traça"
+
+#: ../share/extensions/plotter.inx:7
+msgid ""
+"Please make sure that all objects you want to plot are converted to paths."
+msgstr ""
+"Assegureu-vos que tots els objectes que voleu traçar estiguin convertits en "
+"camins."
+
+#: ../share/extensions/plotter.inx:9
+msgid "Connection Settings"
+msgstr "Paràmetres de la connexió"
+
+#: ../share/extensions/plotter.inx:10
+msgid "Port type:"
+msgstr "Tipus de port:"
+
+#: ../share/extensions/plotter.inx:11
+msgid "Serial"
+msgstr "Sèrie"
+
+#: ../share/extensions/plotter.inx:14
+msgid "Parallel port:"
+msgstr "Port paral·lel:"
+
+#: ../share/extensions/plotter.inx:14
+#, fuzzy
+msgid ""
+"The port of your parallel connection, on Windows not currently supported, on"
+" Linux something like: '/dev/usb/lp2' (default: /dev/usb/lp2)"
+msgstr ""
+"El port de la vostra connexió paral·lela, al Windows que no està suportat "
+"actualment, a Linux quelcom com: «/dev/usb/lp2» (per defecte: /dev/usb/lp2)"
+
+#: ../share/extensions/plotter.inx:15
+msgid "Serial port:"
+msgstr "Port en sèrie:"
+
+#: ../share/extensions/plotter.inx:15
+#, fuzzy
+msgid ""
+"The port of your serial connection, on Windows something like 'COM1', on "
+"Linux something like: '/dev/ttyUSB0' (default: COM1)"
+msgstr ""
+"El port de la vostra connexió sèrie, al Windows quelcom com «COM1», al Linux"
+" quelcom com: «/dev/ttyUSB0» (per defecte: COM1)"
+
+#: ../share/extensions/plotter.inx:16
+msgid "Serial baud rate:"
+msgstr "Ràtio de bauds en sèrie:"
+
+#: ../share/extensions/plotter.inx:16
+#, fuzzy
+msgid "The Baud rate of your serial connection (default: 9600)"
+msgstr "La velocitat Baud de la vostra connexió sèrie (per defecte: 9600)"
+
+#: ../share/extensions/plotter.inx:33
+msgid "Serial byte size:"
+msgstr "Mida dels bits en sèrie:"
+
+#: ../share/extensions/plotter.inx:33
+#, fuzzy
+msgid ""
+"The Byte size of your serial connection, 99% of all plotters use the default"
+" setting (default: 8 Bits)"
+msgstr ""
+"La mida dels bytes de la connexió en sèrie, el 99% de tots els traçadors "
+"utilitzen la configuració predeterminada (per defecte: 8 bits)"
+
+#: ../share/extensions/plotter.inx:39
+msgid "Serial stop bits:"
+msgstr "Bits de parada en sèrie:"
+
+#: ../share/extensions/plotter.inx:39
+#, fuzzy
+msgid ""
+"The Stop bits of your serial connection, 99% of all plotters use the default"
+" setting (default: 1 Bit)"
+msgstr ""
+"Els bits d'aturada de la connexió sèrie, el 99% de tots els traçadors "
+"utilitzen la configuració predeterminada (per defecte: 1 bit)"
+
+#: ../share/extensions/plotter.inx:44
+msgid "Serial parity:"
+msgstr "Paritat de sèrie:"
+
+#: ../share/extensions/plotter.inx:44
+#, fuzzy
+msgid ""
+"The Parity of your serial connection, 99% of all plotters use the default "
+"setting (default: None)"
+msgstr ""
+"La Paritat de la vostra connexió sèrie, el 99% de tots els traçadors "
+"utilitzen la configuració predeterminada (per defecte: Cap)"
+
+#: ../share/extensions/plotter.inx:51
+msgid "Serial flow control:"
+msgstr "Control de flux de sèrie:"
+
+#: ../share/extensions/plotter.inx:51
+#, fuzzy
+msgid ""
+"The software / hardware flow control of your serial connection (default: "
+"Software)"
+msgstr ""
+"El control de flux de programari / maquinari de la vostra connexió sèrie "
+"(per defecte: Programari)"
+
+#: ../share/extensions/plotter.inx:52
+msgid "Software (XON/XOFF)"
+msgstr "Programari (XON/XOFF)"
+
+#: ../share/extensions/plotter.inx:53
+msgid "Hardware (RTS/CTS)"
+msgstr "Maquinari (RTS/CTS)"
+
+#: ../share/extensions/plotter.inx:54
+msgid "Hardware (DSR/DTR + RTS/CTS)"
+msgstr "Maquinari (DSR/DTR + RTS/CTS)"
+
+#: ../share/extensions/plotter.inx:57
+msgid "Command language:"
+msgstr "Idioma de les ordres:"
+
+#: ../share/extensions/plotter.inx:57
+#, fuzzy
+msgid "The command language to use (default: HPGL)"
+msgstr "El llenguatge d'ordres a utilitzar (per defecte: HPGL)"
+
+#: ../share/extensions/plotter.inx:58
+msgid "HPGL"
+msgstr "HPGL"
+
+#: ../share/extensions/plotter.inx:59
+msgid "DMPL"
+msgstr "DMPL"
+
+#: ../share/extensions/plotter.inx:60
+msgid "KNK Plotter (HPGL variant)"
+msgstr "Traçador KNK (variant HPGL)"
+
+#: ../share/extensions/plotter.inx:63
+msgid ""
+"Using wrong settings can under certain circumstances cause Inkscape to "
+"freeze. Always save your work before plotting!"
+msgstr ""
+"Fes servir paràmetres equivocats, sota certes circumstàncies, pot bloquejar "
+"l'Inkscape. Deseu sempre els treballs abans de començar a traçar."
+
+#: ../share/extensions/plotter.inx:64
+msgid ""
+"This can be a physical serial connection or a USB-to-Serial bridge. Ask your"
+" plotter manufacturer for drivers if needed."
+msgstr ""
+"Això pot ser una connexió sèrie física o un pont d'USB a sèrie. Demaneu els "
+"controladors al fabricant del traçador, si els necessiteu."
+
+#: ../share/extensions/plotter.inx:65
+msgid "Parallel (LPT) connections are not supported."
+msgstr "No se suporten les connexions en paral·lel (LPT)."
+
+#: ../share/extensions/plotter.inx:68
+#, fuzzy
+msgid ""
+"The number of steps the plotter moves when it moves by 1 inch on the X axis "
+"(default: 1016.0)"
+msgstr ""
+"El nombre de passos que es mou el traçador quan es mou 1 polzada a l'eix X "
+"(per defecte: 1016.0)"
+
+#: ../share/extensions/plotter.inx:69
+#, fuzzy
+msgid ""
+"The number of steps the plotter moves when it moves by 1 inch on the Y axis "
+"(default: 1016.0)"
+msgstr ""
+"El nombre de passos que es mou el traçador quan es mou 1 polzada a l'eix Y "
+"(per defecte: 1016.0)"
+
+#: ../share/extensions/plotter.inx:70
+#, fuzzy
+msgid ""
+"The number of the pen (tool) to use (standard: '1'). Can also be defined in "
+"the layer name (e.g. 'Pen 1')"
+msgstr ""
+"El nombre de llapis (eina) a utilitzar (estàndard: '1'). També es pot "
+"definir en el nom de la capa (p. ex. «Pen 1»)"
+
+#: ../share/extensions/plotter.inx:71
+#, fuzzy
+msgid ""
+"The force pushing down the pen in grams. Set to 0 to omit command; most "
+"plotters ignore this command (default: 0)"
+msgstr ""
+"La força que empeny el bolígraf en grams. Establiu-ho a 0 per a ometre "
+"l'ordre; la majoria dels traçadors ignoren aquesta ordre (per defecte: 0)"
+
+#: ../share/extensions/plotter.inx:72
+#, fuzzy
+msgid ""
+"The speed the pen will move with in centimeters or millimeters per second "
+"(depending on your plotter model). Set to 0 to omit command. Most plotters "
+"ignore this command (default: 0). Can be defined in the layer name together "
+"with the pen number (e.g. 'Pen 3 Speed 10')."
+msgstr ""
+"La velocitat amb què es mourà el llapis en centímetres o mil·límetres per "
+"segon (depenent del model del traçador). Establiu-ho a 0 per a ometre "
+"l'ordre. La majoria dels traçadors ignoren aquesta ordre (per defecte: 0). "
+"Es pot definir en el nom de la capa juntament amb el número de llapis (p. "
+"ex. 'Pen 3 Speed 10')."
+
+#: ../share/extensions/plotter.inx:73
+msgid "Rotation (°, clockwise):"
+msgstr "Gira en sentit horari(°):"
+
+#: ../share/extensions/plotter.inx:73
+#, fuzzy
+msgid "Rotation of the drawing (default: 0°)"
+msgstr "Rotació del dibuix (per defecte: 0))"
+
+#: ../share/extensions/plotter.inx:79
+#, fuzzy
+msgid "Check this to mirror the X axis (default: Unchecked)"
+msgstr "Marqueu-ho per a reflectir l'eix X (per defecte: sense marcar)"
+
+#: ../share/extensions/plotter.inx:80
+#, fuzzy
+msgid "Check this to mirror the Y axis (default: Unchecked)"
+msgstr "Marqueu-ho per reflectir l'eix Y (per defecte: sense marcar)"
+
+#: ../share/extensions/plotter.inx:81
+#, fuzzy
+msgid "Center origin"
+msgstr "Origen del centre"
+
+#: ../share/extensions/plotter.inx:81
+#, fuzzy
+msgid "Check this if your plotter uses a centered origin (default: Unchecked)"
+msgstr ""
+"Marqueu-ho si el vostre traçador usa un origen centrat (per defecte: sense "
+"marcar)"
+
+#: ../share/extensions/plotter.inx:83
+#, fuzzy
+msgid ""
+"If you want to use multiple pens and speeds with your pen plotter, create "
+"one layer for each pen number and speed value, name the layers \"Pen 1 Speed"
+" 10\", \"Pen 2 Speed 20\" etc. and put your drawings on the corresponding "
+"layers. This overrides the pen number and pen speed options in the menu "
+"above."
+msgstr ""
+"Si voleu utilitzar múltiples bolígrafs i velocitats amb el vostre traçador "
+"de llapis, creeu una capa per a cada número de llapis i valor de velocitat, "
+"anomena les capes «Pen 1 Speed 10», «Pen 2 Speed 20», etc. i posa els "
+"vostres dibuixos a les capes corresponents. Això anul·la les opcions de "
+"número de llapis i velocitat del llapis en el menú anterior."
+
+#: ../share/extensions/plotter.inx:86
+#, fuzzy
+msgid ""
+"The distance in mm that will be cut over the starting point of the path to "
+"prevent open paths. Set to 0.0 to omit command (default: 1.00)."
+msgstr ""
+"La distància en mm que es tallarà sobre el punt d'inici del camí per a "
+"evitar camins oberts. Establiu-ho a 0.0 per a ometre l'ordre (per defecte: "
+"1.00)."
+
+#: ../share/extensions/plotter.inx:87
+#, fuzzy
+msgid "Tool (knife) offset correction (mm):"
+msgstr "Correcció del desplaçament (mm) de l'eina (knife):"
+
+#: ../share/extensions/plotter.inx:87
+#, fuzzy
+msgid ""
+"The offset from the tool tip to the tool axis in mm. Set to 0.0 to omit "
+"command (default: 0.25)."
+msgstr ""
+"El desplaçament des de la punta de l'eina fins a l'eix de l'eina en mm. "
+"Establiu-ho a 0.0 per a ometre l'ordre (per defecte: 0.25)."
+
+#: ../share/extensions/plotter.inx:88
+#, fuzzy
+msgid ""
+"Check this to cut a small line to correctly align the tool orientation "
+"before the real drawing starts (default: Checked)."
+msgstr ""
+"Marqueu-ho per a retallar una petita línia per a alinear correctament "
+"l'orientació de l'eina abans que comenci el dibuix real (per defecte: "
+"marcat)."
+
+#: ../share/extensions/plotter.inx:89
+#, fuzzy
+msgid ""
+"Curves are divided into lines. This number controls how fine the curves will"
+" be reproduced, the smaller the finer (default: 1.2)."
+msgstr ""
+"Les corbes es divideixen en línies. Aquest número controla la precisió de "
+"les corbes que es reproduiran, com més petit sigui el més fi (per defecte: "
+"1.2)."
+
+#: ../share/extensions/plotter.inx:90
+#, fuzzy
+msgid ""
+"Check this to auto align the drawing to the origin (plus the tool offset if "
+"used). If unchecked, you have to make sure that all parts of your drawing "
+"are within the document border! (default: Checked)"
+msgstr ""
+"Marqueu-ho per a alinear automàticament el dibuix a l'origen (a més del "
+"desplaçament de l'eina si s'utilitza). Si no està marcat, haureu "
+"d'assegurar-vos que totes les parts del vostre dibuix estiguin dins de la "
+"vora del document! (per defecte: marcat)"
+
+#: ../share/extensions/polyhedron_3d.inx:3
+msgid "3D Polyhedron"
+msgstr "Políedre 3D"
+
+#: ../share/extensions/polyhedron_3d.inx:6
+msgid "Model file"
+msgstr "Fitxer model"
+
+#: ../share/extensions/polyhedron_3d.inx:7
+msgid "Object:"
+msgstr "Objecte:"
+
+#: ../share/extensions/polyhedron_3d.inx:8
+msgid "Cube"
+msgstr "Cub"
+
+#: ../share/extensions/polyhedron_3d.inx:9
+msgid "Truncated Cube"
+msgstr "Cub truncat"
+
+#: ../share/extensions/polyhedron_3d.inx:10
+msgid "Snub Cube"
+msgstr "Cub rom"
+
+#: ../share/extensions/polyhedron_3d.inx:11
+msgid "Cuboctahedron"
+msgstr "Cubooctaedre"
+
+#: ../share/extensions/polyhedron_3d.inx:12
+msgid "Tetrahedron"
+msgstr "Tetraedre"
+
+#: ../share/extensions/polyhedron_3d.inx:13
+msgid "Truncated Tetrahedron"
+msgstr "Tetraedre truncat"
+
+#: ../share/extensions/polyhedron_3d.inx:14
+msgid "Octahedron"
+msgstr "Octaedre"
+
+#: ../share/extensions/polyhedron_3d.inx:15
+msgid "Truncated Octahedron"
+msgstr "Octaedre truncat"
+
+#: ../share/extensions/polyhedron_3d.inx:16
+msgid "Icosahedron"
+msgstr "Icosaedre"
+
+#: ../share/extensions/polyhedron_3d.inx:17
+msgid "Truncated Icosahedron"
+msgstr "Icosaedre truncat"
+
+#: ../share/extensions/polyhedron_3d.inx:18
+msgid "Small Triambic Icosahedron"
+msgstr "Icosaedre triàmbric petit"
+
+#: ../share/extensions/polyhedron_3d.inx:19
+msgid "Dodecahedron"
+msgstr "Dodecaedre"
+
+#: ../share/extensions/polyhedron_3d.inx:20
+msgid "Truncated Dodecahedron"
+msgstr "Dodecaedre truncat"
+
+#: ../share/extensions/polyhedron_3d.inx:21
+msgid "Snub Dodecahedron"
+msgstr "Dodecaedre rom"
+
+#: ../share/extensions/polyhedron_3d.inx:22
+msgid "Great Dodecahedron"
+msgstr "Dodecaedre gran"
+
+#: ../share/extensions/polyhedron_3d.inx:23
+msgid "Great Stellated Dodecahedron"
+msgstr "Dodecaedre gran estrellat"
+
+#: ../share/extensions/polyhedron_3d.inx:24
+msgid "Load from file"
+msgstr "Carrega des d'un fitxer"
+
+#: ../share/extensions/polyhedron_3d.inx:26
+msgid "Filename:"
+msgstr "Nom del fitxer:"
+
+#: ../share/extensions/polyhedron_3d.inx:27
+msgid "Object Type:"
+msgstr "Tipus d'objecte:"
+
+#: ../share/extensions/polyhedron_3d.inx:28
+msgid "Face-Specified"
+msgstr "Específic de les cares"
+
+#: ../share/extensions/polyhedron_3d.inx:29
+msgid "Edge-Specified"
+msgstr "Específic de les vores"
+
+#: ../share/extensions/polyhedron_3d.inx:30
+msgid "Clockwise wound object"
+msgstr "Objecte enredat cap a la dreta"
+
+#: ../share/extensions/polyhedron_3d.inx:33
+msgid "Rotate around:"
+msgstr "Gira al voltant:"
+
+#: ../share/extensions/polyhedron_3d.inx:34
+#: ../share/extensions/polyhedron_3d.inx:39
+#: ../share/extensions/polyhedron_3d.inx:44
+#: ../share/extensions/polyhedron_3d.inx:49
+#: ../share/extensions/polyhedron_3d.inx:54
+#: ../share/extensions/polyhedron_3d.inx:59
+msgid "X-Axis"
+msgstr "Eix X"
+
+#: ../share/extensions/polyhedron_3d.inx:35
+#: ../share/extensions/polyhedron_3d.inx:40
+#: ../share/extensions/polyhedron_3d.inx:45
+#: ../share/extensions/polyhedron_3d.inx:50
+#: ../share/extensions/polyhedron_3d.inx:55
+#: ../share/extensions/polyhedron_3d.inx:60
+msgid "Y-Axis"
+msgstr "Eix Y"
+
+#: ../share/extensions/polyhedron_3d.inx:36
+#: ../share/extensions/polyhedron_3d.inx:41
+#: ../share/extensions/polyhedron_3d.inx:46
+#: ../share/extensions/polyhedron_3d.inx:51
+#: ../share/extensions/polyhedron_3d.inx:56
+#: ../share/extensions/polyhedron_3d.inx:61
+msgid "Z-Axis"
+msgstr "Eix Z"
+
+#: ../share/extensions/polyhedron_3d.inx:37
+#: ../share/extensions/polyhedron_3d.inx:42
+#: ../share/extensions/polyhedron_3d.inx:47
+#: ../share/extensions/polyhedron_3d.inx:52
+#: ../share/extensions/polyhedron_3d.inx:57
+#: ../share/extensions/polyhedron_3d.inx:62
+#: ../share/extensions/spirograph.inx:12
+#: ../share/extensions/wireframe_sphere.inx:8
+msgid "Rotation (deg):"
+msgstr "Gira (graus):"
+
+#: ../share/extensions/polyhedron_3d.inx:38
+#: ../share/extensions/polyhedron_3d.inx:43
+#: ../share/extensions/polyhedron_3d.inx:48
+#: ../share/extensions/polyhedron_3d.inx:53
+#: ../share/extensions/polyhedron_3d.inx:58
+msgid "Then rotate around:"
+msgstr "Després gira:"
+
+#: ../share/extensions/polyhedron_3d.inx:65
+msgid "Scaling factor:"
+msgstr "Factor d'escala:"
+
+#: ../share/extensions/polyhedron_3d.inx:66
+msgid "Fill color, Red:"
+msgstr "Color d'emplenat, vermell:"
+
+#: ../share/extensions/polyhedron_3d.inx:67
+msgid "Fill color, Green:"
+msgstr "Color d'emplenat, verd:"
+
+#: ../share/extensions/polyhedron_3d.inx:68
+msgid "Fill color, Blue:"
+msgstr "Color d'emplenat, blau:"
+
+#: ../share/extensions/polyhedron_3d.inx:69
+msgid "Fill opacity (%):"
+msgstr "Opacitat d'emplenat (%):"
+
+#: ../share/extensions/polyhedron_3d.inx:70
+msgid "Stroke opacity (%):"
+msgstr "Opacitat del traç (%):"
+
+#: ../share/extensions/polyhedron_3d.inx:71
+msgid "Stroke width (px):"
+msgstr "Gruix del traç (px):"
+
+#: ../share/extensions/polyhedron_3d.inx:72
+msgid "Shading"
+msgstr "Ombres"
+
+#: ../share/extensions/polyhedron_3d.inx:73
+msgid "Light X:"
+msgstr "Llum X:"
+
+#: ../share/extensions/polyhedron_3d.inx:74
+msgid "Light Y:"
+msgstr "Llum Y:"
+
+#: ../share/extensions/polyhedron_3d.inx:75
+msgid "Light Z:"
+msgstr "Llum Z:"
+
+#: ../share/extensions/polyhedron_3d.inx:79
+msgid "Vertices"
+msgstr "Vèrtexs"
+
+#: ../share/extensions/polyhedron_3d.inx:81
+msgid "Draw back-facing polygons"
+msgstr "Dibuixa les cares ocultes dels polígons"
+
+#: ../share/extensions/polyhedron_3d.inx:82
+msgid "Z-sort faces by:"
+msgstr "Ordena les cares per Z:"
+
+#: ../share/extensions/polyhedron_3d.inx:83
+msgid "Maximum"
+msgstr "Màxim"
+
+#: ../share/extensions/polyhedron_3d.inx:84
+msgid "Minimum"
+msgstr "Mínim"
+
+#: ../share/extensions/polyhedron_3d.inx:92
+#: ../share/extensions/wireframe_sphere.inx:15
+#, fuzzy
+msgid "3D"
+msgstr "3D"
+
+#: ../share/extensions/previous_glyph_layer.inx:3
+msgid "View Previous Glyph"
+msgstr "Visualitza el glif"
+
+#: ../share/extensions/print_win32_vector.inx:3
+msgid "Win32 Vector Print"
+msgstr "Impressió de vector Win32"
+
+#: ../share/extensions/printing_marks.inx:3
+msgid "Printing Marks"
+msgstr "Imprimeix les marques"
+
+#: ../share/extensions/printing_marks.inx:8
+msgid "Crop Marks"
+msgstr "Retalla les marques"
+
+#: ../share/extensions/printing_marks.inx:9
+msgid "Bleed Marks"
+msgstr "Marques del sagnat"
+
+#: ../share/extensions/printing_marks.inx:10
+msgid "Registration Marks"
+msgstr "Marques de registre"
+
+#: ../share/extensions/printing_marks.inx:11
+msgid "Star Target"
+msgstr "Disposició en estrella"
+
+#: ../share/extensions/printing_marks.inx:12
+msgid "Color Bars"
+msgstr "Barres de color"
+
+#: ../share/extensions/printing_marks.inx:13
+msgid "Page Information"
+msgstr "Informació de la pàgina"
+
+#: ../share/extensions/printing_marks.inx:15
+msgid "Positioning"
+msgstr "Posicionament"
+
+#: ../share/extensions/printing_marks.inx:16
+msgid "Set crop marks to:"
+msgstr "Estableix les marques de retall:"
+
+#: ../share/extensions/printing_marks.inx:28
+msgid "Bleed Margin"
+msgstr "Marge del sagnat"
+
+#: ../share/extensions/ps_input.inx:3
+msgid "PostScript Input"
+msgstr "Entrada Postscript"
+
+#: ../share/extensions/raster_output_jpg.inx:3
+#, fuzzy
+msgid "Export to JPEG"
+msgstr "Exporta a JPEG"
+
+#: ../share/extensions/raster_output_jpg.inx:11
+#: ../share/extensions/raster_output_tiff.inx:23
+#: ../share/extensions/raster_output_webp.inx:15
+#: ../share/extensions/webslicer_create_rect.inx:21
+msgid "Quality:"
+msgstr "Qualitat:"
+
+#: ../share/extensions/raster_output_jpg.inx:11
+#: ../share/extensions/raster_output_tiff.inx:23
+#, fuzzy
+msgid "Quality between 0 and 100"
+msgstr "Qualitat entre 0 i 100"
+
+#: ../share/extensions/raster_output_jpg.inx:15
+#, fuzzy
+msgid "Progressive"
+msgstr "Progressista"
+
+#: ../share/extensions/raster_output_jpg.inx:15
+#, fuzzy
+msgid "Store image as a progressive JPEG file."
+msgstr "Emmagatzema la imatge com un fitxer JPEG progressiu."
+
+#: ../share/extensions/raster_output_jpg.inx:17
+#, fuzzy
+msgid "Low Quality Warning"
+msgstr "Avís de qualitat baixa"
+
+#: ../share/extensions/raster_output_jpg.inx:18
+#, fuzzy
+msgid "Your artwork may lose quality and any transparency."
+msgstr ""
+"El teu treball artístic pot perdre qualitat i qualsevol transparència."
+
+#: ../share/extensions/raster_output_jpg.inx:20
+#, fuzzy
+msgid "This is a high compression example for demonstration."
+msgstr "Aquest és un exemple d'alta compressió per a la demostració."
+
+#: ../share/extensions/raster_output_jpg.inx:22
+#, fuzzy
+msgid "Learn more details about JPEG:"
+msgstr "Més informació sobre JPEG:"
+
+#: ../share/extensions/raster_output_jpg.inx:23
+#, fuzzy
+msgid "https://inkscape.org/learn/jpg/"
+msgstr "https://inkscape.org/learn/jpg/"
+
+#: ../share/extensions/raster_output_jpg.inx:30
+#, fuzzy
+msgid "JPEG (*.jpg)"
+msgstr "JPEG (*.jpg)"
+
+#: ../share/extensions/raster_output_jpg.inx:31
+#, fuzzy
+msgid "Render to JPEG file format"
+msgstr "Renderitza al format de fitxer JPEG"
+
+#: ../share/extensions/raster_output_png.inx:3
+#, fuzzy
+msgid "Optimized PNG"
+msgstr "PNG optimitzat"
+
+#: ../share/extensions/raster_output_png.inx:7
+#, fuzzy
+msgid "Optimize PNG with 'optipng'"
+msgstr "Optimitza el PNG amb «optipng»"
+
+#: ../share/extensions/raster_output_png.inx:9
+#, fuzzy
+msgid "Lossless"
+msgstr "Sense pèrdua"
+
+#: ../share/extensions/raster_output_png.inx:10
+#, fuzzy
+msgid "Interlaced"
+msgstr "Entrellaçat"
+
+#: ../share/extensions/raster_output_png.inx:12
+#, fuzzy
+msgid "Level:"
+msgstr "Nivell:"
+
+#: ../share/extensions/raster_output_png.inx:13
+#, fuzzy
+msgid "Minimal Effort"
+msgstr "Esforç mínim"
+
+#: ../share/extensions/raster_output_png.inx:14
+#, fuzzy
+msgid "Single Compression Trial"
+msgstr "Prova de compressió única"
+
+#: ../share/extensions/raster_output_png.inx:15
+#, fuzzy
+msgid "Two Compression Trials"
+msgstr "Dos assajos de compressió"
+
+#: ../share/extensions/raster_output_png.inx:16
+#, fuzzy
+msgid "Five Compression Trials"
+msgstr "Cinc proves de compressió"
+
+#: ../share/extensions/raster_output_png.inx:17
+#, fuzzy
+msgid "Ten Compression Trials"
+msgstr "Deu proves de compressió"
+
+#: ../share/extensions/raster_output_png.inx:21
+#, fuzzy
+msgid "Lossy Options"
+msgstr "Opcions de pèrdua"
+
+#: ../share/extensions/raster_output_png.inx:22
+#, fuzzy
+msgid "Allow bit depth reduction"
+msgstr "Permet la reducció de la profunditat de bits"
+
+#: ../share/extensions/raster_output_png.inx:23
+#, fuzzy
+msgid "Allow color type reduction"
+msgstr "Permet la reducció del tipus de color"
+
+#: ../share/extensions/raster_output_png.inx:24
+#, fuzzy
+msgid "Allow palette reduction"
+msgstr "Permet la reducció de la paleta"
+
+#: ../share/extensions/raster_output_png.inx:31
+#, fuzzy
+msgid "Optimized PNG (*.png)"
+msgstr "PNG optimitzat (*.png)"
+
+#: ../share/extensions/raster_output_png.inx:32
+#, fuzzy
+msgid "Optimize PNG output for file size."
+msgstr "Optimitza la sortida PNG per a la mida del fitxer."
+
+#: ../share/extensions/raster_output_tiff.inx:3
+#, fuzzy
+msgid "Export to TIFF"
+msgstr "Exporta a TIFF"
+
+#: ../share/extensions/raster_output_tiff.inx:8
+#: ../share/extensions/raster_output_webp.inx:16
+#, fuzzy
+msgid "Speed:"
+msgstr "Velocitat:"
+
+#: ../share/extensions/raster_output_tiff.inx:10
+#, fuzzy
+msgid "CCITT"
+msgstr "CCITT"
+
+#: ../share/extensions/raster_output_tiff.inx:11
+#, fuzzy
+msgid "Group 3"
+msgstr "Grup 3"
+
+#: ../share/extensions/raster_output_tiff.inx:12
+#, fuzzy
+msgid "Group 4"
+msgstr "Grup 4"
+
+#: ../share/extensions/raster_output_tiff.inx:13
+#, fuzzy
+msgid "JPEG"
+msgstr "JPEG"
+
+#: ../share/extensions/raster_output_tiff.inx:14
+#, fuzzy
+msgid "Deflate"
+msgstr "Deflate"
+
+#: ../share/extensions/raster_output_tiff.inx:15
+#, fuzzy
+msgid "SGI Log"
+msgstr "Registre SGI"
+
+#: ../share/extensions/raster_output_tiff.inx:16
+#, fuzzy
+msgid "SGI Log 24"
+msgstr "Registre SGI 24"
+
+#: ../share/extensions/raster_output_tiff.inx:17
+#, fuzzy
+msgid "Raw 16"
+msgstr "16 cru"
+
+#: ../share/extensions/raster_output_tiff.inx:30
+#, fuzzy
+msgid "TIFF (*.tiff)"
+msgstr "TIFF (*.tiff)"
+
+#: ../share/extensions/raster_output_tiff.inx:31
+#, fuzzy
+msgid "Render to TIFF file format"
+msgstr "Renderitza al format de fitxer TIFF"
+
+#: ../share/extensions/raster_output_webp.inx:3
+#, fuzzy
+msgid "Export to WebP"
+msgstr "Exporta a WebP"
+
+#: ../share/extensions/raster_output_webp.inx:11
+#, fuzzy
+msgid "Lossless:"
+msgstr "Sense pèrdua:"
+
+#: ../share/extensions/raster_output_webp.inx:11
+#, fuzzy
+msgid "Do not use lossy compression."
+msgstr "No usis la compressió amb pèrdua."
+
+#: ../share/extensions/raster_output_webp.inx:15
+#, fuzzy
+msgid "Quality between 1 and 100"
+msgstr "Qualitat entre 1 i 100"
+
+#: ../share/extensions/raster_output_webp.inx:17
+#, fuzzy
+msgid "Fastest"
+msgstr "Més ràpid"
+
+#: ../share/extensions/raster_output_webp.inx:18
+#, fuzzy
+msgid "Faster"
+msgstr "Més ràpid"
+
+#: ../share/extensions/raster_output_webp.inx:19
+#, fuzzy
+msgid "Fast"
+msgstr "Ràpid"
+
+#: ../share/extensions/raster_output_webp.inx:20
+#, fuzzy
+msgid "Balanced"
+msgstr "Equilibrat"
+
+#: ../share/extensions/raster_output_webp.inx:21
+#, fuzzy
+msgid "Good"
+msgstr "Bé"
+
+#: ../share/extensions/raster_output_webp.inx:22
+#, fuzzy
+msgid "Better"
+msgstr "Millor"
+
+#: ../share/extensions/raster_output_webp.inx:23
+#, fuzzy
+msgid "Best"
+msgstr "Millor"
+
+#: ../share/extensions/raster_output_webp.inx:31
+#, fuzzy
+msgid "WebP (*.webp)"
+msgstr "WebP (*.webp)"
+
+#: ../share/extensions/raster_output_webp.inx:32
+#, fuzzy
+msgid "Export to WebP file format."
+msgstr "Exporta al format de fitxer WebP."
+
+#: ../share/extensions/render_alphabetsoup.inx:3
+msgid "Alphabet Soup"
+msgstr "Sopa de lletres"
+
+#: ../share/extensions/render_barcode.inx:3
+msgid "Classic"
+msgstr "Clàssic"
+
+#: ../share/extensions/render_barcode.inx:5
+msgid "Barcode Type:"
+msgstr "Tipus de codi de barres:"
+
+#: ../share/extensions/render_barcode.inx:19
+msgid "Barcode Data:"
+msgstr "Dades del codi de barres:"
+
+#: ../share/extensions/render_barcode.inx:20
+msgid "Bar Height:"
+msgstr "Alçada de la barra:"
+
+#: ../share/extensions/render_barcode.inx:25
+#: ../share/extensions/render_barcode_datamatrix.inx:43
+#: ../share/extensions/render_barcode_qrcode.inx:100
+#, fuzzy
+msgid "Barcode / QR Code"
+msgstr "Codi de barres / Codi QR"
+
+#: ../share/extensions/render_barcode_datamatrix.inx:3
+msgid "Datamatrix"
+msgstr "Datamatrix"
+
+#: ../share/extensions/render_barcode_datamatrix.inx:6
+#: ../share/extensions/render_barcode_qrcode.inx:6
+msgid "Size, in unit squares:"
+msgstr "Mida, en unitats senceres:"
+
+#: ../share/extensions/render_barcode_datamatrix.inx:38
+msgid "Square Size (px):"
+msgstr "Mida del quadrat (px):"
+
+#: ../share/extensions/render_barcode_qrcode.inx:3
+msgid "QR Code"
+msgstr "Codi QR"
+
+#: ../share/extensions/render_barcode_qrcode.inx:5
+#, fuzzy
+msgid "The content of the QR code, most commonly a web link."
+msgstr "El contingut del codi QR, normalment un enllaç web."
+
+#: ../share/extensions/render_barcode_qrcode.inx:6
+#, fuzzy
+msgid ""
+"With 'Auto', the extension will choose the best size, depending upon the "
+"length of the text and the selected error correction level."
+msgstr ""
+"Amb «Auto», l'extensió triarà la millor mida, depenent de la longitud del "
+"text i del nivell de correcció d'errors seleccionat."
+
+#: ../share/extensions/render_barcode_qrcode.inx:49
+#, fuzzy
+msgid ""
+"If your QR code is likely to get smudged or readability will be reduced in "
+"some other way, choose a high error correction level. Higher error "
+"correction levels mean that the text that can be encoded must be shorter."
+msgstr ""
+"Si el codi QR és probable que s'esborri o es redueixi la llegibilitat "
+"d'alguna altra manera, trieu un nivell alt de correcció d'errors. Nivells de"
+" correcció d'errors més alts signifiquen que el text que es pot codificar ha"
+" de ser més curt."
+
+#: ../share/extensions/render_barcode_qrcode.inx:49
+msgid "Error correction level:"
+msgstr "Nivell de correcció d'errors:"
+
+#: ../share/extensions/render_barcode_qrcode.inx:50
+msgid "L (Approx. 7%)"
+msgstr "L (Aprox. 7%)"
+
+#: ../share/extensions/render_barcode_qrcode.inx:51
+msgid "M (Approx. 15%)"
+msgstr "M (Aprox. 15%)"
+
+#: ../share/extensions/render_barcode_qrcode.inx:52
+msgid "Q (Approx. 25%)"
+msgstr "Q (Aprox. 25%)"
+
+#: ../share/extensions/render_barcode_qrcode.inx:53
+msgid "H (Approx. 30%)"
+msgstr "H (Aprox. 30%)"
+
+#: ../share/extensions/render_barcode_qrcode.inx:55
+#, fuzzy
+msgid "QR Mode:"
+msgstr "Mode QR:"
+
+#: ../share/extensions/render_barcode_qrcode.inx:55
+#, fuzzy
+msgid ""
+"'Bytes array': can encode any text, 'Only numbers': can only encode numbers,"
+" 'ALPHAnum': can only encode capital letters and some symbols, sufficient "
+"for most web urls."
+msgstr ""
+"'Bytes array': pot codificar qualsevol text, 'Només números': només pot "
+"codificar números, 'ALPHAnum': només pot codificar lletres majúscules i "
+"alguns símbols, suficients per a la majoria d'URLs web."
+
+#: ../share/extensions/render_barcode_qrcode.inx:56
+#, fuzzy
+msgid "Bytes array"
+msgstr "Matriu de bytes"
+
+#: ../share/extensions/render_barcode_qrcode.inx:57
+#, fuzzy
+msgid "Only numbers"
+msgstr "Només números"
+
+#: ../share/extensions/render_barcode_qrcode.inx:66
+msgid "Invert QR code:"
+msgstr "Inverteix el codi QR:"
+
+#: ../share/extensions/render_barcode_qrcode.inx:66
+#, fuzzy
+msgid "Invert the colors, may fail for symbols option"
+msgstr "Inverteix els colors, pot fallar per a l'opció de símbols"
+
+#: ../share/extensions/render_barcode_qrcode.inx:67
+msgid "Square size (px):"
+msgstr "Mida del quadrat (px):"
+
+#: ../share/extensions/render_barcode_qrcode.inx:68
+msgid "Drawing type:"
+msgstr "Tipus de dibuix:"
+
+#: ../share/extensions/render_barcode_qrcode.inx:71
+#, fuzzy
+msgid "Smooth type:"
+msgstr "Tipus suau:"
+
+#: ../share/extensions/render_barcode_qrcode.inx:72
+#, fuzzy
+msgid "Neutral"
+msgstr "Neutral"
+
+#: ../share/extensions/render_barcode_qrcode.inx:73
+#, fuzzy
+msgid "Greedy"
+msgstr "Greedy"
+
+#: ../share/extensions/render_barcode_qrcode.inx:74
+#, fuzzy
+msgid "Proud"
+msgstr "Proud"
+
+#: ../share/extensions/render_barcode_qrcode.inx:79
+#, fuzzy
+msgid "Use predefined shape:"
+msgstr "Usa una forma predefinida:"
+
+#: ../share/extensions/render_barcode_qrcode.inx:85
+#, fuzzy
+msgid "The first selected object will be cloned."
+msgstr "El primer objecte seleccionat serà clonat."
+
+#: ../share/extensions/render_barcode_qrcode.inx:88
+#, fuzzy
+msgid ""
+"The ID of the selected symbol. Open the XML editor to find it as the value "
+"for 'xlink:href' for a selected instance of the symbol."
+msgstr ""
+"L'ID del símbol seleccionat. Obriu l'editor XML per a trobar-lo com a valor "
+"per a «xlink:href» per a una instància seleccionada del símbol."
+
+#: ../share/extensions/render_barcode_qrcode.inx:88
+#, fuzzy
+msgid "Symbol ID:"
+msgstr "ID del símbol:"
+
+# File: ../share/extensions/render_barcode_qrcode.inx, line: 46
+#: ../share/extensions/render_barcode_qrcode.inx:91
+msgid "Smooth square value (0-1):"
+msgstr "Suavitza el valor del quadrat (0-1):"
+
+#: ../share/extensions/render_barcode_qrcode.inx:92
+#, fuzzy
+msgid ""
+"Manually define the group ID of the generated QR code. Leave blank to have "
+"it auto-generated."
+msgstr ""
+"Definiu manualment l'ID del grup del codi QR generat. Deixeu-ho en blanc "
+"perquè es generi automàticament."
+
+#: ../share/extensions/render_barcode_qrcode.inx:93
+#, fuzzy
+msgid "Group ID:"
+msgstr "ID del grup:"
+
+#: ../share/extensions/render_barcode_qrcode.inx:94
+#, fuzzy
+msgid "For details about QR codes, see:"
+msgstr "Per a més detalls sobre els codis QR, vegeu:"
+
+#: ../share/extensions/render_barcode_qrcode.inx:95
+#, fuzzy
+msgid "https://www.qrcode.com"
+msgstr "https://www.qrcode.com"
+
+#: ../share/extensions/render_gear_rack.inx:3
+msgid "Rack Gear"
+msgstr "Engranatge de cremallera"
+
+#: ../share/extensions/render_gear_rack.inx:5
+msgid "Rack Length:"
+msgstr "Longitud de la cremallera:"
+
+#: ../share/extensions/render_gear_rack.inx:6
+msgid "Tooth Spacing:"
+msgstr "Espaiat horitzontal:"
+
+#: ../share/extensions/render_gear_rack.inx:7
+msgid "Contact Angle:"
+msgstr "Angle de contacte:"
+
+#: ../share/extensions/render_gear_rack.inx:12
+#: ../share/extensions/render_gears.inx:3
+#: ../share/extensions/render_gears.inx:19
+msgid "Gear"
+msgstr "Engranatge"
+
+#: ../share/extensions/render_gears.inx:5
+msgid "Number of teeth:"
+msgstr "Nombre de dents:"
+
+#: ../share/extensions/render_gears.inx:6
+msgid "Circular pitch (tooth size):"
+msgstr "Pas (mida entre dents):"
+
+#: ../share/extensions/render_gears.inx:7
+msgid "Pressure angle (degrees):"
+msgstr "Angle de pressió (°):"
+
+#: ../share/extensions/render_gears.inx:8
+msgid "Diameter of center hole (0 for none):"
+msgstr "Diàmetre del forat central (0 per cap):"
+
+#: ../share/extensions/render_gears.inx:10
+msgid "px"
+msgstr "px"
+
+#: ../share/extensions/render_gears.inx:14
+msgid "Unit of measurement for both circular pitch and center diameter."
+msgstr "Unitats de mesura pel pas i diàmetre central."
+
+#: ../share/extensions/replace_font.inx:3
+#, fuzzy
+msgid "Replace Font"
+msgstr "Substitueix el tipus de lletra"
+
+#: ../share/extensions/replace_font.inx:9
+msgid "Find and Replace font"
+msgstr "Cerca i reemplaça un tipus de lletra"
+
+#: ../share/extensions/replace_font.inx:10
+msgid "Find font:"
+msgstr "Cerca un tipus de lletra:"
+
+#: ../share/extensions/replace_font.inx:11
+msgid "Replace with:"
+msgstr "Reemplaça per:"
+
+#: ../share/extensions/replace_font.inx:13
+msgid "Replace font"
+msgstr "Reemplaça el tipus de lletra"
+
+#: ../share/extensions/replace_font.inx:14
+msgid "Replace all fonts with:"
+msgstr "Reemplaça tots els tipus de lletra amb:"
+
+#: ../share/extensions/replace_font.inx:16
+msgid "List all fonts"
+msgstr "Llista tots els tipus de lletra"
+
+#: ../share/extensions/replace_font.inx:17
+msgid ""
+"Choose this tab if you would like to see a list of the fonts used/found."
+msgstr ""
+"Escolliu aquesta taula si voleu veure un llistat dels tipus de lletra "
+"usats/trobats."
+
+#: ../share/extensions/replace_font.inx:21
+msgid "Work on:"
+msgstr "S'està treballant:"
+
+#: ../share/extensions/replace_font.inx:22
+msgid "Entire drawing"
+msgstr "Dibuix sencer"
+
+#: ../share/extensions/replace_font.inx:23
+msgid "Selected objects only"
+msgstr "Només els objectes seleccionats"
+
+#: ../share/extensions/restack.inx:3
+msgid "Restack"
+msgstr "Apila"
+
+#: ../share/extensions/restack.inx:6
+msgid "Based on Position"
+msgstr "Basat en la posició"
+
+#: ../share/extensions/restack.inx:7
+msgid "Restack Direction"
+msgstr "Direcció de la pila"
+
+#: ../share/extensions/restack.inx:9
+msgid "Presets"
+msgstr "Predefinicions"
+
+#: ../share/extensions/restack.inx:11
+msgid "Left to Right (0)"
+msgstr "D'esquerra a dreta (0)"
+
+#: ../share/extensions/restack.inx:12
+msgid "Bottom to Top (90)"
+msgstr "De baix a dalt (90)"
+
+#: ../share/extensions/restack.inx:13
+msgid "Right to Left (180)"
+msgstr "De dreta a esquerra (180)"
+
+#: ../share/extensions/restack.inx:14
+msgid "Top to Bottom (270)"
+msgstr "De dalt a baix (270)"
+
+#: ../share/extensions/restack.inx:15
+msgid "Radial Outward"
+msgstr "Radial cap enfora"
+
+#: ../share/extensions/restack.inx:16
+msgid "Radial Inward"
+msgstr "Radial cap endins"
+
+#: ../share/extensions/restack.inx:23
+msgid "Object Reference Point"
+msgstr "Punt de referència de l'objecte"
+
+#: ../share/extensions/restack.inx:24
+msgid "Horizontal:"
+msgstr "Horitzontal:"
+
+#: ../share/extensions/restack.inx:26 ../share/extensions/restack.inx:31
+#: ../share/extensions/text_extract.inx:13
+#: ../share/extensions/text_extract.inx:18
+#: ../share/extensions/text_merge.inx:13 ../share/extensions/text_merge.inx:18
+msgid "Middle"
+msgstr "Centre"
+
+#: ../share/extensions/restack.inx:29
+msgid "Vertical:"
+msgstr "Vertical:"
+
+#: ../share/extensions/restack.inx:35
+msgid "Based on Z-Order"
+msgstr "Basat en l'ordre Z"
+
+#: ../share/extensions/restack.inx:36
+msgid "Restack Mode"
+msgstr "Mode apila"
+
+#: ../share/extensions/restack.inx:37
+msgid "Reverse Z-Order"
+msgstr "Inverteix l'ordre Z"
+
+#: ../share/extensions/restack.inx:38
+msgid "Shuffle Z-Order"
+msgstr "Barrejar l'ordre Z"
+
+#: ../share/extensions/restack.inx:42
+#, fuzzy
+msgid ""
+"\n"
+"This extension changes the z-order of objects based on their position\n"
+"on the canvas or their current z-order.\n"
+"The extension restacks all the selected objects. Groups are treated as\n"
+"a single object.\n"
+"If elements of a group are selected together with external objects,\n"
+"the elements of the group are extracted and positioned next to the other\n"
+"objects being restacked (elements on different layers are brought together\n"
+"to the same layer).\n"
+"            "
+msgstr ""
+"Aquesta extensió canvia l'ordre z dels objectes en funció de la seva posició\n"
+"sobre el llenç o el seu ordre z actual.\n"
+"L'extensió restaura tots els objectes seleccionats. Els grups es tracten com\n"
+"un sol objecte.\n"
+"Si se seleccionen elements d'un grup juntament amb objectes externs,\n"
+"els elements del grup s'extreuen i es col·loquen al costat de l'altre\n"
+"objectes que s'estan recollint (s'uneixen elements de diferents capes\n"
+"a la mateixa capa)."
+
+#: ../share/extensions/restack.inx:57 ../share/extensions/ungroup_deep.inx:12
+msgid "Arrange"
+msgstr "Organitza"
+
+#: ../share/extensions/rtree.inx:3
+msgid "Random Tree"
+msgstr "Arbre aleatori"
+
+#: ../share/extensions/rtree.inx:5
+msgid "Initial size:"
+msgstr "Mida inicial:"
+
+#: ../share/extensions/rtree.inx:6
+msgid "Minimum size:"
+msgstr "Mida mínima:"
+
+#: ../share/extensions/rtree.inx:7
+msgid "Omit redundant segments"
+msgstr "Ometre segments redundants"
+
+#: ../share/extensions/rtree.inx:7
+msgid "Lift pen for backward steps"
+msgstr "Aixeca la ploma pels passos enrere"
+
+#: ../share/extensions/rubberstretch.inx:3
+msgid "Rubber Stretch"
+msgstr "Goma elàstica"
+
+#: ../share/extensions/rubberstretch.inx:5
+msgid "Strength (%):"
+msgstr "Força (%):"
+
+#: ../share/extensions/rubberstretch.inx:6
+msgid "Curve (%):"
+msgstr "Corba (%):"
+
+#: ../share/extensions/scribus_export_pdf.inx:3
+msgid "Export to PDF via Scribus"
+msgstr "Exporta a PDF via Scribus"
+
+#: ../share/extensions/scribus_export_pdf.inx:7
+#, fuzzy
+msgid "PDF version:"
+msgstr "Versió PDF:"
+
+#: ../share/extensions/scribus_export_pdf.inx:8
+#, fuzzy
+msgid "PDF/X-1a"
+msgstr "PDF/X-1a"
+
+#: ../share/extensions/scribus_export_pdf.inx:9
+#, fuzzy
+msgid "PDF/X-3"
+msgstr "PDF/X-3"
+
+#: ../share/extensions/scribus_export_pdf.inx:10
+#, fuzzy
+msgid "PDF 1.3"
+msgstr "PDF 1.3"
+
+#: ../share/extensions/scribus_export_pdf.inx:14
+#, fuzzy
+msgid "PDF title (mandatory for PDF/X):"
+msgstr "Títol del PDF (obligatori per a PDF/X):"
+
+#: ../share/extensions/scribus_export_pdf.inx:15
+#, fuzzy
+msgid "Bleed added around the document (mm):"
+msgstr "Sagnat afegit al voltant del document (mm):"
+
+#: ../share/extensions/scribus_export_pdf.inx:15
+#, fuzzy
+msgid ""
+"Include an area of the given size around the Inkscape page in the final "
+"document."
+msgstr ""
+"Inclou una àrea de la mida donada al voltant de la pàgina de l'Inkscape en "
+"el document final."
+
+#: ../share/extensions/scribus_export_pdf.inx:16
+#, fuzzy
+msgid "Show bleed marks"
+msgstr "Mostra les marques de sagnat"
+
+#: ../share/extensions/scribus_export_pdf.inx:17
+#, fuzzy
+msgid "Show color reference"
+msgstr "Mostra la referència de color"
+
+#: ../share/extensions/scribus_export_pdf.inx:19
+#, fuzzy
+msgid "Rendering intent:"
+msgstr "Propòsit de la renderització:"
+
+#: ../share/extensions/scribus_export_pdf.inx:34
+msgid "Scribus CMYK PDF (*.PDF)"
+msgstr "Scribus CMYK PDF (*.pdf)"
+
+#: ../share/extensions/scribus_export_pdf.inx:35
+#, fuzzy
+msgid "Exports the document to PDF using Scribus"
+msgstr "Exporta el document a PDF usant Scribus"
+
+#: ../share/extensions/setup_typography_canvas.inx:3
+msgid "1 - Setup Typography Canvas"
+msgstr "1 - Configuració de la tipografia del llenç"
+
+#: ../share/extensions/setup_typography_canvas.inx:7
+msgid "Caps Height:"
+msgstr "Alçada de les majúscules:"
+
+#: ../share/extensions/setup_typography_canvas.inx:8
+msgid "X-Height:"
+msgstr "Alçada X:"
+
+#: ../share/extensions/spirograph.inx:3
+msgid "Spirograph"
+msgstr "Espirògraf"
+
+#: ../share/extensions/spirograph.inx:5
+msgid "R - Ring Radius (px):"
+msgstr "R - Radi de l'anell (px):"
+
+#: ../share/extensions/spirograph.inx:6
+msgid "r - Gear Radius (px):"
+msgstr "r - Radi de la peça (px):"
+
+#: ../share/extensions/spirograph.inx:7
+msgid "d - Pen Radius (px):"
+msgstr "d - Radi de la ploma (px):"
+
+#: ../share/extensions/spirograph.inx:8
+msgid "Gear Placement:"
+msgstr "Posició de l'engranatge:"
+
+#: ../share/extensions/spirograph.inx:9
+msgid "Inside (Hypotrochoid)"
+msgstr "Interior (Hipotrocoide)"
+
+#: ../share/extensions/spirograph.inx:10
+msgid "Outside (Epitrochoid)"
+msgstr "Exterior (Epitrocoide)"
+
+#: ../share/extensions/spirograph.inx:13
+msgid "Quality (Default = 16):"
+msgstr "Qualitat (Per defecte = 16):"
+
+#: ../share/extensions/straightseg.inx:3
+msgid "Straighten Segments"
+msgstr "Redreça els segments"
+
+#: ../share/extensions/straightseg.inx:5
+msgid "Percent:"
+msgstr "Percentatge:"
+
+#: ../share/extensions/straightseg.inx:6
+msgid "Behavior:"
+msgstr "Comportament:"
+
+#: ../share/extensions/svg2fxg.inx:3
+msgid "FXG Output"
+msgstr "Sortida FXG"
+
+#: ../share/extensions/svg2fxg.inx:8
+msgid "Flash XML Graphics (*.fxg)"
+msgstr "Gràfics XML Flash (*.fxg)"
+
+#: ../share/extensions/svg2fxg.inx:9
+msgid "Adobe's XML Graphics file format"
+msgstr "Format de fitxer gràfic d'Adobe XML"
+
+#: ../share/extensions/svgcalendar.inx:3
+msgid "Calendar"
+msgstr "Calendari"
+
+#: ../share/extensions/svgcalendar.inx:7
+msgid "Year (4 digits):"
+msgstr "Any (4 dígits):"
+
+#: ../share/extensions/svgcalendar.inx:8
+msgid "Month (0 for all):"
+msgstr "Mes (0 per a tots):"
+
+#: ../share/extensions/svgcalendar.inx:9
+msgid "Fill empty day boxes with next month's days"
+msgstr "Omple els dies buits amb els dies del mes següent"
+
+#: ../share/extensions/svgcalendar.inx:10
+msgid "Show week number"
+msgstr "Mostra el número de setmana"
+
+#: ../share/extensions/svgcalendar.inx:11
+msgid "Week start day:"
+msgstr "Dia d'inici de la setmana:"
+
+#: ../share/extensions/svgcalendar.inx:12
+#: ../share/extensions/svgcalendar.inx:18
+msgid "Sunday"
+msgstr "Diumenge"
+
+#: ../share/extensions/svgcalendar.inx:13
+msgid "Monday"
+msgstr "Dilluns"
+
+#: ../share/extensions/svgcalendar.inx:15
+msgid "Weekend:"
+msgstr "Cap de setmana:"
+
+#: ../share/extensions/svgcalendar.inx:16
+msgid "Saturday and Sunday"
+msgstr "Dissabte i diumenge"
+
+#: ../share/extensions/svgcalendar.inx:17
+msgid "Saturday"
+msgstr "Dissabte"
+
+#: ../share/extensions/svgcalendar.inx:22
+msgid "Automatically set size and position"
+msgstr "Estableix automàticament la mida i posició"
+
+#: ../share/extensions/svgcalendar.inx:23
+msgid "The options below have no influence when the above is checked."
+msgstr "Les opcions següents no tenen efecte si s'ha marcat l'opció anterior."
+
+#: ../share/extensions/svgcalendar.inx:24
+msgid "Months per line:"
+msgstr "Mesos per línia:"
+
+#: ../share/extensions/svgcalendar.inx:25
+msgid "Month Width:"
+msgstr "Amplada dels mesos:"
+
+#: ../share/extensions/svgcalendar.inx:26
+msgid "Month Margin:"
+msgstr "Marge als mesos:"
+
+#: ../share/extensions/svgcalendar.inx:29
+msgid "Year color:"
+msgstr "Color de l'any:"
+
+#: ../share/extensions/svgcalendar.inx:30
+msgid "Month color:"
+msgstr "Color del mes:"
+
+#: ../share/extensions/svgcalendar.inx:31
+msgid "Weekday name color:"
+msgstr "Color del nom del dia de la setmana:"
+
+#: ../share/extensions/svgcalendar.inx:32
+msgid "Day color:"
+msgstr "Color del dia:"
+
+#: ../share/extensions/svgcalendar.inx:33
+msgid "Weekend day color:"
+msgstr "Color del cap de setmana:"
+
+#: ../share/extensions/svgcalendar.inx:34
+msgid "Next month day color:"
+msgstr "Color dels dies del mes següent:"
+
+#: ../share/extensions/svgcalendar.inx:35
+msgid "Week number color:"
+msgstr "Color del número de la setmana:"
+
+#: ../share/extensions/svgcalendar.inx:38
+msgid "Year font:"
+msgstr "Tipus de lletra per l'any:"
+
+#: ../share/extensions/svgcalendar.inx:39
+msgid "Month font:"
+msgstr "Tipus de lletra pel mes:"
+
+#: ../share/extensions/svgcalendar.inx:40
+msgid "Weekday name font:"
+msgstr "Nom del tipus de lletra del dia de la setmana:"
+
+#: ../share/extensions/svgcalendar.inx:41
+msgid "Day font:"
+msgstr "Tipus de lletra pel dia:"
+
+#: ../share/extensions/svgcalendar.inx:43
+msgid "Localization"
+msgstr "Localització"
+
+#: ../share/extensions/svgcalendar.inx:44
+msgid "You may change the names for other languages:"
+msgstr "Podeu canviar els noms per altres llengües:"
+
+#: ../share/extensions/svgcalendar.inx:45
+msgid "Month names:"
+msgstr "Nom dels mesos:"
+
+#: ../share/extensions/svgcalendar.inx:45
+msgid ""
+"January February March April May June July August September October November"
+" December"
+msgstr ""
+"Gener Febrer Març Abril Maig Juny Juliol Agost Setembre Octubre Novembre "
+"Desembre"
+
+#: ../share/extensions/svgcalendar.inx:46
+msgid "Day names:"
+msgstr "Noms dels dies:"
+
+#: ../share/extensions/svgcalendar.inx:46
+msgid "Sun Mon Tue Wed Thu Fri Sat"
+msgstr "Dg Dl Dt Dc Dj Dv Ds"
+
+#: ../share/extensions/svgcalendar.inx:47
+msgid "The day names list must start with Sunday."
+msgstr "La llista de noms dels dies ha de començar en diumenge."
+
+#: ../share/extensions/svgcalendar.inx:48
+msgid "Week number column name:"
+msgstr "No de la columna del número de la setmana:"
+
+#: ../share/extensions/svgcalendar.inx:48
+msgid "Wk"
+msgstr "Setmana"
+
+#: ../share/extensions/svgcalendar.inx:49
+msgid "Char Encoding:"
+msgstr "Codificació dels caràcters:"
+
+#: ../share/extensions/svgcalendar.inx:105
+msgid "Latin - iso-8859-15 - Western Europe"
+msgstr "Latin - iso-8859-15 - Europa occidental"
+
+#: ../share/extensions/svgcalendar.inx:119
+msgid "Windows - Central and Eastern Europe"
+msgstr "Windows - Europa central i oriental"
+
+#: ../share/extensions/svgcalendar.inx:120
+msgid "Windows - Russian and more"
+msgstr "Windows - Rus i altres"
+
+#: ../share/extensions/svgcalendar.inx:121
+msgid "Windows - Western Europe"
+msgstr "Windows - Europa occidental"
+
+#: ../share/extensions/svgcalendar.inx:122
+msgid "Windows - Greek"
+msgstr "Windows - Grec"
+
+#: ../share/extensions/svgcalendar.inx:123
+msgid "Windows - Turkish"
+msgstr "Windows - Turc"
+
+#: ../share/extensions/svgcalendar.inx:124
+msgid "Windows - Hebrew"
+msgstr "Windows - Hebreu"
+
+#: ../share/extensions/svgcalendar.inx:125
+msgid "Windows - Arabic"
+msgstr "Windows - Àrab"
+
+#: ../share/extensions/svgcalendar.inx:126
+msgid "Windows - Baltic languages"
+msgstr "Windows - Llengües bàltiques"
+
+#: ../share/extensions/svgcalendar.inx:127
+msgid "Windows - Vietnamese"
+msgstr "Windows - Vietnamita"
+
+#: ../share/extensions/svgcalendar.inx:128
+msgid "UTF-32 - All languages"
+msgstr "UTF-32 - Tots els idiomes"
+
+#: ../share/extensions/svgcalendar.inx:129
+msgid "UTF-16 - All languages"
+msgstr "UTF-16 - Tots els idiomes"
+
+#: ../share/extensions/svgcalendar.inx:130
+msgid "UTF-8 - All languages"
+msgstr "UTF-8 - Tots els idiomes"
+
+#: ../share/extensions/svgcalendar.inx:132
+msgid ""
+"Select your system encoding. More information at "
+"http://docs.python.org/library/codecs.html#standard-encodings."
+msgstr ""
+"Seleccioneu la codificació del sistema. Més informació a "
+"http://docs.python.org/library/codecs.html#standard-encodings."
+
+#: ../share/extensions/svgfont2layers.inx:3
+msgid "Convert SVG Font to Glyph Layers"
+msgstr "Converteix el tipus de lletra SVG a capes Glif"
+
+#: ../share/extensions/svgfont2layers.inx:5
+msgid "Stop after (30 Recommended)"
+msgstr "Atura després de (recomanats 30)"
+
+#: ../share/extensions/synfig_output.inx:3
+msgid "Synfig Output"
+msgstr "Sortida Synfig"
+
+#: ../share/extensions/synfig_output.inx:10
+msgid "Synfig Animation (*.sif)"
+msgstr "Animació Synfig (*.sif)"
+
+#: ../share/extensions/synfig_output.inx:11
+msgid "Synfig Animation written using the sif-file exporter extension"
+msgstr "Animació Synfig escrita usant l'extensió d'exportació de fitxer sif"
+
+#: ../share/extensions/tar_layers.inx:3
+msgid "Collection of SVG files One per root layer"
+msgstr "Col·lecció de fitxers SVG. Un per la capa root"
+
+#: ../share/extensions/tar_layers.inx:9
+msgid "Layers as Separate SVG (*.tar)"
+msgstr "Capes com SVG separats (*.tar)"
+
+#: ../share/extensions/tar_layers.inx:10
+msgid ""
+"Each layer split into it's own svg file and collected as a tape archive (tar"
+" file)"
+msgstr ""
+"Cada capa divideix el seu propi fitxer svg i el recull com un sol fitxer "
+"(fitxer tar)"
+
+#: ../share/extensions/template_business_card.inx:3
+msgid "Business Card"
+msgstr "Targeta de visita"
+
+#: ../share/extensions/template_business_card.inx:9
+msgid "Business card size:"
+msgstr "Mida de la targeta de visita:"
+
+#: ../share/extensions/template_business_card.inx:10
+msgid "74mm x 52mm (A8)"
+msgstr "74mm x 52mm (A8)"
+
+#: ../share/extensions/template_business_card.inx:11
+#, fuzzy
+msgid "ISO Card (ISO 7810)"
+msgstr "Targeta ISO (ISO 7810)"
+
+#: ../share/extensions/template_business_card.inx:12
+msgid "85mm x 55mm (Europe)"
+msgstr "85mm x 55mm (Europa)"
+
+#: ../share/extensions/template_business_card.inx:13
+#, fuzzy
+msgid "55mm x 55mm (Europe Square)"
+msgstr "55mm x 55mm (Europe Square)"
+
+#: ../share/extensions/template_business_card.inx:14
+msgid "90mm x 55mm (Australia, India, ...)"
+msgstr "90mm x 55mm (Austràlia, Índia, ...)"
+
+#: ../share/extensions/template_business_card.inx:15
+msgid "91mm x 55mm (Japan)"
+msgstr "91mm x 55mm (Japó)"
+
+#: ../share/extensions/template_business_card.inx:16
+msgid "90mm x 54mm (China, ...)"
+msgstr "90mm x 54mm (Xina, ...)"
+
+#: ../share/extensions/template_business_card.inx:17
+msgid "90mm x 50mm (India, Russia, ...)"
+msgstr "90mm x 50mm (Índia, Rússia, ...)"
+
+#: ../share/extensions/template_business_card.inx:18
+#, fuzzy
+msgid "3.5in x 2in (US/Canada)"
+msgstr "3,5in x 2in (EUA/Canadà)"
+
+#: ../share/extensions/template_business_card.inx:19
+#, fuzzy
+msgid "2in x 2in (US Square)"
+msgstr "2in x 2in (US Square)"
+
+#: ../share/extensions/template_dvd_cover.inx:3
+msgid "DVD Cover"
+msgstr "Portada del DVD"
+
+#: ../share/extensions/template_dvd_cover.inx:9
+msgid "DVD spine width:"
+msgstr "Amplada del lateral del DVD:"
+
+#: ../share/extensions/template_dvd_cover.inx:10
+msgid "Normal (14mm)"
+msgstr "Normal (14mm)"
+
+#: ../share/extensions/template_dvd_cover.inx:11
+msgid "Slim (9mm)"
+msgstr "Prim (9mm)"
+
+#: ../share/extensions/template_dvd_cover.inx:12
+msgid "Super Slim (7mm)"
+msgstr "Súper prim (7mm)"
+
+#: ../share/extensions/template_dvd_cover.inx:13
+msgid "Ultra Slim (5mm)"
+msgstr "Ultra prim (5mm)"
+
+#: ../share/extensions/template_dvd_cover.inx:16
+msgid "DVD cover bleed (mm):"
+msgstr "Sagnat de la coberta del DVD (mm):"
+
+#: ../share/extensions/template_seamless_pattern.inx:3
+msgid "Seamless Pattern"
+msgstr "Patrons sense costura"
+
+#: ../share/extensions/template_seamless_pattern.inx:9
+msgid "Custom Width (px):"
+msgstr "Amplada personalitzada (px):"
+
+#: ../share/extensions/template_seamless_pattern.inx:10
+msgid "Custom Height (px):"
+msgstr "Alçada personalitzada (px):"
+
+#: ../share/extensions/text_braille.inx:3
+msgid "Convert to Braille"
+msgstr "Converteix a Braille"
+
+#: ../share/extensions/text_extract.inx:3
+#, fuzzy
+msgid "Extract from Selection"
+msgstr "Extreu de la selecció"
+
+#: ../share/extensions/text_extract.inx:5 ../share/extensions/text_merge.inx:5
+msgid "Text direction:"
+msgstr "Direcció del text:"
+
+#: ../share/extensions/text_extract.inx:6 ../share/extensions/text_merge.inx:6
+msgid "Left to right"
+msgstr "D'esquerra a dreta"
+
+#: ../share/extensions/text_extract.inx:7 ../share/extensions/text_merge.inx:7
+msgid "Bottom to top"
+msgstr "De baix a dalt"
+
+#: ../share/extensions/text_extract.inx:8 ../share/extensions/text_merge.inx:8
+msgid "Right to left"
+msgstr "De dreta a esquerra"
+
+#: ../share/extensions/text_extract.inx:9 ../share/extensions/text_merge.inx:9
+msgid "Top to bottom"
+msgstr "De dalt a baix"
+
+#: ../share/extensions/text_extract.inx:11
+#: ../share/extensions/text_merge.inx:11
+msgid "Horizontal point:"
+msgstr "Punt horitzontal:"
+
+#: ../share/extensions/text_extract.inx:16
+#: ../share/extensions/text_merge.inx:16
+msgid "Vertical point:"
+msgstr "Punt vertical:"
+
+#: ../share/extensions/text_flipcase.inx:3
+msgid "fLIP cASE"
+msgstr "iNVERTEIX lES mAJÚSCULES I mINÚSCULES"
+
+#: ../share/extensions/text_flipcase.inx:9
+#: ../share/extensions/text_lowercase.inx:9
+#: ../share/extensions/text_randomcase.inx:9
+#: ../share/extensions/text_sentencecase.inx:9
+#: ../share/extensions/text_titlecase.inx:9
+#: ../share/extensions/text_uppercase.inx:9
+msgid "Change Case"
+msgstr "Canvia majúscules/minúscules"
+
+#: ../share/extensions/text_lowercase.inx:3
+msgid "lowercase"
+msgstr "minúscules"
+
+#: ../share/extensions/text_merge.inx:21
+msgid "Flow text"
+msgstr "Flux de text"
+
+#: ../share/extensions/text_merge.inx:22
+msgid "Keep style"
+msgstr "Mantén l'estil"
+
+#: ../share/extensions/text_randomcase.inx:3
+msgid "rANdOm CasE"
+msgstr "a l'ATzaR"
+
+#: ../share/extensions/text_sentencecase.inx:3
+msgid "Sentence case"
+msgstr "Majúscules a l'inici de frase"
+
+#: ../share/extensions/text_split.inx:3
+#, fuzzy
+msgid "Split Text"
+msgstr "Divideix el text"
+
+#: ../share/extensions/text_split.inx:7
+msgid "Split:"
+msgstr "Divideix:"
+
+#: ../share/extensions/text_split.inx:8
+msgctxt "split"
+msgid "Lines"
+msgstr "Línies"
+
+#: ../share/extensions/text_split.inx:9
+msgctxt "split"
+msgid "Words"
+msgstr "Paraules"
+
+#: ../share/extensions/text_split.inx:10
+msgctxt "split"
+msgid "Letters"
+msgstr "Lletres"
+
+#: ../share/extensions/text_split.inx:12
+#, fuzzy
+msgid ""
+"Threshold for separating manual kerns into words (multiples of font size)"
+msgstr ""
+"Llindar per a separar els enllaços manuals en paraules (multiplicacions de "
+"la mida del tipus de lletra)"
+
+#: ../share/extensions/text_split.inx:16
+msgid "This effect splits texts into different lines, words or letters."
+msgstr ""
+"Aquest efecte divideix el text en diferents línies, paraules o lletres."
+
+#: ../share/extensions/text_split.inx:17
+#, fuzzy
+msgid ""
+"Doing so leads the text to lose a lot of its semantics. Only use this effect"
+" if you know what you're doing!"
+msgstr ""
+"Això fa que el text perdi molta de la seva semàntica. Utilitzeu aquest "
+"efecte només si sabeu el que esteu fent!"
+
+#: ../share/extensions/text_split.inx:19
+#, fuzzy
+msgid ""
+"This extension can work with standard text elements, both SVG2 and SVG1.2 "
+"flowed text elements and manual kerns. It does not work for TextPath "
+"elements."
+msgstr ""
+"Aquesta extensió pot funcionar amb elements de text estàndard, tant SVG2 com"
+" SVG1.2, elements de text flotants i enllaços manuals. No funciona per als "
+"elements de TextPath."
+
+#: ../share/extensions/text_split.inx:21
+#, fuzzy
+msgid ""
+"Note that the extension only uses a very rough estimate of the position of "
+"each word/letter. Text with different writing mode (e.g. tb-rl) is "
+"processed, but will be misaligned. Automatic line breaks in legacy flowtext "
+"(flowroot elements) are ignored."
+msgstr ""
+"Tingueu en compte que l'extensió només utilitza una estimació molt "
+"aproximada de la posició de cada paraula/lletra. El text amb un mode "
+"d'escriptura diferent (p. ex. tb-rl) es processa, però s'alinearà malament. "
+"S'ignoren els salts de línia automàtics en el flux de text heretat (elements"
+" de flux arrel)."
+
+#: ../share/extensions/text_titlecase.inx:3
+msgid "Title Case"
+msgstr "Cada Paraula Comença En Majúscules"
+
+#: ../share/extensions/text_uppercase.inx:3
+msgid "UPPERCASE"
+msgstr "MAJÚSCULES"
+
+#: ../share/extensions/triangle.inx:3
+msgid "Triangle"
+msgstr "Triangle"
+
+#: ../share/extensions/triangle.inx:5
+msgid "Side Length a (px):"
+msgstr "Longitud del costat a (px):"
+
+#: ../share/extensions/triangle.inx:6
+msgid "Side Length b (px):"
+msgstr "Longitud del costat b (px):"
+
+#: ../share/extensions/triangle.inx:7
+msgid "Side Length c (px):"
+msgstr "Longitud del costat c (px):"
+
+#: ../share/extensions/triangle.inx:8
+msgid "Angle a (deg):"
+msgstr "Angle a (graus):"
+
+#: ../share/extensions/triangle.inx:9
+msgid "Angle b (deg):"
+msgstr "Angle b (graus):"
+
+#: ../share/extensions/triangle.inx:10
+msgid "Angle c (deg):"
+msgstr "Angle c (graus):"
+
+#: ../share/extensions/triangle.inx:12
+msgid "From Three Sides"
+msgstr "A partir dels tres costats"
+
+#: ../share/extensions/triangle.inx:13
+msgid "From Sides a, b and Angle c"
+msgstr "A partir dels costats a, b i l'angle c"
+
+#: ../share/extensions/triangle.inx:14
+msgid "From Sides a, b and Angle a"
+msgstr "A partir dels costats a, b i l'angle a"
+
+#: ../share/extensions/triangle.inx:15
+msgid "From Side a and Angles a, b"
+msgstr "A partir del costat a i els angles a, b"
+
+#: ../share/extensions/triangle.inx:16
+msgid "From Side c and Angles a, b"
+msgstr "A partir del costat c i els angles a, b"
+
+#: ../share/extensions/twirl.inx:3
+#, fuzzy
+msgid "Twirl"
+msgstr "Twirl"
+
+#: ../share/extensions/twirl.inx:5
+#, fuzzy
+msgid "Amount of twirl:"
+msgstr "Quantitat de twirl:"
+
+#: ../share/extensions/twirl.inx:6
+msgid "Rotation is clockwise"
+msgstr "Gira en sentit horari"
+
+#: ../share/extensions/ungroup_deep.inx:3
+msgid "Deep Ungroup"
+msgstr "Desagrupació profunda"
+
+#: ../share/extensions/ungroup_deep.inx:5
+msgid "Ungroup all groups in the selected object."
+msgstr "Desagrupa tots els grups de l'objecte seleccionat."
+
+#: ../share/extensions/ungroup_deep.inx:6
+msgid "Starting Depth"
+msgstr "Profunditat de partida"
+
+#: ../share/extensions/ungroup_deep.inx:7
+msgid "Stopping Depth (from top)"
+msgstr "Profunditat de parada (des de dalt)"
+
+#: ../share/extensions/ungroup_deep.inx:8
+msgid "Depth to Keep (from bottom)"
+msgstr "Profunditat per a mantenir (des de sota)"
+
+#: ../share/extensions/voronoi_diagram.inx:3
+#: ../share/extensions/voronoi_diagram.inx:9
+msgid "Voronoi Diagram"
+msgstr "Diagrama Voronoi"
+
+#: ../share/extensions/voronoi_diagram.inx:8
+msgid "Type of diagram:"
+msgstr "Tipus de diagrama:"
+
+#: ../share/extensions/voronoi_diagram.inx:10
+msgid "Delaunay Triangulation"
+msgstr "Triangulació Delaunay"
+
+#: ../share/extensions/voronoi_diagram.inx:11
+msgid "Voronoi and Delaunay"
+msgstr "Voronoi i Delaunay"
+
+#: ../share/extensions/voronoi_diagram.inx:13
+msgid "Options for Voronoi diagram"
+msgstr "Opcions pel diagrama Voronoi"
+
+#: ../share/extensions/voronoi_diagram.inx:14
+msgid "Bounding box of the diagram:"
+msgstr "Capsa contenidora del diagrama:"
+
+#: ../share/extensions/voronoi_diagram.inx:16
+msgid "Automatic from selected objects"
+msgstr "Automàtic des dels objectes seleccionats"
+
+#: ../share/extensions/voronoi_diagram.inx:18
+msgid "Show the bounding box"
+msgstr "Mostra la capsa contenidora"
+
+#: ../share/extensions/voronoi_diagram.inx:19
+msgid "Options for Delaunay Triangulation"
+msgstr "Opcions per la Triangulació Delaunay"
+
+#: ../share/extensions/voronoi_diagram.inx:20
+msgid "Triangles color"
+msgstr "Color dels triangles"
+
+#: ../share/extensions/voronoi_diagram.inx:21
+msgid "Default (Stroke black and no fill)"
+msgstr "Per defecte (Traç negre sense farcir)"
+
+#: ../share/extensions/voronoi_diagram.inx:22
+msgid "Triangles with item color"
+msgstr "Triangles amb el color de l'element"
+
+#: ../share/extensions/voronoi_diagram.inx:23
+msgid "Triangles with item color (random on apply)"
+msgstr "Triangles amb el color de l'element (és aleatori quan s'aplica)"
+
+#: ../share/extensions/voronoi_diagram.inx:27
+msgid ""
+"Select a set of objects. Their centroids will be used as the sites of the "
+"Voronoi diagram. Text objects are not handled."
+msgstr ""
+"Seleccioneu un conjunt d'objectes. Els seus baricentres s'usaran com a llocs"
+" del diagrama Voronoi. Els objectes de text no es gestionen."
+
+#: ../share/extensions/voronoi_fill.inx:3
+#, fuzzy
+msgid "Voronoi Pattern Fill"
+msgstr "Emplenat del patró Voronoi"
+
+#: ../share/extensions/voronoi_fill.inx:8
+msgid "Average size of cell (px):"
+msgstr "Mida mitjana de la cel·la (px):"
+
+#: ../share/extensions/voronoi_fill.inx:9
+msgid "Size of Border (px):"
+msgstr "Mida de la vora (px):"
+
+#: ../share/extensions/voronoi_fill.inx:12
+msgid ""
+"Generate a random pattern of Voronoi cells. The pattern will be accessible in the Fill and Stroke dialog. You must select an object or a group.\n"
+"\n"
+"If border is zero, the pattern will be discontinuous at the edges. Use a positive border, preferably greater than the cell size, to produce a smooth join of the pattern at the edges. Use a negative border to reduce the size of the pattern and get an empty border."
+msgstr ""
+"Genera un patró aleatori de cel·les de Voronoi. El patró serà accessible en el quadre de diàleg «Emplenat i traç». Heu de seleccionar un objecte o un grup. \n"
+"\n"
+"Si la vora és zero, el patró serà discontinu als cantons. Utilitzeu una vora positiva, preferiblement més gran que la mida de cel·la, per a produir una unió suau del patró als cantons. Utilitzeu una vora negativa per a reduir la mida del patró i obtenir una vora buida."
+
+#: ../share/extensions/web_interactive_mockup.inx:3
+msgid "Interactive Mockup"
+msgstr "Mockup interactiu"
+
+#: ../share/extensions/web_interactive_mockup.inx:8
+#, fuzzy
+msgid "click"
+msgstr "clica"
+
+#: ../share/extensions/web_interactive_mockup.inx:9
+#, fuzzy
+msgid "focus (e.g. with tab key)"
+msgstr "focus (p. ex. amb la tecla de tabulació)"
+
+#: ../share/extensions/web_interactive_mockup.inx:10
+#, fuzzy
+msgid "remove focus (e.g. with tab key)"
+msgstr "elimina el focus (p. ex. amb la tecla de tabulació)"
+
+#: ../share/extensions/web_interactive_mockup.inx:11
+#, fuzzy
+msgid "activate"
+msgstr "activa"
+
+#: ../share/extensions/web_interactive_mockup.inx:12
+#, fuzzy
+msgid "press left mouse button down"
+msgstr "premeu el botó esquerre del ratolí cap avall"
+
+#: ../share/extensions/web_interactive_mockup.inx:13
+#, fuzzy
+msgid "let left mouse button go"
+msgstr "deixa anar el botó esquerre del ratolí"
+
+#: ../share/extensions/web_interactive_mockup.inx:14
+#, fuzzy
+msgid "move cursor into object"
+msgstr "mou el cursor a l'objecte"
+
+#: ../share/extensions/web_interactive_mockup.inx:15
+#, fuzzy
+msgid "move cursor within object"
+msgstr "mou el cursor dins de l'objecte"
+
+#: ../share/extensions/web_interactive_mockup.inx:16
+#, fuzzy
+msgid "move cursor out of object"
+msgstr "mou el cursor fora de l'objecte"
+
+#: ../share/extensions/web_interactive_mockup.inx:17
+#, fuzzy
+msgid "element is loaded by browser"
+msgstr "l'element està carregat pel navegador"
+
+#: ../share/extensions/web_interactive_mockup.inx:21
+#, fuzzy
+msgid ""
+"This extension allows you to create interactive elements in your drawing. "
+"These will react to user actions when the file is viewed in a web browser."
+msgstr ""
+"Aquesta extensió us permet crear elements interactius en el vostre dibuix. "
+"Reaccionaran a les accions de l'usuari quan el fitxer es vegi en un "
+"navegador web."
+
+#: ../share/extensions/web_interactive_mockup.inx:22
+#, fuzzy
+msgid ""
+"When the interaction is triggered (e.g. by a click on an object that looks "
+"like a button), the view will shift to another element. This is achieved by "
+"changing the viewbox of the SVG with JavaScript."
+msgstr ""
+"Quan s'activa la interacció (p. ex. fent clic sobre un objecte que "
+"s'assembla a un botó), la vista es desplaçarà a un altre element. Això "
+"s'aconsegueix canviant el quadre de visualització del SVG amb JavaScript."
+
+#: ../share/extensions/web_interactive_mockup.inx:23
+#, fuzzy
+msgid ""
+"To add interactivity to one or more elements in the drawing, select these "
+"first. Add the element that the user will see after the interaction to the "
+"selection. Select which action a user must do to make the interactivity "
+"happen and click on Apply. Each element can respond to multiple (different) "
+"actions."
+msgstr ""
+"Per a afegir interactivitat a un o més elements en el dibuix, seleccioneu-"
+"los primer. Afegeix l'element que l'usuari veurà després de la interacció a "
+"la selecció. Seleccioneu quina acció ha de fer un usuari per a fer que passi"
+" la interactivitat i feu clic a Aplica. Cada element pot respondre a "
+"múltiples accions (diferents)."
+
+#: ../share/extensions/web_interactive_mockup.inx:29
+#: ../share/extensions/web_set_att.inx:42
+#: ../share/extensions/web_transmit_att.inx:40
+#: ../share/extensions/webslicer_create_group.inx:29
+#: ../share/extensions/webslicer_create_rect.inx:63
+#: ../share/extensions/webslicer_export.inx:19
+msgid "Web"
+msgstr "Web"
+
+#: ../share/extensions/web_set_att.inx:3
+msgid "Set Attributes"
+msgstr "Estableix els atributs"
+
+#: ../share/extensions/web_set_att.inx:7
+msgid "Attribute to set:"
+msgstr "Atribut per a establir:"
+
+#: ../share/extensions/web_set_att.inx:8
+msgid "When should the set be done:"
+msgstr "Quan s'ha d'establir el valor:"
+
+#: ../share/extensions/web_set_att.inx:9
+#: ../share/extensions/web_transmit_att.inx:9
+msgid "on click"
+msgstr "en clicar"
+
+#: ../share/extensions/web_set_att.inx:10
+#: ../share/extensions/web_transmit_att.inx:10
+msgid "on focus"
+msgstr "en enfocar"
+
+#: ../share/extensions/web_set_att.inx:11
+#: ../share/extensions/web_transmit_att.inx:11
+msgid "on blur"
+msgstr "en desenfocar"
+
+#: ../share/extensions/web_set_att.inx:12
+#: ../share/extensions/web_transmit_att.inx:12
+msgid "on activate"
+msgstr "en activar"
+
+#: ../share/extensions/web_set_att.inx:13
+#: ../share/extensions/web_transmit_att.inx:13
+msgid "on mouse down"
+msgstr "en clicar el ratolí"
+
+#: ../share/extensions/web_set_att.inx:14
+#: ../share/extensions/web_transmit_att.inx:14
+msgid "on mouse up"
+msgstr "en deixar de clicar el ratolí"
+
+#: ../share/extensions/web_set_att.inx:15
+#: ../share/extensions/web_transmit_att.inx:15
+msgid "on mouse over"
+msgstr "en passar el ratolí per sobre"
+
+#: ../share/extensions/web_set_att.inx:16
+#: ../share/extensions/web_transmit_att.inx:16
+msgid "on mouse move"
+msgstr "en moure el ratolí"
+
+#: ../share/extensions/web_set_att.inx:17
+#: ../share/extensions/web_transmit_att.inx:17
+msgid "on mouse out"
+msgstr "en retirar el ratolí"
+
+#: ../share/extensions/web_set_att.inx:18
+#: ../share/extensions/web_transmit_att.inx:18
+msgid "on element loaded"
+msgstr "en l'element carregat"
+
+#: ../share/extensions/web_set_att.inx:20
+msgid "The list of values must have the same size as the attributes list."
+msgstr ""
+"La llista de valors ha de tenir la mateixa mida que la llista d'atributs."
+
+#: ../share/extensions/web_set_att.inx:21
+msgid "Value to set:"
+msgstr "Valor a establir:"
+
+#: ../share/extensions/web_set_att.inx:22
+#: ../share/extensions/web_transmit_att.inx:20
+msgid "Compatibility with previews code to this event:"
+msgstr "Compatibilitat d'aquest esdeveniment amb el codi de previsualització:"
+
+#: ../share/extensions/web_set_att.inx:23
+#: ../share/extensions/web_transmit_att.inx:21
+msgid "Run it after"
+msgstr "Executa-ho després"
+
+#: ../share/extensions/web_set_att.inx:24
+#: ../share/extensions/web_transmit_att.inx:22
+msgid "Run it before"
+msgstr "Executa-ho abans"
+
+#: ../share/extensions/web_set_att.inx:27
+#: ../share/extensions/web_transmit_att.inx:25
+msgid "The next parameter is useful when you select more than two elements"
+msgstr ""
+"El paràmetre següent només és útil quan seleccioneu més de dos elements"
+
+#: ../share/extensions/web_set_att.inx:28
+msgid "Source and destination of setting:"
+msgstr "Origen i destinació de l'opció:"
+
+#: ../share/extensions/web_set_att.inx:29
+msgid "All selected ones set an attribute in the last one"
+msgstr "Tots els seleccionats defineixen un atribut en l'últim"
+
+#: ../share/extensions/web_set_att.inx:30
+msgid "The first selected sets an attribute in all others"
+msgstr ""
+"El primer seleccionat defineix el valor de l'atribut a tots els altres"
+
+#: ../share/extensions/web_set_att.inx:34
+#: ../share/extensions/web_transmit_att.inx:32
+msgid ""
+"This effect adds a feature visible (or usable) only on a SVG enabled web "
+"browser (like Firefox)."
+msgstr ""
+"Aquest efecte només és visible i útil en navegadors web que admetin SVG (com"
+" el Firefox)."
+
+#: ../share/extensions/web_set_att.inx:35
+msgid ""
+"This effect sets one or more attributes in the second selected element, when"
+" a defined event occurs on the first selected element."
+msgstr ""
+"Aquest efecte defineix un o més atributs del segon element seleccionat, quan"
+" succeeix un esdeveniment del primer element seleccionat."
+
+#: ../share/extensions/web_set_att.inx:36
+msgid ""
+"If you want to set more than one attribute, you must separate this with a "
+"space, and only with a space."
+msgstr ""
+"Si voleu establir el valor de més d'un atribut, heu de separar-los amb un "
+"únic espai."
+
+#: ../share/extensions/web_set_att.inx:43
+#: ../share/extensions/web_transmit_att.inx:41
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: ../share/extensions/web_transmit_att.inx:3
+msgid "Transmit Attributes"
+msgstr "Traspassa els atributs"
+
+#: ../share/extensions/web_transmit_att.inx:7
+msgid "Attribute to transmit:"
+msgstr "Atribut a traspassar:"
+
+#: ../share/extensions/web_transmit_att.inx:8
+msgid "When to transmit:"
+msgstr "Quan s'ha de traspassar:"
+
+#: ../share/extensions/web_transmit_att.inx:26
+msgid "Source and destination of transmitting:"
+msgstr "Origen i destinació del traspàs:"
+
+#: ../share/extensions/web_transmit_att.inx:27
+msgid "All selected ones transmit to the last one"
+msgstr "Tots els seleccionats ho traspassen a l'últim"
+
+#: ../share/extensions/web_transmit_att.inx:28
+msgid "The first selected transmits to all others"
+msgstr "El primer seleccionat ho traspassa als altres"
+
+#: ../share/extensions/web_transmit_att.inx:33
+msgid ""
+"This effect transmits one or more attributes from the first selected element"
+" to the second when an event occurs."
+msgstr ""
+"Aquest efecte traspassa un o més atributs del primer element seleccionat al "
+"segon quan succeeix l'esdeveniment."
+
+#: ../share/extensions/web_transmit_att.inx:34
+msgid ""
+"If you want to transmit more than one attribute, you should separate this "
+"with a space, and only with a space."
+msgstr ""
+"Si voleu traspassar més d'un atribut, haureu de separar-los amb un únic "
+"espai."
+
+#: ../share/extensions/webslicer_create_group.inx:3
+#, fuzzy
+msgid "Set a Layout Group"
+msgstr "Estableix un grup de disposició"
+
+#: ../share/extensions/webslicer_create_group.inx:8
+#: ../share/extensions/webslicer_create_rect.inx:33
+msgid "HTML id attribute:"
+msgstr "Atribut HTML id:"
+
+#: ../share/extensions/webslicer_create_group.inx:9
+#: ../share/extensions/webslicer_create_rect.inx:34
+msgid "HTML class attribute:"
+msgstr "Atribut HTML class:"
+
+#: ../share/extensions/webslicer_create_group.inx:10
+msgid "Width unit:"
+msgstr "Unitats d'amplada:"
+
+#: ../share/extensions/webslicer_create_group.inx:11
+#: ../share/extensions/webslicer_create_group.inx:16
+msgid "Pixel (fixed)"
+msgstr "Píxel (fix)"
+
+#: ../share/extensions/webslicer_create_group.inx:12
+#: ../share/extensions/webslicer_create_group.inx:17
+msgid "Percent (relative to parent size)"
+msgstr "Percentatge (relatiu a la mida del pare)"
+
+#: ../share/extensions/webslicer_create_group.inx:13
+#: ../share/extensions/webslicer_create_group.inx:18
+msgid "Undefined (relative to non-floating content size)"
+msgstr "Indefinit (relatiu a la mida del contingut no flotant)"
+
+#: ../share/extensions/webslicer_create_group.inx:15
+msgid "Height unit:"
+msgstr "Unitats d'alçada:"
+
+#: ../share/extensions/webslicer_create_group.inx:20
+#: ../share/extensions/webslicer_create_rect.inx:17
+msgid "Background color:"
+msgstr "Color de fons:"
+
+#: ../share/extensions/webslicer_create_group.inx:23
+msgid ""
+"Layout Group is only about to help a better code generation (if you need "
+"it). To use this, you must to select some \"Slicer rectangles\" first."
+msgstr ""
+"La disposició en grups només serveix per a generar un codi millor (si el "
+"necessiteu). Per a utilitzar-ho, primer heu de seleccionar uns «rectangles "
+"de tall»."
+
+#: ../share/extensions/webslicer_create_group.inx:30
+#: ../share/extensions/webslicer_create_rect.inx:64
+#: ../share/extensions/webslicer_export.inx:20
+msgid "Slicer"
+msgstr "Cisalla"
+
+#: ../share/extensions/webslicer_create_rect.inx:3
+#, fuzzy
+msgid "Create a Slicer Rectangle"
+msgstr "Crea un rectangle tallador"
+
+#: ../share/extensions/webslicer_create_rect.inx:12
+msgid "DPI:"
+msgstr "PPP:"
+
+#: ../share/extensions/webslicer_create_rect.inx:13
+msgid "Force Dimension:"
+msgstr "Dimensió fixada:"
+
+#. i18n. Description duplicated in a fake value attribute in order to make it
+#. translatable
+#: ../share/extensions/webslicer_create_rect.inx:15
+msgid "Force Dimension must be set as <width>x<height>"
+msgstr "Cal establir la dimensió fixada com a <amplada>x<alçada>"
+
+#: ../share/extensions/webslicer_create_rect.inx:16
+msgid "If set, this will replace DPI."
+msgstr "Si es defineix, aquest reemplaçarà els PPP."
+
+#: ../share/extensions/webslicer_create_rect.inx:19
+msgid "JPG"
+msgstr "JPG"
+
+#: ../share/extensions/webslicer_create_rect.inx:20
+msgid "JPG specific options"
+msgstr "Opcions específiques del JPG"
+
+#: ../share/extensions/webslicer_create_rect.inx:22
+msgid ""
+"0 is the lowest image quality and highest compression, and 100 is the best "
+"quality but least effective compression"
+msgstr ""
+"0 és la qualitat d'imatge més baixa i la millor compressió; 100 és la "
+"qualitat d'imatge més bona i la pitjor compressió"
+
+# File: ../share/extensions/webslicer_create_rect.inx, line: 11
+#: ../share/extensions/webslicer_create_rect.inx:24
+msgid "GIF"
+msgstr "GIF"
+
+#: ../share/extensions/webslicer_create_rect.inx:25
+msgid "GIF specific options"
+msgstr "Opcions específiques del GIF"
+
+#: ../share/extensions/webslicer_create_rect.inx:30
+msgid "Palette size:"
+msgstr "Mida de la paleta:"
+
+# File: ../share/extensions/webslicer_create_rect.inx, line: 33
+#: ../share/extensions/webslicer_create_rect.inx:32
+msgid "HTML"
+msgstr "HTML"
+
+#: ../share/extensions/webslicer_create_rect.inx:35
+msgid "Options for HTML export"
+msgstr "Opcions de l'exportació HTML"
+
+#: ../share/extensions/webslicer_create_rect.inx:36
+msgid "Layout disposition:"
+msgstr "Disposició:"
+
+#: ../share/extensions/webslicer_create_rect.inx:37
+msgid "Positioned html block element with the image as Background"
+msgstr "Element bloc html posicionat amb la imatge com a fons"
+
+#: ../share/extensions/webslicer_create_rect.inx:38
+msgid "Tiled Background (on parent group)"
+msgstr "Fons en mosaic (al grup pare)"
+
+#: ../share/extensions/webslicer_create_rect.inx:39
+msgid "Background — repeat horizontally (on parent group)"
+msgstr "Fons — repeteix horitzontalment (al grup pare)"
+
+#: ../share/extensions/webslicer_create_rect.inx:40
+msgid "Background — repeat vertically (on parent group)"
+msgstr "Fons — repeteix verticalment (al grup pare)"
+
+#: ../share/extensions/webslicer_create_rect.inx:41
+msgid "Background — no repeat (on parent group)"
+msgstr "Fons — sense repetir (al grup pare)"
+
+#: ../share/extensions/webslicer_create_rect.inx:42
+msgid "Positioned Image"
+msgstr "Imatge posicionada"
+
+#: ../share/extensions/webslicer_create_rect.inx:43
+msgid "Non Positioned Image"
+msgstr "Imatge sense posició"
+
+#: ../share/extensions/webslicer_create_rect.inx:44
+msgid "Left Floated Image"
+msgstr "Imatge flotant de l'esquerra"
+
+#: ../share/extensions/webslicer_create_rect.inx:45
+msgid "Right Floated Image"
+msgstr "Imatge flotant de la dreta"
+
+#: ../share/extensions/webslicer_create_rect.inx:47
+msgid "Position anchor:"
+msgstr "Posició de l'àncora:"
+
+#: ../share/extensions/webslicer_create_rect.inx:48
+msgid "Top and Left"
+msgstr "A dalt i a l'esquerra"
+
+#: ../share/extensions/webslicer_create_rect.inx:49
+msgid "Top and Center"
+msgstr "A dalt i centrat"
+
+#: ../share/extensions/webslicer_create_rect.inx:50
+msgid "Top and right"
+msgstr "A dalt i a la dreta"
+
+#: ../share/extensions/webslicer_create_rect.inx:51
+msgid "Middle and Left"
+msgstr "Al mig i a l'esquerra"
+
+#: ../share/extensions/webslicer_create_rect.inx:52
+msgid "Middle and Center"
+msgstr "Al mig i al centre"
+
+#: ../share/extensions/webslicer_create_rect.inx:53
+msgid "Middle and Right"
+msgstr "Al mig i a la dreta"
+
+#: ../share/extensions/webslicer_create_rect.inx:54
+msgid "Bottom and Left"
+msgstr "Avall i a l'esquerra"
+
+#: ../share/extensions/webslicer_create_rect.inx:55
+msgid "Bottom and Center"
+msgstr "Avall i al centre"
+
+#: ../share/extensions/webslicer_create_rect.inx:56
+msgid "Bottom and Right"
+msgstr "Avall i a la dreta"
+
+#: ../share/extensions/webslicer_export.inx:3
+#, fuzzy
+msgid "Export Layout Pieces and HTML+CSS code"
+msgstr "Exporta les peces de disposició i el codi HTML+CSS"
+
+#: ../share/extensions/webslicer_export.inx:8
+msgid "Directory path to export:"
+msgstr "Camí del directori d'exportació:"
+
+#: ../share/extensions/webslicer_export.inx:9
+msgid "Create directory, if it does not exists"
+msgstr "Crea un directori, si no existeix"
+
+#: ../share/extensions/webslicer_export.inx:10
+msgid "With HTML and CSS"
+msgstr "Amb HTML i CSS"
+
+#: ../share/extensions/webslicer_export.inx:13
+msgid ""
+"All sliced images, and optionally - code, will be generated as you had "
+"configured and saved to one directory."
+msgstr ""
+"Totes les imatges tallades, i opcionalment el codi, es generaran tal com ho "
+"heu configurat i es desaran en un directori."
+
+#: ../share/extensions/wireframe_sphere.inx:3
+msgid "Wireframe Sphere"
+msgstr "Esfera en filferros"
+
+#: ../share/extensions/wireframe_sphere.inx:5
+msgid "Lines of latitude:"
+msgstr "Línies de latitud:"
+
+#: ../share/extensions/wireframe_sphere.inx:6
+msgid "Lines of longitude:"
+msgstr "Línies de longitud:"
+
+#: ../share/extensions/wireframe_sphere.inx:7
+msgid "Tilt (deg):"
+msgstr "Inclinació (graus):"
+
+#: ../share/extensions/wireframe_sphere.inx:10
+msgid "Hide lines behind the sphere"
+msgstr "Oculta les línies darrere l'esfera"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:8
+#, fuzzy
+msgid "The Inkscape Community"
+msgstr "La comunitat Inkscape"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:11
+#: ../org.inkscape.Inkscape.desktop.template:5
+msgid "Inkscape"
+msgstr "Inkscape"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:12
+#: ../org.inkscape.Inkscape.desktop.template:6
+msgid "Vector Graphics Editor"
+msgstr "Editor de gràfics vectorials"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:14
+msgid ""
+"A Free and open source vector graphics editor. It offers a rich set of "
+"features and is widely used for both artistic and technical illustrations "
+"such as cartoons, clip art, logos, typography, diagramming and flowcharting."
+msgstr ""
+"Un editor de vectors gràfics lliure i de codi obert. Ofereix un paquet de "
+"característiques utilitzat àmpliament tant en il·lustracions artístiques com"
+" tècniques, com ara dibuixos, clips d'art, logos, tipografies i diagrames."
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:17
+msgid ""
+"It uses vector graphics to allow for sharp printouts and renderings at "
+"unlimited resolution and is not bound to a fixed number of pixels like "
+"raster graphics. Inkscape uses the standardized SVG file format as its main "
+"format, which is supported by many other applications including web "
+"browsers."
+msgstr ""
+"Utilitza gràfics vectorials per a permetre impressions i representacions a "
+"resolució il·limitada i no està lligat a un nombre fix de píxels com els "
+"gràfics rasteritzats. L'Inkscape utilitza el format de fitxer SVG "
+"estandarditzat com el seu format principal, que és compatible amb moltes "
+"altres aplicacions, inclosos els navegadors web."
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:20
+msgid ""
+"Inkscape supports many advanced SVG features (markers, clones, alpha "
+"blending, etc.) and great care is taken in designing a streamlined "
+"interface. It is very easy to edit nodes, perform complex path operations, "
+"trace bitmaps and much more. We also aim to maintain a thriving user and "
+"developer community by using open, community-oriented development."
+msgstr ""
+"L'Inkscape té moltes funcionalitats SVG avançades (marcadors, clons, alfa, "
+"mescla, etc.). S'ha tingut molta cura en dissenyar la seva interfície "
+"d'usuari. És molt senzill editar nodes, i fer operacions complexes amb "
+"camins, o dibuixar mapes de bits. Mantenim també una comunitat d'usuaris i "
+"desenvolupadors activa al voltant del seu desenvolupament comunitari."
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:43
+msgid "Main application window"
+msgstr "Finestra principal de l'aplicació"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:49
+#, fuzzy
+msgid "Inkscape 1.3"
+msgstr "Inkscape 1.3"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:51
+#, fuzzy
+msgid "Shape builder tool"
+msgstr "Eina de construcció de formes"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:52
+#, fuzzy
+msgid "On-canvas pattern editing"
+msgstr "Edició de patrons en el llenç"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:53
+#, fuzzy
+msgid "Pattern editor"
+msgstr "Editor de patrons"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:54
+#, fuzzy
+msgid "Pages margins and bleed"
+msgstr "Marges de pàgines i sagnat"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:55
+#, fuzzy
+msgid "Document resources dialog"
+msgstr "Diàleg de recursos del document"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:56
+#, fuzzy
+msgid "Font collections"
+msgstr "Col·leccions de tipus de lletra"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:57
+#, fuzzy
+msgid "Syntax highlighting in XML Editor"
+msgstr "Ressaltat de la sintaxi a l'editor XML"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:58
+#, fuzzy
+msgid "LPE dialog user interface redesign"
+msgstr "Redisseny de la interfície d'usuari del diàleg LPE"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:59
+#, fuzzy
+msgid "Lots of performance improvements and bugfixes"
+msgstr "Moltes millores de rendiment i correccions d'errors"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:66
+#, fuzzy
+msgid "Inkscape 1.2"
+msgstr "Inkscape 1.2"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:68
+#, fuzzy
+msgid "Multiple pages support"
+msgstr "Suport per a múltiples pàgines"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:69
+#, fuzzy
+msgid "Editable markers and dash patterns"
+msgstr "Marcadors i patrons de guió editables"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:70
+#, fuzzy
+msgid "On-canvas alignment and snapping"
+msgstr "Alineació i ajustament al llenç"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:71
+#, fuzzy
+msgid "Selectable origin for numerical transforms"
+msgstr "Origen seleccionable per a les transformacions numèriques"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:72
+#, fuzzy
+msgid "Single dialog for alignment options"
+msgstr "Un únic diàleg per a les opcions d'alineació"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:73
+#, fuzzy
+msgid "Gradient editing in Fill and Stroke dialog"
+msgstr "Edició del degradat en el diàleg Emplena i traça"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:74
+#, fuzzy
+msgid "Layers and Objects dialog merged"
+msgstr "Diàleg de capes i objectes fusionats"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:75
+#, fuzzy
+msgid "New UI for Snap settings"
+msgstr "IU nova per a la configuració Snap"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:76
+#, fuzzy
+msgid "More customization options"
+msgstr "Més opcions de personalització"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:77
+#, fuzzy
+msgid "Various performance improvements and bugfixes"
+msgstr "Diverses millores de rendiment i correccions d'errors"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:84
+msgid "Inkscape 1.1"
+msgstr "Inkscape 1.1"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:86
+#, fuzzy
+msgid "Welcome dialog"
+msgstr "Diàleg de benvinguda"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:87
+#, fuzzy
+msgid "Command palette to search for functions"
+msgstr "Paleta d'ordres per a cercar funcions"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:88
+#, fuzzy
+msgid "Copypaste parts of paths"
+msgstr "Copiaenganxa les parts dels camins"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:89
+#, fuzzy
+msgid "Complete rework of the dialog docking system"
+msgstr "Reelaboració completa del sistema d'acoblament de diàlegs"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:90
+#, fuzzy
+msgid "New outline overlay mode"
+msgstr "Nou mode de superposició del contorn"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:91
+#, fuzzy
+msgid "Search field in Preferences dialog"
+msgstr "Camp de cerca al diàleg de preferències"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:92
+#, fuzzy
+msgid "Improved Export PNG dialog"
+msgstr "Diàleg millorat d'exportació PNG"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:93
+#, fuzzy
+msgid "Ability to directly export JPG, TIFF, optimized PNG, and WebP"
+msgstr "Capacitat per a exportar directament JPG, TIFF, PNG optimitzat i WebP"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:94
+#, fuzzy
+msgid "Paste now pastes directly above selected object"
+msgstr "Enganxa ara enganxa directament sobre l'objecte seleccionat"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:95
+#, fuzzy
+msgid "Beta Extension Manager"
+msgstr "Gestor d'extensions beta"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:102
+#, fuzzy
+msgid "Inkscape 1.0"
+msgstr "Inkscape 1.0"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:104
+#, fuzzy
+msgid "Theming support and more new customization options"
+msgstr "Suport de temes i més opcions noves de personalització"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:105
+#, fuzzy
+msgid "Better HiDPI (high resolution) screen support"
+msgstr "Millor suport de pantalla HiDPI (alta resolució)"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:106
+#, fuzzy
+msgid "Native support for macOS with a signed and notarized .dmg file"
+msgstr "Suport natiu per al macOS amb un fitxer .dmg signat i anotat"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:107
+#, fuzzy
+msgid "Coordinate origin in top left corner by default"
+msgstr ""
+"Origen de les coordenades a la cantonada superior esquerra per defecte"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:108
+#, fuzzy
+msgid "Canvas rotation and mirroring"
+msgstr "Gir i mirall del llenç"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:109
+#, fuzzy
+msgid "On-Canvas alignment of objects"
+msgstr "Alineació dels objectes al llenç"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:110
+#, fuzzy
+msgid "Split view and X-Ray modes"
+msgstr "Divideix els modes de vista i de raigs X"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:111
+#, fuzzy
+msgid ""
+"PowerPencil for drawing editable, variable width strokes with a pressure "
+"sensitive graphics tablet"
+msgstr ""
+"PowerPencil per a dibuixar traços d'amplada variable editables amb una "
+"tauleta gràfica sensible a la pressió"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:112
+#, fuzzy
+msgid "New PNG export options"
+msgstr "Noves opcions d'exportació PNG"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:113
+#, fuzzy
+msgid "Integrated centerline tracing for vectorizing line drawings"
+msgstr ""
+"Traçat integrat de la línia central per als dibuixos de línies vectorials"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:114
+#, fuzzy
+msgid "Searchable Symbols dialog"
+msgstr "Diàleg de símbols cercables"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:115
+#, fuzzy
+msgid "New Live Path Effect (LPE) selection dialog"
+msgstr "Diàleg de selecció Efecte nou del camí autònom (LPE)"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:116
+#, fuzzy
+msgid ""
+"New Corners (Fillet/chamfer) LPE, (lossless) Boolean Operation LPE "
+"(experimental), Offset LPE and Measure Segments LPE (and more!)"
+msgstr ""
+"Cantonades noves (Fillet/chamfer) LPE, (sense pèrdua) Operació booleana LPE "
+"(experimental), Desplaçament LPE i Mesura els segments LPE (i més!)"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:117
+#, fuzzy
+msgid ""
+"Path operations, deselection of a large number of paths as well as "
+"grouping/ungrouping are much faster now"
+msgstr ""
+"Les operacions de camins, la selecció d'un gran nombre de camins, així com "
+"l'agrupació/desagrupament són molt més ràpides ara"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:118
+#, fuzzy
+msgid "Much improved text line-height settings"
+msgstr "Configuració de l'alçada de línia de text molt millorada"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:119
+#, fuzzy
+msgid ""
+"Variable fonts support (only if compiled with pango library version &gt;= "
+"1.41.1)"
+msgstr ""
+"Permet tipus de lletra variables (només si es compila amb la versió de la "
+"biblioteca de pango gt;= 1.41.1)"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:120
+#, fuzzy
+msgid "Browser-compatible flowed text"
+msgstr "Text flotant compatible amb el navegador"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:121
+#, fuzzy
+msgid ""
+"Extensions programming interface updated, with many new options - Note: this"
+" introduces breaking changes, some third-party extensions will have to be "
+"updated to work with Inkscape 1.0"
+msgstr ""
+"S'ha actualitzat la interfície de programació d'extensions, amb moltes "
+"opcions noves - Nota: això introdueix canvis trencadors, algunes extensions "
+"de tercers s'hauran d'actualitzar per treballar amb l'Inkscape 1.0"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:122
+#, fuzzy
+msgid "Python 3 support for extensions"
+msgstr "Implementació del Python 3 per a les extensions"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:130
+#, fuzzy
+msgid "Bugfix release"
+msgstr "Llançament de correcció d'errors"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:131
+#, fuzzy
+msgid "More python3 compatibility for extensions"
+msgstr "Compatibilitat més python3 per a extensions"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:138
+#: ../org.inkscape.Inkscape.appdata.xml.in:151
+#: ../org.inkscape.Inkscape.appdata.xml.in:164
+#, fuzzy
+msgid "New 0.92.x bugfix release."
+msgstr "Nova versió de correcció d'errors 0.92.x."
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:140
+#, fuzzy
+msgid "Improvements to the align and distribute tool"
+msgstr "Millores a l'eina d'alineació i distribució"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:141
+#, fuzzy
+msgid "Support for piping standard input and output"
+msgstr "Implementació per a l'entrada i la sortida estàndard de pipa"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:142
+#, fuzzy
+msgid "The color slider can be constrained to stepped values"
+msgstr "El control lliscant de color es pot restringir als valors esglaonats"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:143
+#, fuzzy
+msgid "Performance improvements"
+msgstr "Millores de rendiment"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:144
+#: ../org.inkscape.Inkscape.appdata.xml.in:157
+#, fuzzy
+msgid "And many more bugfixes"
+msgstr "I moltes més esmenes d'errors"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:153
+#, fuzzy
+msgid "New command-line options to control page size when exporting to SVG"
+msgstr ""
+"Noves opcions de la línia d'ordres per a controlar la mida de la pàgina en "
+"exportar a SVG"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:154
+#, fuzzy
+msgid "Support for left-to-right languages in the text tool"
+msgstr "Suport per a les llengües d'esquerra a dreta a l'eina de text"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:155
+#, fuzzy
+msgid "Improvements to the circle/ellipse/arc tool"
+msgstr "Millores a l'eina cercle/el·lipse/arc"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:156
+#, fuzzy
+msgid "Support for multi-line text when exporting to PDF+LaTeX"
+msgstr "Suport per a text multilínia en exportar a PDF+LaTeX"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:166
+#, fuzzy
+msgid "Better importing and exporting"
+msgstr "Millor importació i exportació"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:167
+#, fuzzy
+msgid "Greater stability when printing on Windows"
+msgstr "Una major estabilitat en imprimir a Windows"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:168
+#, fuzzy
+msgid "Improved fill and stroke HSL color selection"
+msgstr "Millora de la selecció de color HSL per a emplenat i traç"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:169
+#, fuzzy
+msgid "Greater stability when reverting and saving files"
+msgstr "Una major estabilitat en revertir i desar fitxers"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:170
+#, fuzzy
+msgid "An additional handle at the center of shapes"
+msgstr "Una nansa addicional al centre de les formes"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:171
+#, fuzzy
+msgid "A command line option for updating the file's DPI"
+msgstr "Una opció de la línia d'ordres per a actualitzar els PPP del fitxer"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:172
+#, fuzzy
+msgid "Improvements to user-defined shortcuts"
+msgstr "Millores a les dreceres definides per l'usuari"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:173
+#, fuzzy
+msgid "Migration to Gitlab to make contribution easier"
+msgstr "Migració al Gitlab per a facilitar la contribució"
+
+#: ../org.inkscape.Inkscape.appdata.xml.in:174
+#, fuzzy
+msgid "And many more bugfixes!"
+msgstr "I moltes més correccions d'errors!"
+
+#: ../org.inkscape.Inkscape.desktop.template:8
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr "Creeu i editeu imatges de gràfics de vectors escalables"
+
+#: ../org.inkscape.Inkscape.desktop.template:9
+msgid "image;editor;vector;drawing;"
+msgstr "imatge;editor;vector;dibuix;"
+
+#: ../org.inkscape.Inkscape.desktop.template:22
+msgid "New Drawing"
+msgstr "Dibuix nou"
+
+#: ../org.inkscape.Inkscape.desktop.template:27
+msgid "Open a New Window"
+msgstr "Obre una finestra nova"
+
+#: ../share/ui/units.xml:8
+msgid "Percentage"
+msgstr "Percentatge"
+
+#: ../share/ui/units.xml:11
+msgid "pixel"
+msgstr "píxel"
+
+# File: ../share/ui/units.xml, line: 15
+#: ../share/ui/units.xml:15
+msgid "CSS Pixels (96/inch)"
+msgstr "CSS Punts (96/polsada)"
+
+#: ../share/ui/units.xml:18
+msgid "point"
+msgstr "punt"
+
+#: ../share/ui/units.xml:19
+msgid "points"
+msgstr "punts"
+
+#: ../share/ui/units.xml:22
+msgid "PostScript points (72/inch)"
+msgstr "Punts postScript (72/polzada)"
+
+# File: ../share/ui/units.xml, line: 25
+#: ../share/ui/units.xml:25
+msgid "pica"
+msgstr "pica"
+
+#: ../share/ui/units.xml:26
+msgid "picas"
+msgstr "piques"
+
+#: ../share/ui/units.xml:29
+msgid "12 points"
+msgstr "12 punts"
+
+# File: ../share/ui/units.xml, line: 32
+#: ../share/ui/units.xml:32
+msgid "inch"
+msgstr "polzada"
+
+# File: ../share/ui/units.xml, line: 33
+#: ../share/ui/units.xml:33
+msgid "inches"
+msgstr "polzades"
+
+# File: ../share/ui/units.xml, line: 36
+#: ../share/ui/units.xml:36
+msgid "Inches (96 px/in)"
+msgstr "Polzades (96 px/in)"
+
+#: ../share/ui/units.xml:39
+msgid "millimeter"
+msgstr "mil·límetre"
+
+#: ../share/ui/units.xml:40
+msgid "millimeters"
+msgstr "mil·límetres"
+
+# File: ../share/ui/units.xml, line: 43
+#: ../share/ui/units.xml:43
+msgid "Millimeters (25.4 mm/in)"
+msgstr "Mil·límetres (25.4 mm/in)"
+
+#: ../share/ui/units.xml:46
+msgid "centimeter"
+msgstr "centímetre"
+
+#: ../share/ui/units.xml:47
+msgid "centimeters"
+msgstr "centímetres"
+
+#: ../share/ui/units.xml:50
+msgid "Centimeters (10 mm/cm)"
+msgstr "Centímetres (10 mm/cm)"
+
+#: ../share/ui/units.xml:53
+msgid "degree"
+msgstr "grau"
+
+#: ../share/ui/units.xml:60
+msgid "radian"
+msgstr "radian"
+
+#: ../share/ui/units.xml:61
+msgid "radians"
+msgstr "radians"
+
+# File: ../share/ui/units.xml, line: 64
+#: ../share/ui/units.xml:64
+msgid "Radians (180/pi deg/rad)"
+msgstr "Radiants (180/pi deg/rad"
+
+#: ../share/ui/units.xml:67
+msgid "gradian"
+msgstr "grau centesimal"
+
+#: ../share/ui/units.xml:68
+msgid "gradians"
+msgstr "graus centesimals"
+
+# File: ../share/ui/units.xml, line: 71
+#: ../share/ui/units.xml:71
+msgid "Gradians (360/400 deg/grad)"
+msgstr "Graus centesimals (360/400 deg/grad)"
+
+# File: ../share/ui/units.xml, line: 74
+#: ../share/ui/units.xml:74
+msgid "turn"
+msgstr "gir"
+
+#: ../share/ui/units.xml:75
+msgid "turns"
+msgstr "girs"
+
+# File: ../share/ui/units.xml, line: 78
+#: ../share/ui/units.xml:78
+msgid "Turns (360 deg/turn)"
+msgstr "Girs (360 graus/gir)"
+
+#: ../share/ui/units.xml:81
+msgid "font-height"
+msgstr "alçada del tipus de lletra"
+
+#: ../share/ui/units.xml:82
+msgid "font-heights"
+msgstr "alçades del tipus de lletra"
+
+#: ../share/ui/units.xml:85
+msgid "Font height"
+msgstr "Alçada del tipus de lletra"
+
+#: ../share/ui/units.xml:89
+msgid "x-heights"
+msgstr "alçades x"
+
+#: ../share/ui/units.xml:92
+msgid "Height of letter 'x'"
+msgstr "Alçada de la lletra «x»"
+
+# File: ../share/ui/units.xml, line: 95
+#: ../share/ui/units.xml:95
+msgid "half-em"
+msgstr "half-em"
+
+# File: ../share/ui/units.xml, line: 96
+#: ../share/ui/units.xml:96
+msgid "half-ems"
+msgstr "half-ems"
+
+# File: ../share/ui/units.xml, line: 99
+#: ../share/ui/units.xml:99
+msgid "Half of font height"
+msgstr "Meitat de l'alçada del tipus de lletra"
