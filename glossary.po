@@ -1,0 +1,7 @@
+# Terminologia i criteris utilitzats
+#
+#   Anglès           |  Català
+#   -----------------+---------------------------------
+#   canvas          |  llenç
+#   dash            |  ratlla
+
