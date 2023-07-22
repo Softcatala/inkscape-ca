@@ -12,9 +12,9 @@ def main():
     header_len = file_len("header.po")
     start_line = 0
     
-    with open("ca-translated.po", "w") as fh_out:
+    with open("translated/ca.po", "w") as fh_out:
         for file_num in range(1, 20):        
-            fn = f"part-{file_num}.po"
+            fn = f"translated/part-{file_num}.po"
             if not os.path.isfile(fn):
                 break
                 
