@@ -1,4 +1,10 @@
+# Introducció
+
+Projecte de coordinació de la traducció de l'Inkscape al català
+
 # Fitxers originals
+
+Directori: source
 
 * ca.upstream - fitxer original del Inkscape 1.3x
 * ca.po - fitxer on hem llevat les fuzzy i hem retraduit tot el que quedava amb el traductor neuronal
