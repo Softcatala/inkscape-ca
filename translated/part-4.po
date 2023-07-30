@@ -145,17 +145,14 @@ msgid "SVG 2"
 msgstr "SVG 2"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2341
-#, fuzzy
 msgid "Insert SVG 1.1 fallback in text"
-msgstr "Insereix una reserva SVG 1.1 al text"
+msgstr "Insereix una alternativa SVG 1.1 al text"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2342
-#, fuzzy
 msgid "Insert JavaScript code for mesh gradients"
 msgstr "Insereix codi JavaScript per als degradats de la malla"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2343
-#, fuzzy
 msgid "Insert JavaScript code for SVG2 hatches"
 msgstr "Insereix codi JavaScript per als trams SVG2"
 
@@ -339,7 +336,6 @@ msgid "Color management"
 msgstr "Gestió del color"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2465
-#, fuzzy
 msgid "Enable autosave"
 msgstr "Activa el desament automàtic"
 
@@ -357,7 +353,6 @@ msgid "Autosave _directory:"
 msgstr "_Directori de desat automàtic:"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2472
-#, fuzzy
 msgid ""
 "The directory where autosaves will be written. This should be an absolute "
 "path (starts with / on UNIX or a drive letter such as C: on Windows)."
@@ -390,7 +385,6 @@ msgid "Autosave"
 msgstr "Desa automàticament"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2486
-#, fuzzy
 msgid "No matches were found, try another search!"
 msgstr "No s'ha trobat cap coincidència, proveu una altra cerca!"
 
@@ -448,21 +442,18 @@ msgid "Ignore locked objects and layers"
 msgstr "Ignora els objectes i les capes blocades"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2507
-#, fuzzy
 msgid "Select same behaves like select all"
-msgstr "Selecciona els mateixos comportaments com selecciona-ho tot"
+msgstr "Selecciona el mateix es comporta com selecciona-ho tot"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2509
 msgid "Deselect upon layer change"
 msgstr "Desfés la selecció en canviar de capa"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2511
-#, fuzzy
 msgid "Select the topmost items only when in touch selection mode"
 msgstr "Selecciona els elements superiors només en el mode de selecció tàctil"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2512
-#, fuzzy
 msgid "Select transparent objects, strokes, and fills"
 msgstr "Selecciona objectes transparents, traços i emplenaments"
 
@@ -475,7 +466,6 @@ msgstr ""
 " capa actual canvia"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2518
-#, fuzzy
 msgid ""
 "Check to make objects, strokes, and fills which are completely transparent "
 "selectable even if not in outline mode"
@@ -485,7 +475,6 @@ msgstr ""
 "de contorn"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2521
-#, fuzzy
 msgid ""
 "In touch selection mode, if multiple items overlap at a point, select only "
 "the topmost item"
@@ -539,7 +528,7 @@ msgid ""
 "Check this to make the 'select same' functions work like the select all "
 "functions, restricting to current layer only."
 msgstr ""
-"Marqueu-ho per a fer que les funcions «seleccioneu-les iguals» funcionin com"
+"Marqueu-ho per a fer que les funcions «selecciona el mateix» funcionin com"
 " totes les funcions seleccionades, restringint-les només a la capa actual."
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2537
@@ -557,12 +546,10 @@ msgstr ""
 "profunditat"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2544
-#, fuzzy
 msgid "Paste above selection instead of layer-top"
 msgstr "Enganxa a sobre de la selecció en lloc de la capa superior"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2546
-#, fuzzy
 msgid ""
 "If checked, pasted items and imported documents will be placed immediately "
 "above the current selection (z-order). Otherwise, insertion happens on top "
@@ -756,7 +743,6 @@ msgstr ""
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2613
 #: ../src/ui/dialog/inkscape-preferences.cpp:2615
-#, fuzzy
 msgid "Show snap distance in case of alignment or distribution snap"
 msgstr ""
 "Mostra la distància d'ajustament en cas d'ajust de l'alineació o la "
@@ -919,12 +905,10 @@ msgstr ""
 "redueixen per aquesta quantitat"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2668
-#, fuzzy
 msgid "Zoom with middle mouse click"
 msgstr "Zoom amb el clic del mig del ratolí"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2670
-#, fuzzy
 msgid ""
 "When activated, clicking the middle mouse button (usually the mouse wheel) "
 "zooms."
@@ -1032,17 +1016,15 @@ msgstr ""
 "a camí, operacions booleanes, combinar, dividir"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2711
-#, fuzzy
 msgid "'Object to Path' only unlinks (keeps LPEs, shapes)"
-msgstr "'Objecta al camí' només desenllaça (manté els LPE, formes)"
+msgstr "«Objecte al camí» només desenllaça (manté els LPE, formes)"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2713
-#, fuzzy
 msgid ""
 "'Object to path' only unlinks clones when they are converted to paths, but "
 "preserves any LPEs and shapes within the clones."
 msgstr ""
-"«Object to path» només desenllaça els clons quan es converteixen en camins, "
+"«Objecte al camí» només desenllaça els clons quan es converteixen en camins, "
 "però preserva qualsevol LPE i formes dins dels clons."
 
 #. TRANSLATORS: Heading for the Inkscape Preferences "Clones" Page
@@ -1064,14 +1046,12 @@ msgstr ""
 "retall o màscara"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2721
-#, fuzzy
 msgid "When ungrouping, clips/masks are preserved in children"
-msgstr "Quan es desagrupen, els clips/màscares es conserven en infants"
+msgstr "Quan es desagrupen, els retalls/màscares es conserven en els fills"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2723
-#, fuzzy
 msgid "Uncheck this to remove clip/mask on ungroup"
-msgstr "Desmarqueu-ho per a eliminar el clip/màscara en desagrupar"
+msgstr "Desmarqueu-ho per a eliminar el retall/màscara en desagrupar"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2724
 msgid "Remove clippath/mask object after applying"
@@ -1147,22 +1127,18 @@ msgstr ""
 "l'objecte o bé color d'emplenat del retolador"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2763
-#, fuzzy
 msgid "Copy computed style"
 msgstr "Copia l'estil calculat"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2764
-#, fuzzy
 msgid "Copy class and style attributes verbatim"
 msgstr "Copia els atributs de la classe i l'estil literalment"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2767
-#, fuzzy
 msgid "Copying objects to the clipboard"
 msgstr "S'estan copiant els objectes al porta-retalls"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2769
-#, fuzzy
 msgid ""
 "The object's 'style' attribute will be set to the computed style, preserving"
 " the object's appearance as in previous Inkscape versions"
@@ -1171,7 +1147,6 @@ msgstr ""
 "l'aparença de l'objecte com en versions anteriors de l'Inkscape"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2773
-#, fuzzy
 msgid ""
 "The object's 'style' and 'class' values will be copied verbatim, and will "
 "replace those of the target object when using 'Paste style'"
@@ -1181,7 +1156,6 @@ msgstr ""
 "l'enganxat»"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2775
-#, fuzzy
 msgid "Clipboard"
 msgstr "Porta-retalls"
 
@@ -1200,17 +1174,14 @@ msgstr "Neteja"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2784
 #: ../src/ui/dialog/inkscape-preferences.cpp:2786
-#, fuzzy
 msgid "Show experimental effects"
 msgstr "Mostra els efectes experimentals"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2787
-#, fuzzy
 msgid "Show deprecated LPE gallery"
 msgstr "Mostra la galeria LPE obsoleta"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2789
-#, fuzzy
 msgid ""
 "Adds a button to the LPE dialog that opens the old-style LPE selection "
 "dialog"
@@ -1219,17 +1190,14 @@ msgstr ""
 "antic"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2790
-#, fuzzy
 msgid "Tiling"
-msgstr "En mosaic"
+msgstr "Mosaic"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2791
-#, fuzzy
 msgid "Add advanced tiling options"
 msgstr "Afegeix opcions avançades de mosaic"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2793
-#, fuzzy
 msgid ""
 "Enables using 16 advanced mirror options between the copies (so there can be"
 " copies that are mirrored differently between the rows and the columns) for "
@@ -1237,12 +1205,11 @@ msgid ""
 msgstr ""
 "Activa l'ús de 16 opcions avançades de mirall entre les còpies (de manera "
 "que pot haver-hi còpies que es reflecteixen de manera diferent entre les "
-"files i les columnes) per a l'enrajolat LPE"
+"files i les columnes) per al mosaic LPE"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2794
-#, fuzzy
 msgid "Live Path Effects (LPE)"
-msgstr "Efectes del camí autònom (LPE)"
+msgstr "Efectes del camí viu (LPE)"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2801
 msgid "Number of _Threads:"
@@ -1300,12 +1267,10 @@ msgid "Responsive"
 msgstr "Responsiu"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2818
-#, fuzzy
 msgid "Full redraw"
 msgstr "Redibuixa completament"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2818
-#, fuzzy
 msgid "Multiscale"
 msgstr "Multiescala"
 

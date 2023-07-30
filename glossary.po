@@ -4,4 +4,5 @@
 #   -----------------+---------------------------------
 #   canvas          |  llenç
 #   dash            |  ratlla
+#   tiling          |  mosaic
 
