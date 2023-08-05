@@ -4,4 +4,6 @@
 #   -----------------+---------------------------------
 #   canvas          |  llenç
 #   dash            |  ratlla
+#   live path       |  camí viu?
+#   tiling          |  mosaic
 
