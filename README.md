@@ -15,9 +15,9 @@ Directori: source
 | ----------- | ----------- |----------- |
 | [part-1.po](https://raw.githubusercontent.com/jordimas/inkscape-ca/main/translated/part-1.po)   | 808         | 
 | [part-2.po](https://raw.githubusercontent.com/jordimas/inkscape-ca/main/translated/part-2.po)   | 392         | Artur Vicedo
-| [part-3.po](https://raw.githubusercontent.com/jordimas/inkscape-ca/main/translated/part-3.po)   | 284         |
+| [part-3.po](https://raw.githubusercontent.com/jordimas/inkscape-ca/main/translated/part-3.po)   | 284         | P.Fictici
 | [part-4.po](https://raw.githubusercontent.com/jordimas/inkscape-ca/main/translated/part-4.po)   | 372         | Xavi Ivars
-| [part-5.po](https://raw.githubusercontent.com/jordimas/inkscape-ca/main/translated/part-5.po)   | 605         | 
+| [part-5.po](https://raw.githubusercontent.com/jordimas/inkscape-ca/main/translated/part-5.po)   | 605         | @Linuxcat 
 | [part-6.po](https://raw.githubusercontent.com/jordimas/inkscape-ca/main/translated/part-6.po)   | 0           | Jordi Mas (acabat)
 
 # Scripts
