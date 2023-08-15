@@ -4,6 +4,12 @@
 #   -----------------+---------------------------------
 #   canvas          |  llenç
 #   dash            |  ratlla
-#   live path       |  camí viu?
+#   hairline        |  línia fina
+#   live path       |  camí viu
+#   mitter          |  biaix
 #   tiling          |  mosaic
+#   speckle         |  mota
+
+
+ 
 
