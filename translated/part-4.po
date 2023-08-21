@@ -3298,13 +3298,13 @@ msgstr "<b>Canvia la mida</b> la regió on s'aplica l'efecte de filtre"
 #: ../src/ui/knot/knot-holder.cpp:457
 msgid "<b>Drag</b> to <b>adjust</b> blur in x direction; <b>Ctrl</b>+<b>Drag</b> makes x equal to y; <b>Shift</b>+<b>Ctrl</b>+<b>Drag</b> scales blur proportionately "
 msgstr ""
-"<b>Arrossega</b> per <b>ajustar</b> el difuminat en la direcció x; <b>Ctrl</b>+<b>Arrossega</b> fa x igual a y; <b>Maj</b>+</b>Ctrl</b>+</b>Arrossega</b> escala el "
+"<b>Arrossega</b> per a <b>ajustar</b> el difuminat en la direcció x; <b>Ctrl</b>+<b>Arrossega</b> fa x igual a y; <b>Maj</b>+<b>Ctrl</b>+<b>Arrossega</b> escala el "
 "difuminat proporcionalment "
 
 #: ../src/ui/knot/knot-holder.cpp:459
 msgid "<b>Drag</b> to <b>adjust</b> blur in y direction; <b>Ctrl</b>+<b>Drag</b> makes y equal to x; <b>Shift</b>+<b>Ctrl</b>+<b>Drag</b> scales blur proportionately "
 msgstr ""
-"<b>Arrossega</b> per <b>ajustar</b> difuminat en la direcció y; <b>Ctrl</b>+<b>Arrossega</b> fa y igual a x; <b>Desplaça</b>+</b>Ctrl</b>+</b>Arrossega</b> escala el "
+"<b>Arrossega</b> per a <b>ajustar</b> difuminat en la direcció y; <b>Ctrl</b>+<b>Arrossega</b> fa y igual a x; <b>Desplaça<b>+</b>Ctrl</b>+<b>Arrossega</b> escala el "
 "difuminat proporcionalment "
 
 #: ../src/ui/knot/knot.cpp:309
@@ -5475,7 +5475,7 @@ msgstr "Commuta el quadre de selecció per a seleccionar tots els objectes tocat
 
 #: ../src/ui/toolbar/select-toolbar.cpp:109
 msgid "Rotate _90° CCW"
-msgstr "Gira 90° en sentit antihorari"
+msgstr "Gira 9_0° en sentit antihorari"
 
 #: ../src/ui/toolbar/select-toolbar.cpp:119
 msgid "Rotate _90° CW"
