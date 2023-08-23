@@ -15,6 +15,20 @@
 # Jaume Jorba <jaume.jorba@gmail.com>, 2018
 # Xavi Ivars <xavi.ivars@gmail.com>, 2023
 # Artur Vicedo <arturovc89@hotmail.com>, 2023
+#
+# Terminologia i criteris utilitzats
+#
+#   Anglès           |  Català
+#   -----------------+---------------------------------
+#   canvas          |  llenç
+#   dash            |  ratlla
+#   hairline        |  línia fina
+#   live path       |  camí viu
+#   mitter          |  biaix
+#   tiling          |  mosaic
+#   plotter         |  plòter
+#   speckle         |  taca
+
 msgid ""
 msgstr ""
 "Project-Id-Version: inkscape\n"
@@ -24466,7 +24480,7 @@ msgstr "_Exporta"
 
 #: ../src/ui/dialog/dialog-data.cpp:36
 msgid "_Fill and Stroke"
-msgstr "Omple i traça"
+msgstr "_Omple i traça"
 
 #: ../src/ui/dialog/dialog-data.cpp:37
 msgid "Filter _Editor"
@@ -28526,7 +28540,7 @@ msgstr ""
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:1630
 msgid "_Zoom correction factor (in %)"
-msgstr "Factor de correcció de l'ampliació (en %)"
+msgstr "_Factor de correcció de l'ampliació (en %)"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:1631
 msgid ""
@@ -43444,11 +43458,11 @@ msgstr "Canvia els PPP de 96 a 90"
 
 #: ../share/extensions/dxf12_outlines.inx:3
 msgid "Desktop Cutting Plotter R12"
-msgstr "Traçador de tall d'escriptori R12"
+msgstr "Plòter de tall d'escriptori R12"
 
 #: ../share/extensions/dxf12_outlines.inx:9
 msgid "Desktop Cutting Plotter (AutoCAD DXF R12) (*.dxf)"
-msgstr "Traçador de tall d'escriptori (AutoCAD DXF R12) (*.dxf)"
+msgstr "Plòter de tall d'escriptori (AutoCAD DXF R12) (*.dxf)"
 
 #: ../share/extensions/dxf12_outlines.inx:10
 msgid "DXF R12 Output"
@@ -43537,7 +43551,7 @@ msgstr "Importa el format de document d'intercanvi d'AutoCAD"
 
 #: ../share/extensions/dxf_outlines.inx:3
 msgid "Desktop Cutting Plotter R14"
-msgstr "Traçador de tall d'escriptori R14"
+msgstr "Plòter de tall d'escriptori R14"
 
 #: ../share/extensions/dxf_outlines.inx:9
 
@@ -43683,11 +43697,11 @@ msgstr ""
 
 #: ../share/extensions/dxf_outlines.inx:51
 msgid "Desktop Cutting Plotter (AutoCAD DXF R14) (*.dxf)"
-msgstr "Traçador de tall d'escriptori (AutoCAD DXF R14) (*.dxf)"
+msgstr "Plòter de tall d'escriptori (AutoCAD DXF R14) (*.dxf)"
 
 #: ../share/extensions/dxf_outlines.inx:52
 msgid "Desktop Cutting Plotter"
-msgstr "Traçador de tall d'escriptori"
+msgstr "Plòter de tall d'escriptori"
 
 #: ../share/extensions/eps_input.inx:3
 msgid "EPS Input"
@@ -43936,7 +43950,7 @@ msgstr "Agrupa el fotograma i els objectes emmarcats"
 
 #: ../share/extensions/funcplot.inx:3
 msgid "Function Plotter"
-msgstr "Traçador de funcions"
+msgstr "Plòter de funcions"
 
 #: ../share/extensions/funcplot.inx:6
 msgid "Range and sampling"
@@ -44659,7 +44673,7 @@ msgstr ""
 "\n"
 "Aquesta extensió representa tot el text (o tot el text seleccionat)\n"
 "en el vostre document utilitzant \"traç\" o\n"
-"tipus de lletra \"gravats\" dissenyats per als traçadors.\n"
+"tipus de lletra \"gravats\" dissenyats per als plòters.\n"
 "\n"
 "Mentre que els tipus de lletra \"contorn\" normals (p. ex., TrueType) funcionen\n"
 "omplint la regió dins d'un contorn invisible,\n"
@@ -44668,7 +44682,7 @@ msgstr ""
 "\n"
 "Les fonts de gravat s'utilitzen per a crear camins de text que\n"
 "el dibuix controlat per ordinador i les màquines de tall (des\n"
-"dels traçadors de plomes fins als encaminadors CNC) poden seguir de manera eficient.\n"
+"dels plòters de plomes fins als encaminadors CNC) poden seguir de manera eficient.\n"
 "\n"
 "Podeu descarregar-ne una guia d'usuari completa a:\n"
 "  http://wiki.evilmadscientist.com/hershey\n"
@@ -44724,7 +44738,7 @@ msgid ""
 "The number of steps (plotter units) the plotter moves if it moves by 1 inch "
 "(Default: 1016.0)"
 msgstr ""
-"El nombre de passos (unitats de dispersió) que es mou el traçador si es mou "
+"El nombre de passos (unitats de dispersió) que es mou el plòter si es mou "
 "per 1 polzada (Per defecte: 1016.0)"
 
 #: ../share/extensions/hpgl_input.inx:8
@@ -44788,12 +44802,12 @@ msgid ""
 "serial connection."
 msgstr ""
 "Assegureu-vos que tots els objectes que voleu desar estiguin convertits en "
-"camins. Feu servir l'extensió de traçador (menú Extensions) per a traçar "
+"camins. Feu servir l'extensió de plòter (menú Extensions) per a traçar "
 "directament mitjançant una connexió en sèrie."
 
 #: ../share/extensions/hpgl_output.inx:9 ../share/extensions/plotter.inx:67
 msgid "Plotter Settings"
-msgstr "Paràmetres del traçador"
+msgstr "Paràmetres del plòter"
 
 #: ../share/extensions/hpgl_output.inx:10 ../share/extensions/plotter.inx:68
 msgid "Resolution X (dpi):"
@@ -44804,7 +44818,7 @@ msgid ""
 "The amount of steps the plotter moves if it moves for 1 inch on the X axis "
 "(Default: 1016.0)"
 msgstr ""
-"Quantitat de passos que es mou el traçador si es mou per 1 polzada en l'eix "
+"Quantitat de passos que es mou el plòter si es mou per 1 polzada en l'eix "
 "X (Per defecte: 1016.0)"
 
 #: ../share/extensions/hpgl_output.inx:11 ../share/extensions/plotter.inx:69
@@ -44816,7 +44830,7 @@ msgid ""
 "The amount of steps the plotter moves if it moves for 1 inch on the Y axis "
 "(Default: 1016.0)"
 msgstr ""
-"Quantitat de passos que es mou el traçador si es mou per 1 polzada en l'eix "
+"Quantitat de passos que es mou el plòter si es mou per 1 polzada en l'eix "
 "Y (Per defecte: 1016.0)"
 
 #: ../share/extensions/hpgl_output.inx:12 ../share/extensions/plotter.inx:70
@@ -44842,7 +44856,7 @@ msgid ""
 " most plotters ignore this command (Default: 0)"
 msgstr ""
 "Quantitat de pressió de la ploma en grams. Establiu a 0 per a ometre "
-"l'ordre. La majoria dels traçadors ignoren aquesta ordre (Per defecte: 0)"
+"l'ordre. La majoria dels plòters ignoren aquesta ordre (Per defecte: 0)"
 
 #: ../share/extensions/hpgl_output.inx:14 ../share/extensions/plotter.inx:72
 msgid "Pen speed (cm/s or mm/s):"
@@ -44857,8 +44871,8 @@ msgid ""
 "with the pen number. eg. (Pen3 Speed10)"
 msgstr ""
 "La velocitat amb què es mourà el llapis en centímetres o mil·límetres per "
-"segon (depenent del model del traçador plotter)), establerta a 0 per a ometre "
-"l'ordre; la majoria dels traçadors (plotters)) ignoren aquesta ordre (Per defecte: 0)Es "
+"segon (depenent del model del plòter), establerta a 0 per a ometre "
+"l'ordre; la majoria dels plòters) ignoren aquesta ordre (Per defecte: 0)Es "
 "pot definir en el nom de la capa juntament amb el número del llapis. p. ex. "
 "(Pen3 Speed10)"
 
@@ -44894,7 +44908,7 @@ msgstr "Centra el punt zero"
 msgid ""
 "Check this if your plotter uses a centered zero point (Default: Unchecked)"
 msgstr ""
-"Activeu si el vostre traçador usa un punt zero centrat (Per defecte: "
+"Activeu si el vostre plòter usa un punt zero centrat (Per defecte: "
 "desactivat)"
 
 #: ../share/extensions/hpgl_output.inx:25
@@ -44905,7 +44919,7 @@ msgid ""
 "put your drawings in the corresponding layers. This overrules the pen number"
 " and speed value from the menu option above."
 msgstr ""
-"Si voleu utilitzar múltiples bolígrafs i velocitats en el vostre traçador (plotter) de"
+"Si voleu utilitzar múltiples bolígrafs i velocitats en el vostre plòter de"
 " llapis, creeu una capa per a cada bolígraf, aneu amb el nom de les capes "
 "«Pen1 Speed10», «Pen2», etc., i poseu els vostres dibuixos en les capes "
 "corresponents. Això anul·la el número de llapis i el valor de la velocitat "
@@ -44913,7 +44927,7 @@ msgstr ""
 
 #: ../share/extensions/hpgl_output.inx:27 ../share/extensions/plotter.inx:85
 msgid "Plot Features"
-msgstr "Característiques el traçador"
+msgstr "Característiques el plòter"
 
 #: ../share/extensions/hpgl_output.inx:28 ../share/extensions/plotter.inx:86
 msgid "Overcut (mm):"
@@ -44983,8 +44997,8 @@ msgid ""
 "All these settings depend on the plotter you use, for more information "
 "please consult the manual or homepage for your plotter."
 msgstr ""
-"Tots aquests paràmetres depenen del traçador que utilitzeu. Per a més "
-"informació, consulteu el manual o la pàgina web del traçador."
+"Tots aquests paràmetres depenen del plòter que utilitzeu. Per a més "
+"informació, consulteu el manual o la pàgina web del plòter."
 
 #: ../share/extensions/hpgl_output.inx:40
 msgid "Export an HP Graphics Language file"
