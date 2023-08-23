@@ -7043,7 +7043,7 @@ msgstr "Neteja el document"
 
 #: ../src/actions/actions-base.cpp:210
 msgid "Remove unused definitions (gradients, etc.)"
-msgstr "Elimina les definicions no utilitzades (gradients, etc.)"
+msgstr "Elimina les definicions no utilitzades (degradats, etc.)"
 
 #: ../src/actions/actions-base.cpp:211
 msgid "Quit"
@@ -7094,7 +7094,7 @@ msgstr "Consulta X"
 
 #: ../src/actions/actions-base.cpp:218
 msgid "Query 'x' value(s) of selected objects"
-msgstr "Consulta els valors «x» dels objectes seleccionats."
+msgstr "Consulta els valors «x» dels objectes seleccionats"
 
 #: ../src/actions/actions-base.cpp:219
 msgid "Query Y"
@@ -7102,7 +7102,7 @@ msgstr "Consulta Y"
 
 #: ../src/actions/actions-base.cpp:219
 msgid "Query 'y' value(s) of selected objects"
-msgstr "Consulta els valors «y» dels objectes seleccionats."
+msgstr "Consulta els valors «y» dels objectes seleccionats"
 
 #: ../src/actions/actions-base.cpp:220
 msgid "Query Width"
@@ -7118,7 +7118,7 @@ msgstr "Consulta d'alçada"
 
 #: ../src/actions/actions-base.cpp:221
 msgid "Query 'height' value(s) of object(s)"
-msgstr "Consulta els valors d'alçada dels objectes."
+msgstr "Consulta els valors d'alçada dels objectes"
 
 #: ../src/actions/actions-base.cpp:222
 msgid "Query All"
@@ -7126,7 +7126,7 @@ msgstr "Consulta general"
 
 #: ../src/actions/actions-base.cpp:222
 msgid "Query 'x', 'y', 'width', and 'height'"
-msgstr "Consulta «x», «y», «amplada» i «alçada»."
+msgstr "Consulta «x», «y», «amplada» i «alçada»"
 
 #: ../src/actions/actions-canvas-mode.cpp:267
 #, fuzzy
@@ -15751,7 +15751,7 @@ msgid ""
 msgstr ""
 "<small>Hem actualitzat Inkscape per a seguir l'estàndard CSS de 96 DPI per a una millor compatibilitat amb els navegadors; acostumàvem a utilitzar 90 DPI. Les il·lustracions digitals per a visualitzar en pantalla es convertiran a 96 DPI sense escalar i no es veuran afectades. Les dibuixades a 90 DPI per a una mida física específica seran massa petites si es converteixen a 96 DPI sense cap escalat. Hi ha dos mètodes d'escalat:\n"
 "\n"
-"<b>Escalat del document sencer:</b> El mètode menys propens a errors, això preserva l'aparença de la il·lustració, inclosos els filtres i la posició de les màscares, etc. L'escalat relatiu a la mida del document pot no ser precís.\n"
+"<b>Escalat del document sencer:</b> El mètode menys propens a errors, això conserva l'aparença de la il·lustració, inclosos els filtres i la posició de les màscares, etc. L'escalat relatiu a la mida del document pot no ser precís.\n"
 "\n"
 "<b>Escala d'elements individual: </b> Aquest mètode és menys fiable i pot provocar canviar-ne l'aspecte, però és millor per a la sortida física que es basa en mides i posicions precises (per exemple, per a impressió en 3D).\n"
 "\n"
@@ -18247,7 +18247,7 @@ msgid ""
 " embroidery machines)"
 msgstr ""
 "Crea espais entre les ratlles (utilitzeu només per a previsualitzar, "
-"desactiveu-ho per a usarlo en màquines de brodat)"
+"desactiveu-ho per a usar-lo en màquines de brodat)"
 
 #: ../src/live_effects/lpe-embrodery-stitch.cpp:64
 msgid "Show stitch gap"
@@ -21408,7 +21408,7 @@ msgid ""
 "2 consecutive segments are used to reverse/preserve orientation only "
 "(otherwise, they define a general transform)."
 msgstr ""
-"Només s'utilitzaren dos segments consecutius per a preservar o canviar "
+"Només s'utilitzaren dos segments consecutius per a conservar o canviar "
 "l'orientació (d'altra banda, defineixen una transformació general)."
 
 #: ../src/live_effects/lpe-vonkoch.cpp:48
@@ -25946,7 +25946,7 @@ msgstr ""
 #: ../src/ui/dialog/filter-effects-dialog.cpp:3082
 #: ../src/ui/dialog/filter-effects-dialog.cpp:3123
 msgid "Preserve Alpha"
-msgstr "Preserva l'alfa"
+msgstr "Conserva l'alfa"
 
 #: ../src/ui/dialog/filter-effects-dialog.cpp:3082
 #: ../src/ui/dialog/filter-effects-dialog.cpp:3123
@@ -29945,7 +29945,7 @@ msgstr "Escala les ratlles amb el traç"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2558
 msgid "Preserved"
-msgstr "Preservat"
+msgstr "Conservat"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2561 ../src/ui/toolbar/select-toolbar.cpp:274
 msgid "When scaling objects, scale the stroke width by the same proportion"
@@ -35982,7 +35982,7 @@ msgstr "En el mode de color, actua en l'opacitat de l'objecte"
 
 #: ../src/ui/tools/arc-tool.cpp:222
 msgid "<b>Ctrl</b>: make circle or integer-ratio ellipse, snap arc/segment angle"
-msgstr "<b>Control</b>: feu un cercle o una el·lipse amb radi enter, ajusteu l'angle de l'arc o el segment"
+msgstr "<b>Ctrl</b>: feu un cercle o una el·lipse amb radi enter, ajusteu l'angle de l'arc o el segment"
 
 #: ../src/ui/tools/arc-tool.cpp:223 ../src/ui/tools/rect-tool.cpp:246
 msgid "<b>Shift</b>: draw around the starting point"
@@ -36280,7 +36280,7 @@ msgstr "<b>Dibuixeu al voltant</b> dels punts de control per a seleccionar-los"
 
 #: ../src/ui/tools/gradient-tool.cpp:618
 msgid "<b>Ctrl</b>: snap gradient angle"
-msgstr "<b>Control</b>: ajusta l'angle del degradat"
+msgstr "<b>Ctrl</b>: ajusta l'angle del degradat"
 
 #: ../src/ui/tools/gradient-tool.cpp:619
 msgid "<b>Shift</b>: draw gradient around the starting point"
@@ -36417,7 +36417,7 @@ msgstr "<b>Dibuixeu par damunt</b> de línies per seleccionar els seus nodes; de
 #: ../src/ui/tools/node-tool.cpp:465
 #, c-format
 msgid "<b>Drag around</b> nodes to select them; press <b>%s</b> to switch to box selection"
-msgstr "<b>Arrossegueu al voltant de</b> nodes per seleccionar-los; premeu <b>%s</b> per canviar a la selecció de quadres"
+msgstr "<b>Arrossegueu al voltant</b> de nodes per seleccionar-los; premeu <b>%s</b> per canviar a la selecció de quadres"
 
 #: ../src/ui/tools/node-tool.cpp:689
 msgctxt "Node tool tip"
@@ -36635,7 +36635,7 @@ msgstr "<b>Arrossegueu prop de</b> objectes per seleccionar-los; premeu <b>%s</b
 #: ../src/ui/tools/select-tool.cpp:611
 #, c-format
 msgid "<b>Drag around</b> objects to select them; press <b>%s</b> to switch to touch selection"
-msgstr "<b>Arrossegueu al voltant de</b> objectes per seleccionar-los; premeu <b>%s</b> per canviar a la selecció tàctil"
+msgstr "<b>Arrossegueu al voltant</b> d'objectes per seleccionar-los; premeu <b>%s</b> per canviar a la selecció tàctil"
 
 #: ../src/ui/tools/select-tool.cpp:1039
 msgid "Selected object is not a group. Cannot enter."
@@ -36643,7 +36643,7 @@ msgstr "L'objecte seleccionat no és un grup. No es pot entrar."
 
 #: ../src/ui/tools/spiral-tool.cpp:220
 msgid "<b>Ctrl</b>: snap angle"
-msgstr "<b>Control</b>: ajusta l'angle"
+msgstr "<b>Ctrl</b>: ajusta l'angle"
 
 #: ../src/ui/tools/spiral-tool.cpp:222
 msgid "<b>Alt</b>: lock spiral radius"
@@ -36694,17 +36694,17 @@ msgstr "Esprai en un únic camí"
 
 #: ../src/ui/tools/star-tool.cpp:231
 msgid "<b>Ctrl</b>: snap angle; keep rays radial"
-msgstr "<b>Control</b>: ajusta l'angle, conserva els rajos radials"
+msgstr "<b>Ctrl</b>: ajusta l'angle, conserva els rajos radials"
 
 #: ../src/ui/tools/star-tool.cpp:365
 #, c-format
 msgid "<b>Polygon</b>: radius %s, angle %.2f&#176;; with <b>Ctrl</b> to snap angle"
-msgstr "<b>Polígon</b>: radi %s, angle %.2f&#176;; amb <b>Control</b> per a ajustar l'angle"
+msgstr "<b>Polígon</b>: radi %s, angle %.2f&#176;; amb <b>Ctrl</b> per a ajustar l'angle"
 
 #: ../src/ui/tools/star-tool.cpp:366
 #, c-format
 msgid "<b>Star</b>: radius %s, angle %.2f&#176;; with <b>Ctrl</b> to snap angle"
-msgstr "<b>Estel</b>: radi %s, angle %.2f&#176;; amb <b>Control</b> per a ajustar l'angle"
+msgstr "<b>Estel</b>: radi %s, angle %.2f&#176;; amb <b>Ctrl</b> per a ajustar l'angle"
 
 #: ../src/ui/tools/star-tool.cpp:392
 msgid "Create star"
@@ -42275,7 +42275,7 @@ msgstr " desapareixerà"
 #: ../share/extensions/jessyink_summary.py:138
 #, python-brace-format
 msgid " using effect \"{0}\""
-msgstr " s'està usant l'efecte \"{0}\""
+msgstr " s'està usant l'efecte «{0}»"
 
 #: ../share/extensions/jessyink_summary.py:141
 msgid " in {0!s} s"
@@ -45942,7 +45942,7 @@ msgid ""
 " previously generated, it will color the rectangle RED. For new exports that"
 " did not previously exist, the rectangle will be GREEN."
 msgstr ""
-"Si l'exportació ja existeix, es saltarà i ombrejarà de color GRIS el "
+"Si l'exportació ja existeix, se saltarà i ombrejarà de color GRIS el "
 "rectangle. Si la casella de selecció «Sobreescriu les exportacions "
 "existents» està seleccionada, i el fitxer s'ha generat prèviament, ombrejarà"
 " el rectangle VERMELL. Per a les noves exportacions que no existien "
