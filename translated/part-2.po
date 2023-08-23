@@ -16,300 +16,242 @@ msgstr ""
 
 
 #: ../src/actions/actions-output.cpp:255
-#, fuzzy
 msgid "Export Ignore Filters"
-msgstr "Exporta els filtres d'ignorar"
+msgstr "Exporta els filtres a ignorar"
 
 #: ../src/actions/actions-output.cpp:255
-#, fuzzy
 msgid "Export without filters to avoid rasterization for PDF, PS, EPS"
-msgstr "Exporta sense filtres per evitar la rasterització per a PDF, PS, EPS"
+msgstr "Exporta sense filtres per a evitar la rasterització per a PDF, PS, EPS"
 
 #: ../src/actions/actions-output.cpp:256
-#, fuzzy
 msgid "Export Text to Path"
-msgstr "Exporta el text al camí"
+msgstr "Exporta el text a camí"
 
 #: ../src/actions/actions-output.cpp:256
-#, fuzzy
 msgid "Convert texts to paths in the exported file"
 msgstr "Converteix els textos en camins al fitxer exportat"
 
 #: ../src/actions/actions-output.cpp:257
-#, fuzzy
 msgid "Export PS Level"
 msgstr "Exporta el nivell PS"
 
 #: ../src/actions/actions-output.cpp:257
-#, fuzzy
 msgid "Set PostScript level"
 msgstr "Estableix el nivell PostScript"
 
 #: ../src/actions/actions-output.cpp:258
-#, fuzzy
 msgid "Export PDF Version"
 msgstr "Exporta la versió PDF"
 
 #: ../src/actions/actions-output.cpp:258
-#, fuzzy
 msgid "Set PDF version"
 msgstr "Estableix la versió PDF"
 
 #: ../src/actions/actions-output.cpp:259
-#, fuzzy
 msgid "Export LaTeX"
 msgstr "Exporta LaTeX"
 
 #: ../src/actions/actions-output.cpp:260
-#, fuzzy
 msgid "Export Use Hints"
 msgstr "Exporta els consells d'ús"
 
 #: ../src/actions/actions-output.cpp:260
-#, fuzzy
 msgid "Export using saved hints"
 msgstr "Exporta usant consells desats"
 
 #: ../src/actions/actions-output.cpp:261
-#, fuzzy
 msgid "Export Background"
 msgstr "Exporta el fons"
 
 #: ../src/actions/actions-output.cpp:261
-#, fuzzy
 msgid "Include background color in exported file"
 msgstr "Inclou el color de fons al fitxer exportat"
 
 #: ../src/actions/actions-output.cpp:262
-#, fuzzy
 msgid "Export Background Opacity"
-msgstr "Exporta l'opacitat en segon pla"
+msgstr "Exporta l'opacitat del fons"
 
 #: ../src/actions/actions-output.cpp:262
-#, fuzzy
 msgid "Include background opacity in exported file"
 msgstr "Inclou l'opacitat del fons en el fitxer exportat"
 
 #: ../src/actions/actions-output.cpp:263
-#, fuzzy
 msgid "Export PNG Color Mode"
 msgstr "Exporta el mode de color PNG"
 
 #: ../src/actions/actions-output.cpp:263
-#, fuzzy
 msgid "Set color mode for PNG export"
 msgstr "Estableix el mode de color per a l'exportació PNG"
 
 #: ../src/actions/actions-output.cpp:264
-#, fuzzy
 msgid "Export PNG Dithering"
 msgstr "Exporta el tramat PNG"
 
 #: ../src/actions/actions-output.cpp:264
-#, fuzzy
 msgid "Set dithering for PNG export"
 msgstr "Estableix el tramat per a l'exportació PNG"
 
 #: ../src/actions/actions-output.cpp:266
-#, fuzzy
 msgid "Do Export"
-msgstr "Fes l'exportació"
+msgstr "Exporta"
 
 #: ../src/actions/actions-output.cpp:266
-#, fuzzy
 msgid "Do export"
-msgstr "Exportar"
+msgstr "Exporta"
 
 #: ../src/actions/actions-output.cpp:273
-#, fuzzy
 msgid "Enter string for the file type"
-msgstr "Introduïu la cadena per al tipus de fitxer"
+msgstr "Introduïu el tipus de fitxer"
 
 #: ../src/actions/actions-output.cpp:274
-#, fuzzy
 msgid "Enter string for the file name"
-msgstr "Introduïu la cadena per al nom del fitxer"
+msgstr "Introduïu el nom del fitxer"
 
 #: ../src/actions/actions-output.cpp:275
-#, fuzzy
 msgid "Enter 1/0 for Yes/No to overwrite exported file"
-msgstr "Introduïu 1/0 per a Yes/No per a sobreescriure el fitxer exportat"
+msgstr "Introduïu 1/0 com a Sí/No per a sobreescriure el fitxer exportat"
 
 #: ../src/actions/actions-output.cpp:277
-#, fuzzy
 msgid "Enter string for export area, formatted like x0:y0:x1:y1"
 msgstr ""
-"Introduïu la cadena per a l'àrea d'exportació, amb format com x0:y0:x1:y1"
+"Introduïu la cadena per a l'àrea d'exportació, amb format x0:y0:x1:y1"
 
 #: ../src/actions/actions-output.cpp:278
-#, fuzzy
 msgid "Enter 1/0 for Yes/No to export drawing area"
-msgstr "Introduïu 1/0 per a Sí/No per a exportar l'àrea de dibuix"
+msgstr "Introduïu 1/0 com a Sí/No per a exportar l'àrea de dibuix"
 
 #: ../src/actions/actions-output.cpp:279
-#, fuzzy
 msgid "Enter 1/0 for Yes/No to export page area"
-msgstr "Introduïu 1/0 per a l'àrea de pàgina d'exportació de Sí/No"
+msgstr "Introduïu 1/0 com a Sí/No per a exportar l'àrea de pàgina"
 
 #: ../src/actions/actions-output.cpp:280
-#, fuzzy
 msgid "Enter integer number for margin"
-msgstr "Introduïu el nombre enter per al marge"
+msgstr "Introduïu un nombre enter per al marge"
 
 #: ../src/actions/actions-output.cpp:281
-#, fuzzy
 msgid "Enter 1/0 for Yes/No to snap the export area"
-msgstr "Introduïu 1/0 per a Sí/No per a ajustar l'àrea d'exportació"
+msgstr "Introduïu 1/0 com a Sí/No per a ajustar l'àrea d'exportació"
 
 #: ../src/actions/actions-output.cpp:282
-#, fuzzy
 msgid "Enter integer number for width"
-msgstr "Introduïu el nombre enter per a l'amplada"
+msgstr "Introduïu un nombre enter per a l'amplada"
 
 #: ../src/actions/actions-output.cpp:283
-#, fuzzy
 msgid "Enter integer number for height"
-msgstr "Introduïu el nombre enter per a l'alçada"
+msgstr "Introduïu un nombre enter per a l'alçada"
 
 #: ../src/actions/actions-output.cpp:285
-#, fuzzy
 msgid "Enter string for export ID"
-msgstr "Introduïu la cadena per a l'ID d'exportació"
+msgstr "Introduïu l'ID d'exportació"
 
 #: ../src/actions/actions-output.cpp:286
-#, fuzzy
 msgid "Enter 1/0 for Yes/No to export only given ID"
-msgstr "Introduïu 1/0 per a Yes/No per a exportar només l'ID indicat"
+msgstr "Introduïu 1/0 com a Sí/No per a exportar només l'ID indicat"
 
 #: ../src/actions/actions-output.cpp:288
-#, fuzzy
 msgid "Enter 1/0 for Yes/No to export plain SVG"
-msgstr "Introduïu 1/0 per a Yes/No per a exportar SVG pla"
+msgstr "Introduïu 1/0 com a Sí/No per a exportar l'SVG pla"
 
 #: ../src/actions/actions-output.cpp:289
-#, fuzzy
 msgid "Enter integer number for export DPI"
-msgstr "Introduïu el nombre enter per a exportar els PPP"
+msgstr "Introduïu un nombre enter per a exportar els PPP"
 
 #: ../src/actions/actions-output.cpp:290
-#, fuzzy
 msgid "Enter 1/0 for Yes/No to export ignoring filters"
-msgstr "Introduïu 1/0 per a Sí/No per a exportar els filtres d'ignorant"
+msgstr "Introduïu 1/0 com a Sí/No per a exportar els filtres a ignorar"
 
 #: ../src/actions/actions-output.cpp:291
-#, fuzzy
 msgid "Enter 1/0 for Yes/No to convert text to path on export"
-msgstr "Introduïu 1/0 per a Sí/No per a convertir el text al camí en exportar"
+msgstr "Introduïu 1/0 com a Sí/No per a convertir el text al camí en exportar"
 
 #: ../src/actions/actions-output.cpp:292
-#, fuzzy
 msgid "Enter integer number 2 or 3 for PS Level"
-msgstr "Introduïu el nombre enter 2 o 3 per al nivell PS"
+msgstr "Introduïu el nombre enter 2 o el 3 per al nivell PS"
 
 #: ../src/actions/actions-output.cpp:293
-#, fuzzy
 msgid "Enter string for PDF Version, e.g. 1.4 or 1.5"
-msgstr "Introduïu la cadena per a la versió PDF, p. ex. 1,4 o 1,5"
+msgstr "Introduïu la versió PDF, p. ex. 1,4 o 1,5"
 
 #: ../src/actions/actions-output.cpp:294
-#, fuzzy
 msgid "Enter 1/0 for Yes/No to export to PDF and LaTeX"
-msgstr "Introduïu 1/0 per a «Sí/No» per a exportar a PDF i LaTeX"
+msgstr "Introduïu 1/0 com a Sí/No per a exportar a PDF i LaTeX"
 
 #: ../src/actions/actions-output.cpp:295
-#, fuzzy
 msgid "Enter 1/0 for Yes/No to use export hints from document"
 msgstr ""
-"Introduïu 1/0 per a «Sí/No» per a usar els consells d'exportació del "
-"document"
+"Introduïu 1/0 com a Sí/No per a usar els consells d'exportació del document"
 
 #: ../src/actions/actions-output.cpp:296
-#, fuzzy
 msgid "Enter string for background color, e.g. #ff007f or rgb(255, 0, 128)"
 msgstr ""
-"Introduïu la cadena per al color de fons, p. ex. #ff007f o rgb(255, 0, 128)"
+"Introduïu un color de fons, p. ex. #ff007f o rgb(255, 0, 128)"
 
 #: ../src/actions/actions-output.cpp:297
-#, fuzzy
 msgid ""
 "Enter number for background opacity, either between 0.0 and 1.0, or 1 up to "
 "255"
 msgstr ""
-"Introduïu el número per a l'opacitat del fons, ja sigui entre 0.0 i 1.0, o 1"
+"Introduïu un número per a l'opacitat del fons, ja sigui entre 0.0 i 1.0, o 1"
 " fins a 255"
 
 #: ../src/actions/actions-output.cpp:298
-#, fuzzy
 msgid ""
 "Enter string for PNG Color Mode, one of "
 "Gray_1/Gray_2/Gray_4/Gray_8/Gray_16/RGB_8/RGB_16/GrayAlpha_8/GrayAlpha_16/RGBA_8/RGBA_16"
 msgstr ""
-"Introduïu la cadena per al mode de color PNG, un dels "
-"Gris1/Gray2/Gray4/Gray8/Gray16/RGB8/RGB16/GrayAlpha8/GrayAlpha16/RGBA8/RGBA16"
+"Introduïu el mode de color PNG, un dels següents: "
+"Gray_1/Gray_2/Gray_4/Gray_8/Gray_16/RGB_8/RGB_16/GrayAlpha_8/GrayAlpha_16/RGBA_8/RGBA_16"
 
 #: ../src/actions/actions-output.cpp:299
-#, fuzzy
 msgid "Enter 1/0 for Yes/No to use dithering"
-msgstr "Introduïu 1/0 per a Sí/No per a usar el tramat"
+msgstr "Introduïu 1/0 com a Sí/No per a usar el tramat"
 
 #: ../src/actions/actions-pages.cpp:93 ../src/actions/actions-pages.cpp:125
 #: ../share/ui/toolbar-page.ui:73 ../share/ui/toolbar-page.ui:216
-#, fuzzy
 msgid "New Page"
 msgstr "Pàgina nova"
 
 #: ../src/actions/actions-pages.cpp:93
-#, fuzzy
 msgid "Create a new page"
-msgstr "Crea una pàgina nova"
+msgstr "Crea una pàgina"
 
 #: ../src/actions/actions-pages.cpp:94 ../src/actions/actions-pages.cpp:126
-#, fuzzy
 msgid "Delete Page"
 msgstr "Suprimeix la pàgina"
 
 #: ../src/actions/actions-pages.cpp:94
-#, fuzzy
 msgid "Delete the selected page"
 msgstr "Suprimeix la pàgina seleccionada"
 
 #: ../src/actions/actions-pages.cpp:95
-#, fuzzy
 msgid "Move Objects with Page"
 msgstr "Mou els objectes amb la pàgina"
 
 #: ../src/actions/actions-pages.cpp:95
-#, fuzzy
 msgid "Move overlapping objects as the page is moved"
 msgstr "Mou els objectes superposats mentre es mou la pàgina"
 
 #: ../src/actions/actions-pages.cpp:96 ../share/ui/toolbar-page.ui:154
-#, fuzzy
 msgid "Move Before Previous"
 msgstr "Mou abans de l'anterior"
 
 #: ../src/actions/actions-pages.cpp:96
-#, fuzzy
 msgid "Move page backwards in the page order"
-msgstr "Mou la pàgina cap enrere en l'ordre de la pàgina"
+msgstr "Mou la pàgina cap enrere en l'ordre de pàgines"
 
 #: ../src/actions/actions-pages.cpp:97 ../share/ui/toolbar-page.ui:186
-#, fuzzy
 msgid "Move After Next"
 msgstr "Mou després de la següent"
 
 #: ../src/actions/actions-pages.cpp:97
-#, fuzzy
 msgid "Move page forwards in the page order"
-msgstr "Mou la pàgina endavant en l'ordre de la pàgina"
+msgstr "Mou la pàgina endavant en l'ordre de pàgines"
 
 #: ../src/actions/actions-pages.cpp:125
-#, fuzzy
 msgid "Create a new page and center view on it"
-msgstr "Crea una pàgina nova i centra la vista sobre ella"
+msgstr "Crea una pàgina i centra la vista sobre ella"
 
 #: ../src/actions/actions-pages.cpp:126
-#, fuzzy
 msgid "Delete the selected page and center view on next page"
 msgstr ""
 "Suprimeix la pàgina seleccionada i centra la vista a la pàgina següent"
@@ -351,7 +293,7 @@ msgid ""
 "Create exclusive OR of selected paths (those parts that belong to only one "
 "path)"
 msgstr ""
-"Crea una OR exclusiva dels camins seleccionats (les parts que pertanyen "
+"Crea una exclusió dels camins seleccionats (les parts que pertanyen "
 "només a un camí)"
 
 #: ../src/actions/actions-paths.cpp:230 ../src/path/path-boolop.cpp:92
@@ -363,14 +305,13 @@ msgid "Cut the bottom path into pieces"
 msgstr "Retalla el camí inferior en trossos"
 
 #: ../src/actions/actions-paths.cpp:231
-#, fuzzy
 msgid "Cut Path"
 msgstr "Retalla el camí"
 
 #: ../src/actions/actions-paths.cpp:231
 msgid "Cut the bottom path's stroke into pieces, removing fill"
 msgstr ""
-"Retalla el traç del camí inferior en trossos i suprimeix-ne l'emplenat"
+"Retalla el traç del camí inferior en trossos i en suprimeix l'emplenat"
 
 #: ../src/actions/actions-paths.cpp:232 ../src/path-chemistry.cpp:189
 msgid "Combine"
@@ -381,42 +322,35 @@ msgid "Combine several paths into one"
 msgstr "Combina múltiples camins en un de sol"
 
 #: ../src/actions/actions-paths.cpp:233
-#, fuzzy
 msgid "Break Apart"
-msgstr "Separa"
+msgstr "Trenca"
 
 #: ../src/actions/actions-paths.cpp:233
 msgid "Break selected paths into subpaths"
-msgstr "Separa els camins seleccionats en subcamins"
+msgstr "Trenca els camins seleccionats en subcamins"
 
 #: ../src/actions/actions-paths.cpp:234
-#, fuzzy
 msgid "Split Apart"
 msgstr "Separa"
 
 #: ../src/actions/actions-paths.cpp:234
-#, fuzzy
 msgid "Split selected paths into non-overlapping sections"
-msgstr "Divideix els camins seleccionats en seccions no superposades"
+msgstr "Separa els camins seleccionats en seccions no superposades"
 
 #: ../src/actions/actions-paths.cpp:235
-#, fuzzy
 msgid "Fracture"
 msgstr "Fractura"
 
 #: ../src/actions/actions-paths.cpp:235
-#, fuzzy
 msgid "Fracture one or more overlapping objects into all possible segments"
 msgstr "Fractura un o més objectes superposats en tots els segments possibles"
 
 #: ../src/actions/actions-paths.cpp:236
 #: ../share/ui/dialog-livepatheffect-item.glade:37
-#, fuzzy
 msgid "Flatten"
 msgstr "Aplana"
 
 #: ../src/actions/actions-paths.cpp:236
-#, fuzzy
 msgid "Flatten one or more overlapping objects into their visible parts"
 msgstr "Aplana un o més objectes que se superposen a les seves parts visibles"
 
@@ -439,7 +373,7 @@ msgstr "Simplifica"
 
 #: ../src/actions/actions-paths.cpp:238
 msgid "Simplify selected paths (remove extra nodes)"
-msgstr "Simplifica els camins seleccionats (suprimint nodes addicionals)"
+msgstr "Simplifica els camins seleccionats (suprimeix els nodes addicionals)"
 
 #: ../src/actions/actions-paths.cpp:240
 msgid "Inset selected paths"
@@ -457,7 +391,6 @@ msgid "Offset"
 msgstr "Desplaçament"
 
 #: ../src/actions/actions-paths.cpp:241
-#, fuzzy
 msgid "Offset selected paths"
 msgstr "Desplaça els camins seleccionats"
 
@@ -486,48 +419,40 @@ msgstr "Inverteix"
 #: ../src/actions/actions-paths.cpp:244
 msgid "Reverse the direction of selected paths (useful for flipping markers)"
 msgstr ""
-"Inverteix la direcció dels camins seleccionats (útil per a invertir els "
+"Inverteix la direcció dels camins seleccionats (útil per a invertir "
 "marcadors)"
 
 #: ../src/actions/actions-paths.cpp:245
-#, fuzzy
 msgid "Inset Screen"
-msgstr "Inverteix la pantalla"
+msgstr "Contrau la pantalla"
 
 #: ../src/actions/actions-paths.cpp:245
-#, fuzzy
 msgid "Inset selected paths by screen pixels"
 msgstr "Contrau els camins seleccionats per píxels de pantalla"
 
 #: ../src/actions/actions-paths.cpp:246
-#, fuzzy
 msgid "Offset Screen"
 msgstr "Desplaçament de la pantalla"
 
 #: ../src/actions/actions-paths.cpp:246
-#, fuzzy
 msgid "Offset selected paths by screen pixels"
-msgstr "Desplaça els camins seleccionats pels píxels de la pantalla"
+msgstr "Desplaça els camins seleccionats pels píxels de pantalla"
 
 #: ../src/actions/actions-paths.cpp:248
-#, fuzzy
 msgid "Shape Builder: Add"
 msgstr "Constructor de formes: afegeix"
 
 #: ../src/actions/actions-paths.cpp:248
-#, fuzzy
 msgid "Add shapes by clicking or clicking and dragging"
-msgstr "Afegiu formes fent clic o fent clic i arrossegant"
+msgstr "Afegeix formes en fer clic o en fer clic i arrossegar"
 
 #: ../src/actions/actions-paths.cpp:249
-#, fuzzy
 msgid "Shape Builder: Delete"
 msgstr "Constructor de formes: suprimeix"
 
 #: ../src/actions/actions-paths.cpp:249
-#, fuzzy
 msgid "Remove shapes by clicking or clicking and dragging"
-msgstr "Elimina les formes fent clic o fent clic i arrossegant"
+msgstr "Elimina les formes en fer clic o en fer clic i arrossegar"
 
 #: ../src/actions/actions-selection-object.cpp:41
 #: ../src/actions/actions-selection-object.cpp:151
@@ -543,13 +468,11 @@ msgstr "Desagrupa"
 
 #: ../src/actions/actions-selection-object.cpp:73
 #: ../src/ui/dialog/object-attributes.cpp:342
-#, fuzzy
 msgid "Anchor"
 msgstr "Àncora"
 
 #: ../src/actions/actions-selection-object.cpp:145
 #: ../src/ui/dialog/document-properties.cpp:437
-#, fuzzy
 msgid "Resize page to fit"
 msgstr "Redimensiona la pàgina per a ajustar-la"
 
@@ -558,32 +481,23 @@ msgid "Group selected objects"
 msgstr "Agrupa els objectes seleccionats"
 
 #: ../src/actions/actions-selection-object.cpp:152
-#, fuzzy
 msgid "Ungroup selected objects"
 msgstr "Desagrupa els objectes seleccionats"
 
 #: ../src/actions/actions-selection-object.cpp:153
-#, fuzzy
 msgid "Pop Selected Objects out of Group"
 msgstr "Treu els objectes seleccionats del grup"
 
-#: ../src/actions/actions-selection-object.cpp:153
-msgid "Pop selected objects out of group"
-msgstr "Treu els objectes seleccionats del grup"
-
 #: ../src/actions/actions-selection-object.cpp:154
-#, fuzzy
 msgctxt "Hyperlink|Verb"
 msgid "Link"
-msgstr "Enllaç"
+msgstr "Enllaça"
 
 #: ../src/actions/actions-selection-object.cpp:154
-#, fuzzy
 msgid "Add an anchor to selected objects"
 msgstr "Afegeix una àncora als objectes seleccionats"
 
 #: ../src/actions/actions-selection-object.cpp:156
-#, fuzzy
 msgid "Raise to Top"
 msgstr "Puja al capdamunt"
 
@@ -603,7 +517,6 @@ msgid "Raise selection one step"
 msgstr "Puja la selecció una posició"
 
 #: ../src/actions/actions-selection-object.cpp:158
-#, fuzzy
 msgid "Lower"
 msgstr "Baixa"
 
@@ -613,7 +526,6 @@ msgid "Lower selection one step"
 msgstr "Baixa la selecció una posició"
 
 #: ../src/actions/actions-selection-object.cpp:159
-#, fuzzy
 msgid "Lower to Bottom"
 msgstr "Baixa al capdavall"
 
@@ -623,27 +535,22 @@ msgid "Lower selection to bottom"
 msgstr "Baixa la selecció al capdavall"
 
 #: ../src/actions/actions-selection-object.cpp:161
-#, fuzzy
 msgid "Move up the Stack"
-msgstr "Mou amunt la pila"
+msgstr "Mou amunt en la pila"
 
 #: ../src/actions/actions-selection-object.cpp:161
-#, fuzzy
 msgid "Move the selection up in the stack order"
 msgstr "Mou la selecció amunt en l'ordre de la pila"
 
 #: ../src/actions/actions-selection-object.cpp:162
-#, fuzzy
 msgid "Move down the Stack"
-msgstr "Mou avall la pila"
+msgstr "Mou avall en la pila"
 
 #: ../src/actions/actions-selection-object.cpp:162
-#, fuzzy
 msgid "Move the selection down in the stack order"
 msgstr "Mou la selecció cap avall en l'ordre de la pila"
 
 #: ../src/actions/actions-selection-object.cpp:164
-#, fuzzy
 msgid "Make a Bitmap Copy"
 msgstr "Fes una còpia de mapa de bits"
 
@@ -652,7 +559,6 @@ msgid "Export selection to a bitmap and insert it into document"
 msgstr "Exporta la selecció a un mapa de bits i insereix-lo en el document"
 
 #: ../src/actions/actions-selection-object.cpp:165
-#, fuzzy
 msgid "Resize Page to Selection"
 msgstr "Redimensiona la pàgina a la selecció"
 
@@ -665,16 +571,14 @@ msgstr ""
 "seleccionat"
 
 #: ../src/actions/actions-selection-window.cpp:124
-#, fuzzy
 msgid "Select All"
 msgstr "Selecciona-ho tot"
 
 #: ../src/actions/actions-selection-window.cpp:124
 msgid "Select all objects or all nodes"
-msgstr "Selecciona tots els objectes o els nodes"
+msgstr "Selecciona tots els objectes o nodes"
 
 #: ../src/actions/actions-selection-window.cpp:125
-#, fuzzy
 msgid "Select All in All Layers"
 msgstr "Selecciona-ho tot en totes les capes"
 
@@ -697,7 +601,7 @@ msgstr ""
 
 #: ../src/actions/actions-selection-window.cpp:127
 msgid "Fill Color"
-msgstr "Emplenat de color"
+msgstr "Color d'emplenat"
 
 #: ../src/actions/actions-selection-window.cpp:127
 msgid "Select all objects with the same fill as the selected objects"
@@ -737,21 +641,20 @@ msgid ""
 "etc) as the selected objects"
 msgstr ""
 "Selecciona tots els objectes amb el mateix tipus d'objecte (rectangle, arc, "
-"text, camí, mapa de bits, etc) que els objectes seleccionats"
+"text, camí, mapa de bits, etc.) que els objectes seleccionats"
 
 #: ../src/actions/actions-selection-window.cpp:131
-#, fuzzy
 msgid "Invert Selection"
 msgstr "Inverteix la selecció"
 
 #: ../src/actions/actions-selection-window.cpp:131
 msgid ""
 "Invert selection (unselect what is selected and select everything else)"
-msgstr "Selecciona tot allò que ara no està seleccionat"
+msgstr "Selecciona el contrari del que està seleccionat"
 
 #: ../src/actions/actions-selection-window.cpp:132
 msgid "Invert in All Layers"
-msgstr "Inverteix totes les capes"
+msgstr "Inverteix a totes les capes"
 
 #: ../src/actions/actions-selection-window.cpp:132
 msgid "Invert selection in all visible and unlocked layers"
@@ -759,23 +662,20 @@ msgstr "Inverteix la selecció en totes les capes visibles i no blocades"
 
 #: ../src/actions/actions-selection-window.cpp:133
 #: ../src/actions/actions-selection.cpp:243
-#, fuzzy
 msgid "Deselect"
 msgstr "Desselecciona"
 
 #: ../src/actions/actions-selection-window.cpp:133
 msgid "Deselect any selected objects or nodes"
-msgstr "Desfés la selecció dels objectes o els nodes"
+msgstr "Desfés la selecció dels objectes o nodes"
 
 #: ../src/actions/actions-selection.cpp:241
-#, fuzzy
 msgid "Clear Selection"
-msgstr "Neteja la selecció"
+msgstr "Esborra la selecció"
 
 #: ../src/actions/actions-selection.cpp:241
-#, fuzzy
 msgid "Clear selection"
-msgstr "Neteja la selecció"
+msgstr "Esborra la selecció"
 
 #: ../src/actions/actions-selection.cpp:242
 #: ../src/extension/prefdialog/parameter-path.cpp:218
@@ -785,12 +685,10 @@ msgid "Select"
 msgstr "Selecciona"
 
 #: ../src/actions/actions-selection.cpp:242
-#, fuzzy
 msgid "Select by ID (deprecated)"
 msgstr "Selecciona per ID (obsolet)"
 
 #: ../src/actions/actions-selection.cpp:243
-#, fuzzy
 msgid "Deselect by ID (deprecated)"
 msgstr "Desselecciona per ID (obsolet)"
 
@@ -799,12 +697,10 @@ msgid "Select by ID"
 msgstr "Selecciona per ID"
 
 #: ../src/actions/actions-selection.cpp:245
-#, fuzzy
 msgid "Deselect by ID"
 msgstr "Desselecciona per ID"
 
 #: ../src/actions/actions-selection.cpp:246
-#, fuzzy
 msgid "Select by Class"
 msgstr "Selecciona per classe"
 
@@ -820,10 +716,9 @@ msgstr "Selecciona per element"
 #: ../src/actions/actions-selection.cpp:247
 #, fuzzy
 msgid "Select by SVG element (e.g. 'rect')"
-msgstr "Selecciona per element SVG (p. ex. «rect»)"
+msgstr "Selecciona per element SVG (p. ex. «recta»)"
 
 #: ../src/actions/actions-selection.cpp:248
-#, fuzzy
 msgid "Select by Selector"
 msgstr "Selecciona per selector"
 
@@ -832,12 +727,10 @@ msgid "Select by CSS selector"
 msgstr "Selecciona per selector CSS"
 
 #: ../src/actions/actions-selection.cpp:249
-#, fuzzy
 msgid "Select All Objects"
 msgstr "Selecciona tots els objectes"
 
 #: ../src/actions/actions-selection.cpp:249
-#, fuzzy
 msgid ""
 "Select all; options: 'all' (every object including groups), 'layers', 'no-"
 "layers' (top level objects in layers), 'groups' (all groups including "
@@ -849,51 +742,42 @@ msgstr ""
 "siguin grups i capes, predeterminat)"
 
 #: ../src/actions/actions-selection.cpp:250
-#, fuzzy
 msgid "List Selection"
-msgstr "Selecció de llista"
+msgstr "Llista la selecció"
 
 #: ../src/actions/actions-selection.cpp:250
-#, fuzzy
 msgid "Print a list of objects in current selection"
 msgstr "Imprimeix una llista d'objectes a la selecció actual"
 
 #: ../src/actions/actions-selection.cpp:251
-#, fuzzy
 msgid "Set selection backup"
-msgstr "Estableix la còpia de seguretat de la selecció"
+msgstr "Salva la selecció"
 
 #: ../src/actions/actions-selection.cpp:251
-#, fuzzy
 msgid "Set backup of current selection of objects or nodes"
 msgstr ""
-"Estableix la còpia de seguretat de la selecció actual d'objectes o nodes"
+"Fa una còpia de seguretat de la selecció actual d'objectes o nodes"
 
 #: ../src/actions/actions-selection.cpp:252
-#, fuzzy
 msgid "Restore selection backup"
-msgstr "Restaura la còpia de seguretat de la selecció"
+msgstr "Restaura la selecció"
 
 #: ../src/actions/actions-selection.cpp:252
-#, fuzzy
 msgid "Restore backup of stored selection of objects or nodes"
 msgstr ""
-"Restaura la còpia de seguretat de la selecció emmagatzemada d'objectes o "
+"Restaura la còpia de seguretat de la selecció d'objectes o "
 "nodes"
 
 #: ../src/actions/actions-selection.cpp:253
-#, fuzzy
 msgid "Empty selection backup"
 msgstr "Buida la còpia de seguretat de la selecció"
 
 #: ../src/actions/actions-selection.cpp:253
-#, fuzzy
 msgid "Empty stored backup of selection of objects or nodes"
 msgstr ""
-"Còpia de seguretat buida emmagatzemada de la selecció d'objectes o nodes"
+"Buida la còpia de seguretat de la selecció d'objectes o nodes"
 
 #: ../src/actions/actions-text.cpp:67
-#, fuzzy
 msgid "Put on Path"
 msgstr "Posa al camí"
 
@@ -902,7 +786,6 @@ msgid "Put text on path"
 msgstr "Posa el text en el camí"
 
 #: ../src/actions/actions-text.cpp:68
-#, fuzzy
 msgid "Remove from Path"
 msgstr "Elimina del camí"
 
@@ -911,9 +794,8 @@ msgid "Remove text from path"
 msgstr "Suprimeix el text del camí"
 
 #: ../src/actions/actions-text.cpp:69
-#, fuzzy
 msgid "Flow into Frame"
-msgstr "Flueix en el marc"
+msgstr "Flueix cap al marc"
 
 #: ../src/actions/actions-text.cpp:69
 msgid ""
@@ -924,21 +806,18 @@ msgstr ""
 "l'objecte de marc"
 
 #: ../src/actions/actions-text.cpp:70
-#, fuzzy
 msgid "Set Subtraction Frames"
 msgstr "Estableix els fotogrames de resta"
 
 #: ../src/actions/actions-text.cpp:70
-#, fuzzy
 msgid ""
 "Flow text around a frame (path or shape), only available for SVG 2.0 Flow "
 "text."
 msgstr ""
 "Flueix el text al voltant d'un marc (camí o forma), només disponible per al "
-"text Flux SVG 2.0."
+"Text Flux de fitxers SVG 2.0."
 
 #: ../src/actions/actions-text.cpp:71
-#, fuzzy
 msgid "Unflow"
 msgstr "Desfés el flux"
 
@@ -947,18 +826,16 @@ msgid "Remove text from frame (creates a single-line text object)"
 msgstr "Suprimeix el text del marc (crea un objecte de text d'una línia)"
 
 #: ../src/actions/actions-text.cpp:72
-#, fuzzy
 msgid "Convert to Text"
 msgstr "Converteix a text"
 
 #: ../src/actions/actions-text.cpp:72
 msgid "Convert flowed text to regular text object (preserves appearance)"
 msgstr ""
-"Converteix el text flotant en objectes de text normal (conserva'n "
+"Converteix el text flotant en un objecte de text normal (conserva "
 "l'aparença)"
 
 #: ../src/actions/actions-text.cpp:73
-#, fuzzy
 msgid "Remove Manual Kerns"
 msgstr "Elimina els Kerns manuals"
 
@@ -981,7 +858,6 @@ msgid "Modify selected path points (nodes) directly."
 msgstr "Modifica els punts del camí seleccionat (nodes) directament."
 
 #: ../src/actions/actions-tools.cpp:96
-#, fuzzy
 msgid "Construct shapes with the interactive Boolean tool."
 msgstr "Construeix formes amb l'eina Booleana interactiva."
 
@@ -991,7 +867,7 @@ msgid ""
 " resize. <b>Click</b> to select."
 msgstr ""
 "<b>Arrossegueu</b> per a crear un rectangle. <b>Arrossegueu els controls</b>"
-" per a arrodonir les cantonades. <b>Cliqueu</b> per a seleccionar."
+" per a arrodonir els cantons. <b>Feu clic</b> per a seleccionar."
 
 #: ../src/actions/actions-tools.cpp:98
 msgid ""
@@ -999,7 +875,7 @@ msgid ""
 "segment. <b>Click</b> to select."
 msgstr ""
 "<b>Arrossegueu</b> per a crear una el·lipse. <b>Arrossegueu els controls</b>"
-" per a fer un arc o un segment. <b>Cliqueu</b> per a seleccionar."
+" per a fer un arc o un segment. <b>Feu clic</b> per a seleccionar."
 
 #: ../src/actions/actions-tools.cpp:99
 msgid ""
@@ -1007,16 +883,16 @@ msgid ""
 "<b>Click</b> to select."
 msgstr ""
 "<b>Arrossegueu</b> per a crear un estel. <b>Arrossegueu els controls</b> per"
-" a editar la forma de l'estel. <b>Cliqueu</b> per a seleccionar."
+" a editar la forma de l'estel. <b>Feu clic</b> per a seleccionar."
 
 #: ../src/actions/actions-tools.cpp:100
 msgid ""
 "<b>Drag</b> to create a 3D box. <b>Drag controls</b> to resize in "
 "perspective. <b>Click</b> to select (with <b>Ctrl+Alt</b> for single faces)."
 msgstr ""
-"<b>Arrossegueu</b> per a crear una capsa 3D. <b>Arrossegueu</b> els controls"
-" per a canviar la mida en perspectiva. <b>Cliqueu</b> per a seleccionar "
-"(<b>Ctrl+Alt</b> per a cares simples)."
+"<b>Arrossegueu</b> per a crear una caixa 3D. <b>Arrossegueu</b> els controls"
+" per a canviar la mida en perspectiva. <b>Feu clic</b> per a seleccionar "
+"(<b>Ctrl+Alt</b> per a cares independents)."
 
 #: ../src/actions/actions-tools.cpp:101
 msgid ""
@@ -1024,16 +900,15 @@ msgid ""
 "shape. <b>Click</b> to select."
 msgstr ""
 "<b>Arrossegueu</b> per a crear una espiral. <b>Arrossegueu els controls</b> "
-"per a editar l'espiral. <b>Cliqueu</b> per a seleccionar."
+"per a editar l'espiral. <b>Feu clic</b> per a seleccionar."
 
 #: ../src/actions/actions-tools.cpp:102
-#, fuzzy
 msgid ""
 "<b>Click</b> a shape to start editing its markers. <b>Drag controls</b> to "
 "change orientation, scale, and position."
 msgstr ""
-"<b>Cliqueu</b> una forma per començar a editar els seus marcadors. "
-"<b>Arrossegueu controla</b> per canviar l'orientació, l'escala i la posició."
+"<b>Feu clic</b> en una forma per començar a editar els seus marcadors. "
+"<b>Arrossegueu els controls</b> per a canviar l'orientació, l'escala i la posició."
 
 #: ../src/actions/actions-tools.cpp:103
 msgid ""
@@ -1049,9 +924,9 @@ msgid ""
 "append to selected path. <b>Ctrl+click</b> to create single dots (straight "
 "line modes only)."
 msgstr ""
-"<b>Cliqueu</b> o <b>cliqueu i arrossegueu</b> per a començar un camí; amb "
+"<b>Feu clic</b> o <b>clic i arrossegueu</b> per a començar un camí; amb "
 "<b>Maj</b> ho afegiu al camí seleccionat. <b>Ctrl+clic</b> per a crear punts"
-" dispersos (per al mode de línies rectes només)."
+" independents (per al mode de línies rectes només)."
 
 #: ../src/actions/actions-tools.cpp:105
 msgid ""
@@ -1067,8 +942,8 @@ msgid ""
 "<b>Click</b> to select or create text, <b>drag</b> to create flowed text; "
 "then type."
 msgstr ""
-"<b>Cliqueu</b> per a seleccionar o crear text, <b>arrossegueu</b> per a "
-"crear un text flotat i escriviu-hi."
+"<b>Feu clic</b> per a seleccionar o crear text, <b>arrossegueu</b> per a "
+"crear un text ajustat i escriviu-hi."
 
 #: ../src/actions/actions-tools.cpp:107
 msgid ""
@@ -1085,7 +960,7 @@ msgid ""
 "<b>drag handles</b> to adjust meshes."
 msgstr ""
 "<b>Arrossegueu</b> o feu <b>doble clic</b> per a crear una malla en els "
-"objectes seleccionats, <b>arrossegueu les nanses</b> per a ajustar les "
+"objectes seleccionats, <b>arrossegueu els punts de control</b> per a ajustar les "
 "malles."
 
 #: ../src/actions/actions-tools.cpp:109
@@ -1093,8 +968,8 @@ msgid ""
 "<b>Click</b> or <b>drag around an area</b> to zoom in, <b>Shift+click</b> to"
 " zoom out."
 msgstr ""
-"<b>Cliqueu</b> o <b>arrossegueu al voltant d'una àrea</b> per a ampliar-la, "
-"amb <b>Maj+clic</b> per a reduir-la."
+"<b>Feu clic</b> o <b>arrossegueu al voltant d'una àrea</b> per a ampliar-la, "
+"feu <b>Maj+clic</b> per a reduir-la."
 
 #: ../src/actions/actions-tools.cpp:110
 msgid "<b>Drag</b> to measure the dimensions of objects."
@@ -1106,7 +981,7 @@ msgid ""
 "average color in area; with <b>Alt</b> to pick inverse color; <b>Ctrl+C</b> "
 "to copy the color under mouse to clipboard"
 msgstr ""
-"<b>Cliqueu</b> per a establir l'emplenat; premeu <b>Maj+clic</b> per a "
+"<b>Feu clic</b> per a establir l'emplenat; premeu <b>Maj+clic</b> per a "
 "establir el contorn; <b>arrossegueu</b> per a seleccionar el color mitjà "
 "d'una àrea; premeu <b>Alt</b> per a seleccionar el color invers; o premeu "
 "<b>Ctrl+C</b> per a copiar al porta-retalls el color que hi ha a sota del "
@@ -1114,7 +989,7 @@ msgstr ""
 
 #: ../src/actions/actions-tools.cpp:112
 msgid "To tweak a path by pushing, select it and drag over it."
-msgstr "Deformeu un camí empenyent-lo, seleccionant-lo i arrossegant-lo."
+msgstr "Seleccioneu i arrossegueu sobre un camí per a deformar-lo."
 
 #: ../src/actions/actions-tools.cpp:113
 msgid ""
@@ -1122,11 +997,11 @@ msgid ""
 "objects."
 msgstr ""
 "<b>Arrossegueu</b>, <b>feu clic</b> o <b>feu clic i desplaceu</b> per a "
-"pintar els objectes seleccionats."
+"pintar amb esprai els objectes seleccionats."
 
 #: ../src/actions/actions-tools.cpp:114
 msgid "<b>Click and drag</b> between shapes to create a connector."
-msgstr "<b>Cliqueu i arrossegueu</b> entre formes per a crear un connector."
+msgstr "<b>Feu clic i arrossegueu</b> entre formes per a crear un connector."
 
 #: ../src/actions/actions-tools.cpp:115
 msgid ""
@@ -1134,7 +1009,7 @@ msgid ""
 "fill with the current selection, <b>Ctrl+click</b> to change the clicked "
 "object's fill and stroke to the current setting."
 msgstr ""
-"<b>Cliqueu</b> per a pintar una àrea vorejada, <b>Maj+clic</b> per a unir el"
+"<b>Feu clic</b> per a pintar una àrea vorejada, <b>Maj+clic</b> per a unir el"
 " nou emplenat amb la selecció actual o <b>Ctrl+clic</b> per a canviar "
 "l'emplenat i el traç de l'objecte clicat amb els valors actuals."
 
@@ -1147,12 +1022,10 @@ msgid "Choose a subtool from the toolbar"
 msgstr "Trieu una subeina de la barra d'eines"
 
 #: ../src/actions/actions-tools.cpp:118
-#, fuzzy
 msgid "Create and manage pages."
 msgstr "Creeu i gestioneu pàgines."
 
 #: ../src/actions/actions-tools.cpp:362
-#, fuzzy
 msgid "Selector Tool"
 msgstr "Eina de selecció"
 
@@ -1161,7 +1034,6 @@ msgid "Select and transform objects"
 msgstr "Selecciona i transforma els objectes"
 
 #: ../src/actions/actions-tools.cpp:363 ../src/ui/modifiers.cpp:68
-#, fuzzy
 msgid "Node Tool"
 msgstr "Eina de node"
 
@@ -1170,17 +1042,14 @@ msgid "Edit paths by nodes"
 msgstr "Edita els camins pels nodes"
 
 #: ../src/actions/actions-tools.cpp:364
-#, fuzzy
 msgid "Shape Builder Tool"
-msgstr "Eina Constructor de formes"
+msgstr "Eina de constructor de formes"
 
 #: ../src/actions/actions-tools.cpp:364
-#, fuzzy
 msgid "Build shapes with the Boolean tool"
 msgstr "Construeix formes amb l'eina booleana"
 
 #: ../src/actions/actions-tools.cpp:366
-#, fuzzy
 msgid "Rectangle Tool"
 msgstr "Eina de rectangle"
 
@@ -1189,64 +1058,54 @@ msgid "Create rectangles and squares"
 msgstr "Crea rectangles i quadrats"
 
 #: ../src/actions/actions-tools.cpp:367
-#, fuzzy
 msgid "Ellipse/Arc Tool"
-msgstr "Eina El·lipse/Arc"
+msgstr "Eina d'el·lipse/arc"
 
 #: ../src/actions/actions-tools.cpp:367
-#, fuzzy
 msgid "Create circles, ellipses and arcs"
 msgstr "Crea cercles, el·lipses i arcs"
 
 #: ../src/actions/actions-tools.cpp:368
-#, fuzzy
 msgid "Star/Polygon Tool"
-msgstr "Eina Estrella/Polígon"
+msgstr "Eina d'estel/polígon"
 
 #: ../src/actions/actions-tools.cpp:368
 msgid "Create stars and polygons"
 msgstr "Crea estels i polígons"
 
 #: ../src/actions/actions-tools.cpp:369
-#, fuzzy
 msgid "3D Box Tool"
-msgstr "Eina de quadre 3D"
+msgstr "Eina de caixa 3D"
 
 #: ../src/actions/actions-tools.cpp:369
-#, fuzzy
 msgid "Create 3D Boxes"
 msgstr "Crea caixes 3D"
 
 #: ../src/actions/actions-tools.cpp:370
-#, fuzzy
 msgid "Spiral Tool"
-msgstr "Eina espiral"
+msgstr "Eina d'espiral"
 
 #: ../src/actions/actions-tools.cpp:370
 msgid "Create spirals"
 msgstr "Crea espirals"
 
 #: ../src/actions/actions-tools.cpp:371
-#, fuzzy
 msgid "Marker Tool"
 msgstr "Eina de marcadors"
 
 #: ../src/actions/actions-tools.cpp:371
-#, fuzzy
 msgid "Edit markers"
 msgstr "Edita els marcadors"
 
 #: ../src/actions/actions-tools.cpp:373
-#, fuzzy
 msgid "Pen Tool"
-msgstr "Eina de llapis"
+msgstr "Eina de bolígraf"
 
 #: ../src/actions/actions-tools.cpp:373
 msgid "Draw Bezier curves and straight lines"
 msgstr "Dibuixa corbes Bézier i línies rectes"
 
 #: ../src/actions/actions-tools.cpp:374
-#, fuzzy
 msgid "Pencil Tool"
 msgstr "Eina de llapis"
 
@@ -1255,7 +1114,6 @@ msgid "Draw freehand lines"
 msgstr "Dibuixa línies a mà alçada"
 
 #: ../src/actions/actions-tools.cpp:375
-#, fuzzy
 msgid "Calligraphy Tool"
 msgstr "Eina de cal·ligrafia"
 
@@ -1264,7 +1122,6 @@ msgid "Draw calligraphic or brush strokes"
 msgstr "Dibuixa un traç de cal·ligrafia o de pinzell"
 
 #: ../src/actions/actions-tools.cpp:376
-#, fuzzy
 msgid "Text Tool"
 msgstr "Eina de text"
 
@@ -1273,7 +1130,6 @@ msgid "Create and edit text objects"
 msgstr "Crea i edita objectes de text"
 
 #: ../src/actions/actions-tools.cpp:378
-#, fuzzy
 msgid "Gradient Tool"
 msgstr "Eina de degradat"
 
@@ -1282,7 +1138,6 @@ msgid "Create and edit gradients"
 msgstr "Crea i edita els degradats"
 
 #: ../src/actions/actions-tools.cpp:379
-#, fuzzy
 msgid "Mesh Tool"
 msgstr "Eina de malla"
 
@@ -1291,7 +1146,6 @@ msgid "Create and edit meshes"
 msgstr "Crea i edita malles"
 
 #: ../src/actions/actions-tools.cpp:380
-#, fuzzy
 msgid "Dropper Tool"
 msgstr "Eina de comptagotes"
 
@@ -1301,7 +1155,6 @@ msgid "Pick colors from image"
 msgstr "Agafa els colors de la imatge"
 
 #: ../src/actions/actions-tools.cpp:381
-#, fuzzy
 msgid "Paint Bucket Tool"
 msgstr "Eina de pintura"
 
@@ -1310,36 +1163,30 @@ msgid "Fill bounded areas"
 msgstr "Emplena les àrees vorejades"
 
 #: ../src/actions/actions-tools.cpp:383
-#, fuzzy
 msgid "Tweak Tool"
-msgstr "Eina de retoc"
+msgstr "Eina de deformació"
 
 #: ../src/actions/actions-tools.cpp:383
 msgid "Tweak objects by sculpting or painting"
 msgstr "Deforma els objectes esculpint-los o pintant-los"
 
 #: ../src/actions/actions-tools.cpp:384
-#, fuzzy
 msgid "Spray Tool"
 msgstr "Eina esprai"
 
 #: ../src/actions/actions-tools.cpp:384
-#, fuzzy
 msgid "Spray copies or clones of objects"
-msgstr "Esprai de còpies o clons d'objectes"
+msgstr "Genera còpies o clons d'objectes"
 
 #: ../src/actions/actions-tools.cpp:385
-#, fuzzy
 msgid "Eraser Tool"
-msgstr "Eina d'esborrador"
+msgstr "Eina d'esborrar"
 
 #: ../src/actions/actions-tools.cpp:385
-#, fuzzy
 msgid "Erase objects or paths"
 msgstr "Esborra objectes o camins"
 
 #: ../src/actions/actions-tools.cpp:386
-#, fuzzy
 msgid "Connector Tool"
 msgstr "Eina de connectors"
 
@@ -1353,70 +1200,58 @@ msgstr "Eina LPE"
 
 #: ../src/actions/actions-tools.cpp:387
 msgid "Do geometric constructions"
-msgstr "Fes una construcció geomètrica"
+msgstr "Fes construccions geomètriques"
 
 #: ../src/actions/actions-tools.cpp:389
-#, fuzzy
 msgid "Zoom Tool"
-msgstr "Eina de zoom"
+msgstr "Eina d'ampliació"
 
 #: ../src/actions/actions-tools.cpp:389
 msgid "Zoom in or out"
 msgstr "Apropa o allunya"
 
 #: ../src/actions/actions-tools.cpp:390
-#, fuzzy
 msgid "Measure Tool"
 msgstr "Eina de mesura"
 
 #: ../src/actions/actions-tools.cpp:390
-#, fuzzy
 msgid "Measure objects"
 msgstr "Mesura els objectes"
 
 #: ../src/actions/actions-tools.cpp:391
-#, fuzzy
 msgid "Pages Tool"
 msgstr "Eina de pàgines"
 
 #: ../src/actions/actions-tools.cpp:391
-#, fuzzy
 msgid "Create and edit document pages"
-msgstr "Crea i edita pàgines de documents"
+msgstr "Crea i edita pàgines del document"
 
 #: ../src/actions/actions-tools.cpp:393
-#, fuzzy
 msgid "Toggle Selector Tool"
 msgstr "Commuta l'eina de selecció"
 
 #: ../src/actions/actions-tools.cpp:393
-#, fuzzy
 msgid "Toggle between Selector tool and last used tool"
 msgstr "Commuta entre l'eina de selecció i l'última eina usada"
 
 #: ../src/actions/actions-tools.cpp:394
-#, fuzzy
 msgid "Toggle Dropper"
 msgstr "Commuta el comptagotes"
 
 #: ../src/actions/actions-tools.cpp:394
-#, fuzzy
 msgid "Toggle between Dropper tool and last used tool"
 msgstr "Commuta entre l'eina comptagotes i l'última eina usada"
 
 #: ../src/actions/actions-transform.cpp:114
 #: ../src/actions/actions-transform.cpp:128
-#, fuzzy
 msgid "Reapply Transforms"
 msgstr "Torna a aplicar les transformacions"
 
 #: ../src/actions/actions-transform.cpp:121
-#, fuzzy
 msgid "Translate"
 msgstr "Tradueix"
 
 #: ../src/actions/actions-transform.cpp:121
-#, fuzzy
 msgid "Translate selected objects (dx,dy)"
 msgstr "Tradueix els objectes seleccionats (dx,dy)"
 
@@ -1427,9 +1262,8 @@ msgid "Rotate"
 msgstr "Gira"
 
 #: ../src/actions/actions-transform.cpp:122
-#, fuzzy
 msgid "Rotate selected objects by degrees"
-msgstr "Gira els objectes seleccionats en graus"
+msgstr "Gira els objectes seleccionats per graus"
 
 #: ../src/actions/actions-transform.cpp:123
 #: ../src/live_effects/lpe-measure-segments.cpp:81
@@ -1440,96 +1274,81 @@ msgid "Scale"
 msgstr "Escala"
 
 #: ../src/actions/actions-transform.cpp:123
-#, fuzzy
 msgid "Scale selected objects by scale factor"
-msgstr "Escala els objectes seleccionats pel factor d'escala"
+msgstr "Escala els objectes seleccionats per un factor d'escala"
 
 #: ../src/actions/actions-transform.cpp:124
-#, fuzzy
 msgid "Grow/Shrink"
-msgstr "Augmenta/encongeix"
+msgstr "Engrandeix/encongeix"
 
 #: ../src/actions/actions-transform.cpp:124
 #, fuzzy
 msgid "Grow/shrink selected objects"
-msgstr "Encongeix/encongeix els objectes seleccionats"
+msgstr "Engrandeix/encongeix els objectes seleccionats"
 
 #: ../src/actions/actions-transform.cpp:125
-#, fuzzy
 msgid "Grow/Shrink Step"
-msgstr "Fes créixer/encongeix el pas"
+msgstr "Pas d'engrandiment/encongiment"
 
 #: ../src/actions/actions-transform.cpp:125
-#, fuzzy
 msgid "Grow/shrink selected objects by multiple of step value"
 msgstr ""
-"Fes créixer/encongeix els objectes seleccionats per múltiples valors de pas"
+"Engrandeix/encongeix els objectes seleccionats per múltiples d'un valor"
 
 #: ../src/actions/actions-transform.cpp:126
-#, fuzzy
 msgid "Grow/Shrink Screen"
-msgstr "Creix/encongeix la pantalla"
+msgstr "Engrandeix/encongeix la pantalla"
 
 #: ../src/actions/actions-transform.cpp:126
-#, fuzzy
 msgid "Grow/shrink selected objects relative to zoom level"
 msgstr ""
-"Augmenta/encongeix els objectes seleccionats en relació amb el nivell de "
-"zoom"
+"Engrandeix/encongeix els objectes seleccionats en relació amb el nivell d'"
+"ampliació"
 
 #: ../src/actions/actions-transform.cpp:127
-#, fuzzy
 msgid "Remove Transforms"
-msgstr "Elimina les transformacions"
+msgstr "Suprimeix les transformacions"
 
 #: ../src/actions/actions-transform.cpp:127
-#, fuzzy
 msgid "Remove any transforms from selected objects"
-msgstr "Elimina qualsevol transformació dels objectes seleccionats"
+msgstr "Suprimeix qualsevol transformació dels objectes seleccionats"
 
 #: ../src/actions/actions-transform.cpp:128
-#, fuzzy
 msgid "Reapply the last transformation to the selection"
 msgstr "Torna a aplicar l'última transformació a la selecció"
 
 #: ../src/actions/actions-transform.cpp:135
-#, fuzzy
 msgid "Enter two comma-separated numbers, e.g. 50,-2.5"
 msgstr "Introduïu dos nombres separats per comes, p. ex. 50,-2.5"
 
 #: ../src/actions/actions-transform.cpp:136
-#, fuzzy
 msgid "Enter angle (in degrees) for clockwise rotation"
 msgstr "Introduïu l'angle (en graus) per al gir en sentit horari"
 
 #: ../src/actions/actions-transform.cpp:137
-#, fuzzy
 msgid "Enter scaling factor, e.g. 1.5"
-msgstr "Introduïu el factor d'escalat, p. ex. 1,5"
+msgstr "Introduïu el factor d'escala, p. ex. 1.5"
 
 #: ../src/actions/actions-transform.cpp:138
-#, fuzzy
 msgid "Enter positive or negative number to grow/shrink selection"
 msgstr ""
-"Introduïu un nombre positiu o negatiu per a fer créixer/encongir la selecció"
+"Introduïu un nombre positiu o negatiu per a engrandir/encongir la selecció"
 
 #: ../src/actions/actions-transform.cpp:139
-#, fuzzy
 msgid ""
 "Enter positive or negative number to grow or shrink selection relative to "
 "preference step value"
 msgstr ""
-"Introduïu el nombre positiu o negatiu per a fer créixer o encongir la "
-"selecció en relació amb el valor del pas de les preferències"
+"Introduïu un nombre positiu o negatiu per a engrandir o encongir la "
+"selecció en relació amb un valor de pas establit"
 
 #: ../src/actions/actions-transform.cpp:140
-#, fuzzy
 msgid ""
 "Enter positive or negative number to grow or shrink selection relative to "
 "zoom level"
 msgstr ""
-"Introduïu el nombre positiu o negatiu per a fer créixer o reduir la selecció"
-" en relació amb el nivell de zoom"
+"Introduïu un nombre positiu o negatiu per a engrandir o encongir la selecció"
+" en relació amb el nivell d'ampliació"
 
 #. TRANSLATORS: Please don't translate link unless the page exists in your
 #. language. Add your language code to
@@ -1541,11 +1360,10 @@ msgid ""
 "The tutorials can also be found online at https://inkscape.org/en/learn/tutorials/"
 msgstr ""
 "Els fitxers del tutorial no s'han instal·lat.\n"
-"A Linux, potser heu d'instal·lar «inkscape-tutorials»; a Windows, si us plau, executeu de nou la instal·lació i seleccioneu «Tutorials».\n"
+"A Linux, potser heu d'instal·lar «inkscape-tutorials»; a Windows, executeu de nou la instal·lació i seleccioneu «Tutorials».\n"
 "Podeu trobar els tutorials en línia a https://inkscape.org/en/learn/tutorials/"
 
 #: ../src/actions/actions-tutorial.cpp:60
-#, fuzzy
 msgid "Inkscape: Basic"
 msgstr "Inkscape: bàsic"
 
@@ -1554,7 +1372,6 @@ msgid "Getting started with Inkscape"
 msgstr "Començar amb Inkscape"
 
 #: ../src/actions/actions-tutorial.cpp:61
-#, fuzzy
 msgid "Inkscape: Shapes"
 msgstr "Inkscape: formes"
 
@@ -1563,7 +1380,6 @@ msgid "Using shape tools to create and edit shapes"
 msgstr "Fer servir les eines de formes per a crear i editar formes"
 
 #: ../src/actions/actions-tutorial.cpp:62
-#, fuzzy
 msgid "Inkscape: Advanced"
 msgstr "Inkscape: avançat"
 
@@ -1572,42 +1388,38 @@ msgid "Advanced Inkscape topics"
 msgstr "Temes avançats de l'Inkscape"
 
 #: ../src/actions/actions-tutorial.cpp:63
-#, fuzzy
 msgid "Inkscape: Tracing"
 msgstr "Inkscape: traçat"
 
 #: ../src/actions/actions-tutorial.cpp:63
 msgid "Using bitmap tracing"
-msgstr "Fes servir la vectorització de mapes de bits"
+msgstr "Fer servir la vectorització de mapes de bits"
 
 #: ../src/actions/actions-tutorial.cpp:64 ../share/ui/menus.ui:1254
 msgid "Inkscape: Tracing Pixel Art"
-msgstr "Inkscape: vectoritzar píxel art"
+msgstr "Inkscape: vectoritzar art píxel"
 
 #: ../src/actions/actions-tutorial.cpp:64
 msgid "Using Trace Pixel Art dialog"
-msgstr "Utilitzar el diàleg de vectorització de píxel art"
+msgstr "Fer servir el diàleg de vectorització d'art píxel"
 
 #: ../src/actions/actions-tutorial.cpp:65
-#, fuzzy
 msgid "Inkscape: Calligraphy"
 msgstr "Inkscape: cal·ligrafia"
 
 #: ../src/actions/actions-tutorial.cpp:65
 msgid "Using the Calligraphy pen tool"
-msgstr "Fes servir l'eina de la ploma cal·ligràfica"
+msgstr "Fer servir l'eina de la ploma cal·ligràfica"
 
 #: ../src/actions/actions-tutorial.cpp:66
-#, fuzzy
 msgid "Inkscape: Interpolate"
 msgstr "Inkscape: interpola"
 
 #: ../src/actions/actions-tutorial.cpp:66
 msgid "Using the interpolate extension"
-msgstr "Utilitza l'extensió d'interpolació"
+msgstr "Fer servir l'extensió d'interpolació"
 
 #: ../src/actions/actions-tutorial.cpp:67
-#, fuzzy
 msgid "Elements of Design"
 msgstr "Elements de disseny"
 
@@ -1616,7 +1428,6 @@ msgid "Principles of design in the tutorial form"
 msgstr "Tutorial sobre principis del disseny"
 
 #: ../src/actions/actions-tutorial.cpp:68
-#, fuzzy
 msgid "Tips and Tricks"
 msgstr "Consells i trucs"
 
@@ -1625,7 +1436,6 @@ msgid "Miscellaneous tips and tricks"
 msgstr "Alguns consells i trucs"
 
 #: ../src/actions/actions-tutorial.cpp:69
-#, fuzzy
 msgid "About Inkscape"
 msgstr "Quant a l'Inkscape"
 
@@ -1634,7 +1444,6 @@ msgid "Inkscape version, authors, license"
 msgstr "Versió de l'Inkscape, autors, llicència"
 
 #: ../src/actions/actions-undo-document.cpp:95
-#, fuzzy
 msgid "Undo"
 msgstr "Desfés"
 
@@ -1643,7 +1452,6 @@ msgid "Undo last action"
 msgstr "Desfés l'última acció"
 
 #: ../src/actions/actions-undo-document.cpp:96
-#, fuzzy
 msgid "Redo"
 msgstr "Refés"
 
@@ -1652,7 +1460,6 @@ msgid "Do again the last undone action"
 msgstr "Torna a fer la darrera acció desfeta"
 
 #: ../src/actions/actions-view-mode.cpp:265
-#, fuzzy
 msgid "Commands Bar"
 msgstr "Barra d'ordres"
 
@@ -1661,25 +1468,22 @@ msgid "Show or hide the Commands bar (under the menu)"
 msgstr "Mostra o amaga la barra d'ordres (sota el menú)"
 
 #: ../src/actions/actions-view-mode.cpp:266
-#, fuzzy
 msgid "Snap Controls Bar"
-msgstr "Barra de controls d'ajust"
+msgstr "Barra de controls d'ajustament"
 
 #: ../src/actions/actions-view-mode.cpp:266
 msgid "Show or hide the snapping controls"
 msgstr "Mostra o amaga els controls d'ajustament"
 
 #: ../src/actions/actions-view-mode.cpp:267
-#, fuzzy
 msgid "Tool Controls Bar"
-msgstr "Barra de controls d'eina"
+msgstr "Barra de controls d'eines"
 
 #: ../src/actions/actions-view-mode.cpp:267
 msgid "Show or hide the Tool Controls bar"
 msgstr "Mostra o amaga la barra de controls d'eines"
 
 #: ../src/actions/actions-view-mode.cpp:268
-#, fuzzy
 msgid "Toolbox"
 msgstr "Caixa d'eines"
 
@@ -1688,7 +1492,6 @@ msgid "Show or hide the main toolbox (on the left)"
 msgstr "Mostra o amaga la caixa d'eines principal (a l'esquerra)"
 
 #: ../src/actions/actions-view-mode.cpp:269
-#, fuzzy
 msgid "Rulers"
 msgstr "Regles"
 
@@ -1697,7 +1500,6 @@ msgid "Show or hide the canvas rulers"
 msgstr "Mostra o oculta els regles del llenç"
 
 #: ../src/actions/actions-view-mode.cpp:270
-#, fuzzy
 msgid "Scroll bars"
 msgstr "Barres de desplaçament"
 
@@ -1715,7 +1517,6 @@ msgid "Show or hide the color palette"
 msgstr "Mostra o amaga la paleta de color"
 
 #: ../src/actions/actions-view-mode.cpp:272
-#, fuzzy
 msgid "Statusbar"
 msgstr "Barra d'estat"
 
@@ -1725,50 +1526,43 @@ msgstr "Mostra o amaga la barra d'estat (a la part inferior de la finestra)"
 
 #: ../src/actions/actions-view-mode.cpp:274
 #: ../src/ui/dialog/inkscape-preferences.cpp:2188
-#, fuzzy
 msgid "Command Palette"
 msgstr "Paleta d'ordres"
 
 #: ../src/actions/actions-view-mode.cpp:274
-#, fuzzy
 msgid "Show or hide the on-canvas command palette"
-msgstr "Mostra o oculta la paleta d'ordres al llenç"
+msgstr "Mostra o oculta la paleta d'ordres del llenç"
 
 #: ../src/actions/actions-view-mode.cpp:275
-#, fuzzy
 msgid "Fullscreen"
 msgstr "Pantalla completa"
 
 #: ../src/actions/actions-view-mode.cpp:275
 #: ../src/actions/actions-view-mode.cpp:277
 msgid "Stretch this document window to full screen"
-msgstr "Ajusta a la finestra del document a pantalla completa"
+msgstr "Ajusta la finestra del document a pantalla completa"
 
 #: ../src/actions/actions-view-mode.cpp:277
 msgid "Fullscreen & Focus Mode"
 msgstr "Mode de pantalla completa i focus"
 
 #: ../src/actions/actions-view-mode.cpp:278
-#, fuzzy
 msgid "Focus Mode"
-msgstr "Mode de l'enfocament"
+msgstr "Mode de focus"
 
 #: ../src/actions/actions-view-mode.cpp:278
 msgid "Remove excess toolbars to focus on drawing"
-msgstr "Suprimeix l'excés de barres d'eines per a centrar-se amb el dibuix"
+msgstr "Suprimeix l'excés de barres d'eines per a centrar-se en el dibuix"
 
 #: ../src/actions/actions-view-mode.cpp:280
-#, fuzzy
 msgid "Interface Mode"
 msgstr "Mode de la interfície"
 
 #: ../src/actions/actions-view-mode.cpp:280
-#, fuzzy
 msgid "Toggle wide or narrow screen setup"
 msgstr "Commuta la configuració de pantalla ampla o estreta"
 
 #: ../src/actions/actions-view-window.cpp:48
-#, fuzzy
 msgid "Duplicate Window"
 msgstr "Duplica la finestra"
 
@@ -1777,79 +1571,66 @@ msgid "Open a new window with the same document"
 msgstr "Obre una nova finestra amb el mateix document"
 
 #: ../src/actions/actions-view-window.cpp:49
-#, fuzzy
 msgid "Previous Window"
 msgstr "Finestra anterior"
 
 #: ../src/actions/actions-view-window.cpp:49
 msgid "Switch to the previous document window"
-msgstr "Commuta a la finestra del document anterior"
+msgstr "Commuta a la finestra anterior del document"
 
 #: ../src/actions/actions-view-window.cpp:50
-#, fuzzy
 msgid "Next Window"
 msgstr "Finestra següent"
 
 #: ../src/actions/actions-view-window.cpp:50
 msgid "Switch to the next document window"
-msgstr "Commuta a la finestra del document següent"
+msgstr "Commuta a la finestra següent del document"
 
 #: ../src/actions/actions-window.cpp:102
-#, fuzzy
 msgid "Enter comma-separated string for x, y, width, height"
 msgstr "Introduïu una cadena separada per comes per a x, y, amplada, alçada"
 
 #: ../src/actions/actions-window.cpp:109
-#, fuzzy
 msgid "Window Open"
-msgstr "Finestra oberta"
+msgstr "Obre una finestra"
 
 #: ../src/actions/actions-window.cpp:109
-#, fuzzy
 msgid "Open a window for the active document; GUI only"
-msgstr "Obre una finestra només per a la IGU del document actiu"
+msgstr "Obre una finestra per al document actiu; només GUI"
 
 #: ../src/actions/actions-window.cpp:110
-#, fuzzy
 msgid "Window Close"
 msgstr "Tanca la finestra"
 
 #: ../src/actions/actions-window.cpp:110
-#, fuzzy
 msgid "Close the active window, does not check for data loss"
 msgstr "Tanca la finestra activa, no comprova si hi ha pèrdua de dades"
 
 #: ../src/actions/actions-window.cpp:111
-#, fuzzy
 msgid "Window Query Geometry"
-msgstr "Geometria de la consulta de la finestra"
+msgstr "Consulta la geometria de la finestra"
 
 #: ../src/actions/actions-window.cpp:111
-#, fuzzy
 msgid "Query the active window's location and size"
 msgstr "Consulta la ubicació i la mida de la finestra activa"
 
 #: ../src/actions/actions-window.cpp:112
-#, fuzzy
 msgid "Window Set Geometry"
-msgstr "Geometria de conjunt de finestres"
+msgstr "Estableix la geometria de la finestra"
 
 #: ../src/actions/actions-window.cpp:112
-#, fuzzy
 msgid "Set the active window's location and size (x, y, width, height)"
 msgstr ""
 "Estableix la ubicació i la mida de la finestra activa (x, y, amplada, "
 "alçada)"
 
 #: ../src/actions/actions-window.cpp:113
-#, fuzzy
 msgid "Force Crash"
 msgstr "Força la fallada"
 
 #: ../src/actions/actions-window.cpp:113
-#, fuzzy
 msgid "Force Inkscape to crash, useful for testing."
-msgstr "Força que l'Inkscape s'estavelli, útil per a les proves."
+msgstr "Força que l'Inkscape s'estavelli, útil per a fer proves."
 
 #: ../src/auto-save.cpp:151
 msgid "Autosave failed! Could not find inkscape extension to save document."
